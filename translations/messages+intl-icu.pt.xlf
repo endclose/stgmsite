@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file source-language="en" target-language="pt" datatype="plaintext" original="file.ext">
+    <header>
+      <tool tool-id="symfony" tool-name="Symfony"/>
+    </header>
+    <body>
+      <trans-unit id="OnhpU4i" resname="Home">
+        <source>Home</source>
+        <target>Começo</target>
+      </trans-unit>
+      <trans-unit id="tLWAqa2" resname="About us">
+        <source>About us</source>
+        <target>__About us</target>
+      </trans-unit>
+      <trans-unit id="TtyL_vx" resname="Products">
+        <source>Products</source>
+        <target>__Products</target>
+      </trans-unit>
+      <trans-unit id="XWy2rUL" resname="Geology Products">
+        <source>Geology Products</source>
+        <target>__Geology Products</target>
+      </trans-unit>
+      <trans-unit id="5ZWNrdy" resname="Sample Preparation">
+        <source>Sample Preparation</source>
+        <target>__Sample Preparation</target>
+      </trans-unit>
+      <trans-unit id="Gw02DUy" resname="Fire Assay Products">
+        <source>Fire Assay Products</source>
+        <target>__Fire Assay Products</target>
+      </trans-unit>
+      <trans-unit id="9QjGNWc" resname="Lab Equipment">
+        <source>Lab Equipment</source>
+        <target>__Lab Equipment</target>
+      </trans-unit>
+      <trans-unit id="qBsrrR8" resname="Instruments">
+        <source>Instruments</source>
+        <target>__Instruments</target>
+      </trans-unit>
+      <trans-unit id="n5ooQlt" resname="Metallurgical Products">
+        <source>Metallurgical Products</source>
+        <target>__Metallurgical Products</target>
+      </trans-unit>
+      <trans-unit id="UAp1x8." resname="Chemical Reagents">
+        <source>Chemical Reagents</source>
+        <target>__Chemical Reagents</target>
+      </trans-unit>
+      <trans-unit id="GjZGPHL" resname="Reference Materials">
+        <source>Reference Materials</source>
+        <target>__Reference Materials</target>
+      </trans-unit>
+      <trans-unit id="E9.XIVU" resname="Safety Products">
+        <source>Safety Products</source>
+        <target>__Safety Products</target>
+      </trans-unit>
+      <trans-unit id="XatQK.u" resname="Partners">
+        <source>Partners</source>
+        <target>__Partners</target>
+      </trans-unit>
+      <trans-unit id="YE3ORF4" resname="Services">
+        <source>Services</source>
+        <target>__Services</target>
+      </trans-unit>
+      <trans-unit id="R6rzG4P" resname="Contact us">
+        <source>Contact us</source>
+        <target>__Contact us</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>
