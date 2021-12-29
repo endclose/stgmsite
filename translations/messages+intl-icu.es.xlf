@@ -47,23 +47,23 @@
       </trans-unit>
       <trans-unit id="GjZGPHL" resname="Reference Materials">
         <source>Reference Materials</source>
-        <target>__Reference Materials</target>
+        <target>Materiales de Referencia</target>
       </trans-unit>
       <trans-unit id="E9.XIVU" resname="Safety Products">
         <source>Safety Products</source>
-        <target>__Safety Products</target>
+        <target>Productos de Seguridad</target>
       </trans-unit>
       <trans-unit id="XatQK.u" resname="Partners">
         <source>Partners</source>
-        <target>__Partners</target>
+        <target>Socios Comerciales</target>
       </trans-unit>
       <trans-unit id="YE3ORF4" resname="Services">
         <source>Services</source>
-        <target>__Services</target>
+        <target>Servicios</target>
       </trans-unit>
       <trans-unit id="R6rzG4P" resname="Contact us">
         <source>Contact us</source>
-        <target>__Contact us</target>
+        <target>Cont&aacute;ctanos</target>
       </trans-unit>
     </body>
   </file>
