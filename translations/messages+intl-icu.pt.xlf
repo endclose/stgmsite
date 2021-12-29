@@ -11,59 +11,59 @@
       </trans-unit>
       <trans-unit id="tLWAqa2" resname="About us">
         <source>About us</source>
-        <target>__About us</target>
+        <target>Nos Conohce</target>
       </trans-unit>
       <trans-unit id="TtyL_vx" resname="Products">
         <source>Products</source>
-        <target>__Products</target>
+        <target>Produtos</target>
       </trans-unit>
       <trans-unit id="XWy2rUL" resname="Geology Products">
         <source>Geology Products</source>
-        <target>__Geology Products</target>
+        <target>Produtos de Geologia</target>
       </trans-unit>
       <trans-unit id="5ZWNrdy" resname="Sample Preparation">
         <source>Sample Preparation</source>
-        <target>__Sample Preparation</target>
+        <target>Preparação de Amostra</target>
       </trans-unit>
       <trans-unit id="Gw02DUy" resname="Fire Assay Products">
         <source>Fire Assay Products</source>
-        <target>__Fire Assay Products</target>
+        <target>Produtos de Teste de Fogo</target>
       </trans-unit>
       <trans-unit id="9QjGNWc" resname="Lab Equipment">
         <source>Lab Equipment</source>
-        <target>__Lab Equipment</target>
+        <target>Equipamento de Laboratório</target>
       </trans-unit>
       <trans-unit id="qBsrrR8" resname="Instruments">
         <source>Instruments</source>
-        <target>__Instruments</target>
+        <target>Instrumentos</target>
       </trans-unit>
       <trans-unit id="n5ooQlt" resname="Metallurgical Products">
         <source>Metallurgical Products</source>
-        <target>__Metallurgical Products</target>
+        <target>Produtos de Metalurgia</target>
       </trans-unit>
       <trans-unit id="UAp1x8." resname="Chemical Reagents">
         <source>Chemical Reagents</source>
-        <target>__Chemical Reagents</target>
+        <target>Reagentes Químicos</target>
       </trans-unit>
       <trans-unit id="GjZGPHL" resname="Reference Materials">
         <source>Reference Materials</source>
-        <target>__Reference Materials</target>
+        <target>Materiais de Referência</target>
       </trans-unit>
       <trans-unit id="E9.XIVU" resname="Safety Products">
         <source>Safety Products</source>
-        <target>__Safety Products</target>
+        <target>Produtos de segurança</target>
       </trans-unit>
       <trans-unit id="XatQK.u" resname="Partners">
         <source>Partners</source>
-        <target>__Partners</target>
+        <target>Parceiros de negócios</target>
       </trans-unit>
       <trans-unit id="YE3ORF4" resname="Services">
         <source>Services</source>
-        <target>__Services</target>
+        <target>Serviços</target>
       </trans-unit>
       <trans-unit id="R6rzG4P" resname="Contact us">
         <source>Contact us</source>
-        <target>__Contact us</target>
+        <target>Contate-Nos</target>
       </trans-unit>
     </body>
   </file>
