@@ -65,6 +65,450 @@
         <source>Contact us</source>
         <target>Contact us</target>
       </trans-unit>
+      <trans-unit id="wr2m.WB" resname="CONTACTO">
+        <source>CONTACTO</source>
+        <target>CONTACT</target>
+      </trans-unit>
+      <trans-unit id="mUPleYM" resname="973 3rd St W, North Vancouver, BC V7P 1E4, Canad&amp;aacute;">
+        <source>973 3rd St W, North Vancouver, BC V7P 1E4, Canad&amp;aacute;</source>
+        <target>973 3rd St W, North Vancouver, BC V7P 1E4, Canada</target>
+      </trans-unit>
+      <trans-unit id="aVbTWDs" resname="Derechos Reservados.">
+        <source>Derechos Reservados.</source>
+        <target>All Rights Reserved.</target>
+      </trans-unit>
+      <trans-unit id="DuLmCgb" resname="Socios Comerciales">
+        <source>Socios Comerciales</source>
+        <target>Partners</target>
+      </trans-unit>
+      <trans-unit id="WPzJRo." resname="Inicio">
+        <source>Inicio</source>
+        <target>Home</target>
+      </trans-unit>
+      <trans-unit id="YEEzIKK" resname="Avantu Water">
+        <source>Avantu Water</source>
+        <target>Avantu Water</target>
+      </trans-unit>
+      <trans-unit id="hUuMZ5U" resname="Empresa Canadiense Con Soluciones Biol&amp;oacute;gicas">
+        <source>Empresa Canadiense Con Soluciones Biol&amp;oacute;gicas</source>
+        <target>Canadian Company With Biological Solutions</target>
+      </trans-unit>
+      <trans-unit id="7gwlNL1" resname="Avantu se formó en 2020 en Canadá para llevar la magia de las bacterias biológicas aprobadas y seleccionadas científicamente al mercado mundial.">
+        <source>Avantu se formó en 2020 en Canadá para llevar la magia de las bacterias biológicas aprobadas y seleccionadas científicamente al mercado mundial.</source>
+        <target>Avantu was formed in 2020 in Canada to bring the magic of approved scientifically selected bacteria biends to the global market.</target>
+      </trans-unit>
+      <trans-unit id="Yf1jAG3" resname="Sus raíces están en África, donde su cofundador, Lohmann Beams, descubrió el poder de las bacterias beneficiosas.">
+        <source>Sus raíces están en África, donde su cofundador, Lohmann Beams, descubrió el poder de las bacterias beneficiosas.</source>
+        <target>Our roots are in Africa, where our co-founder, Lohmann Beams discovered the power of good bacteria.</target>
+      </trans-unit>
+      <trans-unit id=".jwo82d" resname="VISITAR P&amp;Aacute;GINA">
+        <source>VISITAR P&amp;Aacute;GINA</source>
+        <target>VISIT PAGE</target>
+      </trans-unit>
+      <trans-unit id="YmpYinv" resname="CDN Resource Laboratories">
+        <source>CDN Resource Laboratories</source>
+        <target>CDN Resource Laboratories</target>
+      </trans-unit>
+      <trans-unit id="LpsRWtF" resname="Empresa Canadiense Dedicada a Materiales de Referencia Certificados.">
+        <source>Empresa Canadiense Dedicada a Materiales de Referencia Certificados.</source>
+        <target>Canadian Company Dedicated to Certified Reference Materials.</target>
+      </trans-unit>
+      <trans-unit id="4_EMl0T" resname="Es uno de los principales proveedores de materiales de referenia de calidad, listos para usar en la industria minera.">
+        <source>Es uno de los principales proveedores de materiales de referenia de calidad, listos para usar en la industria minera.</source>
+        <target>It is one of the leading providers of quality, ready-to-use reference materials in the mining industry.</target>
+      </trans-unit>
+      <trans-unit id="b4cwGMM" resname="Ofrece a sus clientes una amplia selecci&amp;oacute;n de materiales de referencia de ensayo, as&amp;iacute; como la preparaci&amp;oacute;n de est&amp;aacute;ndares personalizados a pedido.">
+        <source>Ofrece a sus clientes una amplia selecci&amp;oacute;n de materiales de referencia de ensayo, as&amp;iacute; como la preparaci&amp;oacute;n de est&amp;aacute;ndares personalizados a pedido.</source>
+        <target>It offers its clients a wide selection of test reference materials as well. such as the preparation of custom standards upon request.</target>
+      </trans-unit>
+      <trans-unit id="xLfHgyv" resname="ColdBlock Technologies Inc.">
+        <source>ColdBlock Technologies Inc.</source>
+        <target>ColdBlock Technologies Inc.</target>
+      </trans-unit>
+      <trans-unit id="drbVFPC" resname="Sistemas de Digesti&amp;oacute;n Autom&amp;aacute;ticos de Fabricaci&amp;oacute;n Canadiense.">
+        <source>Sistemas de Digesti&amp;oacute;n Autom&amp;aacute;ticos de Fabricaci&amp;oacute;n Canadiense.</source>
+        <target>Canadian Made Automatic Digestion Systems</target>
+      </trans-unit>
+      <trans-unit id="2IDp_Qx" resname="Ofrece tecnolog&amp;iacute;a de digesti&amp;oacute;n de muestras para preparar muestras para an&amp;aacute;lisis m&amp;aacute;s r&amp;aacute;pido, con mayor precisi&amp;oacute;n y seguridad mejorada.">
+        <source>Ofrece tecnolog&amp;iacute;a de digesti&amp;oacute;n de muestras para preparar muestras para an&amp;aacute;lisis m&amp;aacute;s r&amp;aacute;pido, con mayor precisi&amp;oacute;n y seguridad mejorada.</source>
+        <target>Delivers sample digestion technology to prepare samples for analysis faster, with greater precision and improved safety.</target>
+      </trans-unit>
+      <trans-unit id="IIAhu3Q" resname="La tecnolog&amp;iacute;a probada de ColdBlock est&amp;aacute; disponible en m&amp;uacute;ltiples plataformas que se pueden incorporar en pr&amp;aacute;cticamente &#10;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;cualquier entorno de laboratorio de qu&amp;iacute;mica h&amp;uacute;meda est&amp;aacute;ndar.">
+        <source>La tecnolog&amp;iacute;a probada de ColdBlock est&amp;aacute; disponible en m&amp;uacute;ltiples plataformas que se pueden incorporar en pr&amp;aacute;cticamente 
+									cualquier entorno de laboratorio de qu&amp;iacute;mica h&amp;uacute;meda est&amp;aacute;ndar.</source>
+        <target>Proven technology is available in multiple platforms that can be incorporated into virtually any standard wet-chem laboratory setting.</target>
+      </trans-unit>
+      <trans-unit id="dB0C7ko" resname="Furnace and Assay">
+        <source>Furnace and Assay</source>
+        <target>Furnace and Assay</target>
+      </trans-unit>
+      <trans-unit id="lEf_chG" resname="Empresa Australiana Productora de Hornos de Secado, Fusi&amp;oacute;n y Copelaci&amp;oacute;n">
+        <source>Empresa Australiana Productora de Hornos de Secado, Fusi&amp;oacute;n y Copelaci&amp;oacute;n</source>
+        <target>Australian Company Producer of Drying, Melting and Cupellation Furnaces.</target>
+      </trans-unit>
+      <trans-unit id="vAtfA0r" resname="Se estableci&amp;oacute; en 2007 con el objetivo de crear una empresa de fabricaci&amp;oacute;n de equipos de ensayo de fuego con un enfoque incomparable en la calidad y el servicio al cliente">
+        <source>Se estableci&amp;oacute; en 2007 con el objetivo de crear una empresa de fabricaci&amp;oacute;n de equipos de ensayo de fuego con un enfoque incomparable en la calidad y el servicio al cliente</source>
+        <target>Was established in 2007 with a goal to create a fire assay equipment manufacturing company with an unparalleled focus on quality and customer service.</target>
+      </trans-unit>
+      <trans-unit id="SYDrEvf" resname="Furnace and Assay lidera la industria con sus servicios técnicos y de mantenimiento.">
+        <source>Furnace and Assay lidera la industria con sus servicios técnicos y de mantenimiento.</source>
+        <target>Furnace and Assay lead the industry with their Technical and Maintenance services.</target>
+      </trans-unit>
+      <trans-unit id="M.Qpl35" resname="Morgan Advanced Materials">
+        <source>Morgan Advanced Materials</source>
+        <target>Morgan Advanced Materials</target>
+      </trans-unit>
+      <trans-unit id="bfe3z1D" resname="Hornos de Secado, Fusi&amp;oacute;n y Copelaci&amp;oacute;n de Fabricaci&amp;oacute;n Australiana.">
+        <source>Hornos de Secado, Fusi&amp;oacute;n y Copelaci&amp;oacute;n de Fabricaci&amp;oacute;n Australiana.</source>
+        <target>Australian Manufactured Drying, Melting and Cupellation Furnaces.</target>
+      </trans-unit>
+      <trans-unit id="qkRKiti" resname="En 1856, los hermanos Morgan fundaron la Patent Plumbago Crucible Company, &#10;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;que fabricaba crisoles en una pequeña fábrica en Battersea, Londres.">
+        <source>En 1856, los hermanos Morgan fundaron la Patent Plumbago Crucible Company, 
+									que fabricaba crisoles en una pequeña fábrica en Battersea, Londres.</source>
+        <target>In 1856 the Morgan brothers founded the Patent Plumbago Crucible Company, making crucibles in a small factory in Battersea, London.</target>
+      </trans-unit>
+      <trans-unit id="_aWXkVg" resname="El éxito de la empresa se debió al uso de grafito (plumbago) en la mezcla de arcilla para producir un crisol &#10;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;que fundía el metal más rápido y duraba más que cualquier otra cosa disponible en Europa en ese momento.">
+        <source>El éxito de la empresa se debió al uso de grafito (plumbago) en la mezcla de arcilla para producir un crisol 
+									que fundía el metal más rápido y duraba más que cualquier otra cosa disponible en Europa en ese momento.</source>
+        <target>The company’s success came from their use of graphite (plumbago) in the clay mix to produce a crucible that melted metal faster and lasted longer than anything else available in Europe at the time.</target>
+      </trans-unit>
+      <trans-unit id="dz.2phB" resname="Prolite Systems Inc">
+        <source>Prolite Systems Inc</source>
+        <target>Prolite Systems Inc</target>
+      </trans-unit>
+      <trans-unit id="EIgUzEl" resname="Equipamiento de Laboratorio">
+        <source>Equipamiento de Laboratorio</source>
+        <target>Laboratory Equipment</target>
+      </trans-unit>
+      <trans-unit id="e8_lapD" resname="Es un fabricados internacional canadiense y distribuidor de todo tipo de sistemas de tuber&amp;iacute;s termopl&amp;aacute;sticas (HDPE, PP, PVC, CPVC ECT.) &#10;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;para proyectos industriales y municipales.">
+        <source>Es un fabricados internacional canadiense y distribuidor de todo tipo de sistemas de tuber&amp;iacute;s termopl&amp;aacute;sticas (HDPE, PP, PVC, CPVC ECT.) 
+									para proyectos industriales y municipales.</source>
+        <target>It is a Canadian international manufacturer and distributor of all types of thermoplastic piping systems.(HDPE, PP, PVC, CPVC ECT.) for industrial and municipal projects.</target>
+      </trans-unit>
+      <trans-unit id="LXeclLO" resname="PPSI tambi&amp;eacute;n tiene servicios de uni&amp;oacute;n de campo para todos nuestros productos.">
+        <source>PPSI tambi&amp;eacute;n tiene servicios de uni&amp;oacute;n de campo para todos nuestros productos.</source>
+        <target>PPSI It also has field bonding services for all of our products.</target>
+      </trans-unit>
+      <trans-unit id="OiCSZhR" resname="Rocklabs">
+        <source>Rocklabs</source>
+        <target>Rocklabs</target>
+      </trans-unit>
+      <trans-unit id="FpRh6cv" resname="Productos Dise&amp;ntilde;ados y Fabricados en Nueva Zelanda">
+        <source>Productos Dise&amp;ntilde;ados y Fabricados en Nueva Zelanda</source>
+        <target>Products Designed and Manufactured in New Zealand</target>
+      </trans-unit>
+      <trans-unit id="W53d2Q9" resname="Rocklabs es una marca reconocida, bajo el sello de Scott Technologies; ofrecen soluciones rob&amp;oacute;ticas y de automatizaci&amp;oacute;n inteligente.">
+        <source>Rocklabs es una marca reconocida, bajo el sello de Scott Technologies; ofrecen soluciones rob&amp;oacute;ticas y de automatizaci&amp;oacute;n inteligente.</source>
+        <target>Rocklabs is a recognized brand, under the Scott Technologies seal; offer robotic and intelligent automation solutions.</target>
+      </trans-unit>
+      <trans-unit id="jjBFLiE" resname="Se estableci&amp;oacute; en 1969 como un laboratorio comercial, especializado en an&amp;aacute;lisis geoqu&amp;iacute;mico y ensayos de fuego.">
+        <source>Se estableci&amp;oacute; en 1969 como un laboratorio comercial, especializado en an&amp;aacute;lisis geoqu&amp;iacute;mico y ensayos de fuego.</source>
+        <target>Was established in 1969 as a commercial laboratory, specialising in geochemical analysis and fire assaying.</target>
+      </trans-unit>
+      <trans-unit id="88S.DkT" resname="Desde entonces, Rocklabs ha sido un innovador global en el campo de los equipos ded preparaci&amp;oacute;n de muestras, una amplia variedad">
+        <source>Desde entonces, Rocklabs ha sido un innovador global en el campo de los equipos ded preparaci&amp;oacute;n de muestras, una amplia variedad</source>
+        <target>Since then, Rocklabs has been a global innovator in the sample preparation equipment field, supplying a wide variety</target>
+      </trans-unit>
+      <trans-unit id="v0HSURZ" resname="de equipos para la extracci&amp;oacute;n de oro, plata, platino, hierro y paladio.">
+        <source>de equipos para la extracci&amp;oacute;n de oro, plata, platino, hierro y paladio.</source>
+        <target>of equipment for the mining of gold, silver, platinum, iron and palladium.</target>
+      </trans-unit>
+      <trans-unit id="XYxxq8U" resname="About Us">
+        <source>About Us</source>
+        <target>About Us</target>
+      </trans-unit>
+      <trans-unit id="r05dU0B" resname="Conocenos">
+        <source>Conocenos</source>
+        <target>About Us</target>
+      </trans-unit>
+      <trans-unit id="RAkRtJQ" resname="Nuestra Empresa">
+        <source>Nuestra Empresa</source>
+        <target>Our Business</target>
+      </trans-unit>
+      <trans-unit id="CBtMiyo" resname="La satisfacción del cliente es el núcleo de la &#10;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;filosofía de STG Mining y nuestro experimentado personal internacional se esfuerza por hacer su vida un poco más fácil &#10;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;simplificando las necesidades de su laboratorio.">
+        <source>La satisfacción del cliente es el núcleo de la 
+									filosofía de STG Mining y nuestro experimentado personal internacional se esfuerza por hacer su vida un poco más fácil 
+									simplificando las necesidades de su laboratorio.</source>
+        <target>We pride ourselves on building strong partnerships in the mining sector that lead to lasting relationships with our clients. We do this by providing tailor made services to our globally based clients.</target>
+      </trans-unit>
+      <trans-unit id="QPGMbvr" resname="Nuestra Misi&amp;oacute;n">
+        <source>Nuestra Misi&amp;oacute;n</source>
+        <target>Our Mission</target>
+      </trans-unit>
+      <trans-unit id="Yr2ktUY" resname="Como una pequeña empresa con presencia global, nuestros clientes son lo que realmente importa.">
+        <source>Como una pequeña empresa con presencia global, nuestros clientes son lo que realmente importa.</source>
+        <target>As a small business with a global presence, our customers are what really matter.</target>
+      </trans-unit>
+      <trans-unit id="1c25VtE" resname="Nos esforzamos por brindar continuamente un servicio honesto y confiable, combinado con los mejores productos para satisfacer las necesidades &#10;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;específicas de nuestros clientes. Estamos aquí para usted y valoramos su colaboración y asociación. Su éxito, es nuestro éxito.">
+        <source>Nos esforzamos por brindar continuamente un servicio honesto y confiable, combinado con los mejores productos para satisfacer las necesidades 
+									específicas de nuestros clientes. Estamos aquí para usted y valoramos su colaboración y asociación. Su éxito, es nuestro éxito.</source>
+        <target>To provide honest and reliable service combined with best-in-class products to meet our clients’ specific needs. We are here for you.</target>
+      </trans-unit>
+      <trans-unit id="S53Mp_6" resname="Nuestra Visi&amp;oacute;n">
+        <source>Nuestra Visi&amp;oacute;n</source>
+        <target>Our Vision</target>
+      </trans-unit>
+      <trans-unit id="uaOgpNb" resname="Nuestra visi&amp;oacute;n, es convertirnos en un proveedor de confianza de equipos de miner&amp;iacute;a de laboratorios en toda Am&amp;eacute;rica">
+        <source>Nuestra visi&amp;oacute;n, es convertirnos en un proveedor de confianza de equipos de miner&amp;iacute;a de laboratorios en toda Am&amp;eacute;rica</source>
+        <target>Achieve a relationship with our clients as partners that will bring added value to them and our shareholders.</target>
+      </trans-unit>
+      <trans-unit id="OTiHzQL" resname="Conocenos Un Poco M&amp;aacute;s">
+        <source>Conocenos Un Poco M&amp;aacute;s</source>
+        <target>Know Us A Little More</target>
+      </trans-unit>
+      <trans-unit id="dyc.ane" resname="Descarga Nuestro Folleto">
+        <source>Descarga Nuestro Folleto</source>
+        <target>Download Our Pamphlet</target>
+      </trans-unit>
+      <trans-unit id="WgSSN3b" resname="Descargalo Aqu&amp;iacute;">
+        <source>Descargalo Aqu&amp;iacute;</source>
+        <target>Download Here</target>
+      </trans-unit>
+      <trans-unit id="QVfA3bw" resname="Estamos Aqu&amp;iacute; Para Ti">
+        <source>Estamos Aqu&amp;iacute; Para Ti</source>
+        <target>We Are Here For You</target>
+      </trans-unit>
+      <trans-unit id="brEHqQD" resname="Como especialistas en laboratorios de miner&amp;iacute;a">
+        <source>Como especialistas en laboratorios de miner&amp;iacute;a</source>
+        <target>As Mining Laboratory Specialists</target>
+      </trans-unit>
+      <trans-unit id="OehieNL" resname="Brindamos productos y servicios que se adaptan a sus necesidades">
+        <source>Brindamos productos y servicios que se adaptan a sus necesidades</source>
+        <target>We provide products and services that fit your unique needs.</target>
+      </trans-unit>
+      <trans-unit id="XTH8avj" resname="Nos dedicamos a brindar productos de calidad y un excelente servicio al cliente">
+        <source>Nos dedicamos a brindar productos de calidad y un excelente servicio al cliente</source>
+        <target>We are dedicated to providing quality products and excellent client services.</target>
+      </trans-unit>
+      <trans-unit id="GfkgMCn" resname="Hornos de Fuego">
+        <source>Hornos de Fuego</source>
+        <target>Fire Assay</target>
+      </trans-unit>
+      <trans-unit id="MQbowkE" resname="Dise&amp;ntilde;o de Laboratorios">
+        <source>Dise&amp;ntilde;o de Laboratorios</source>
+        <target>Laboratory Design</target>
+      </trans-unit>
+      <trans-unit id="6Yo.UX_" resname="Preparaci&amp;oacute;n de Muestra">
+        <source>Preparaci&amp;oacute;n de Muestra</source>
+        <target>Sample Preparation</target>
+      </trans-unit>
+      <trans-unit id="FkLWsgp" resname="Material de Referencia y Est&amp;aacute;ndares">
+        <source>Material de Referencia y Est&amp;aacute;ndares</source>
+        <target>Reference Materiasl and Standars</target>
+      </trans-unit>
+      <trans-unit id="1WMc4vW" resname="Nuestros Socios Comerciales">
+        <source>Nuestros Socios Comerciales</source>
+        <target>Our Partners</target>
+      </trans-unit>
+      <trans-unit id="Z.Wj8J_" resname="A trav&amp;eacute;s de los a&amp;ntilde;os, nos hemos asociado con distintivas marcas.">
+        <source>A trav&amp;eacute;s de los a&amp;ntilde;os, nos hemos asociado con distintivas marcas.</source>
+        <target>Over the years, we have partnered with leaders in the mining industry.</target>
+      </trans-unit>
+      <trans-unit id="_LvDL51" resname="Avantu">
+        <source>Avantu</source>
+        <target>Avantu</target>
+      </trans-unit>
+      <trans-unit id="aqP3B5s" resname="ColdBlock">
+        <source>ColdBlock</source>
+        <target>ColdBlock</target>
+      </trans-unit>
+      <trans-unit id="A6XZLMC" resname="Furnace and Assays">
+        <source>Furnace and Assays</source>
+        <target>Furnace and Assays</target>
+      </trans-unit>
+      <trans-unit id="N4WBylf" resname="Prolite Systems Inc.">
+        <source>Prolite Systems Inc.</source>
+        <target>Prolite Systems Inc.</target>
+      </trans-unit>
+      <trans-unit id="fOvNXF_" resname="LEER M&amp;Aacute;S">
+        <source>LEER M&amp;Aacute;S</source>
+        <target>READ MORE</target>
+      </trans-unit>
+      <trans-unit id="aKEdolh" resname="Productos de Ensayo de Fuego">
+        <source>Productos de Ensayo de Fuego</source>
+        <target>Fire Assay Products</target>
+      </trans-unit>
+      <trans-unit id="9ZgTjwJ" resname="Productos">
+        <source>Productos</source>
+        <target>Products</target>
+      </trans-unit>
+      <trans-unit id="Wvu2jsi" resname="Crisoles (Morganite y Noltina)">
+        <source>Crisoles (Morganite y Noltina)</source>
+        <target>Crucibles (Morganite and Noltina)</target>
+      </trans-unit>
+      <trans-unit id="GVLAxG9" resname="Crisoles de alto rendimiento y consumibles de fundici&amp;oacute;n para aplicaciones de fusi&amp;oacute;n de metales no ferrosos.">
+        <source>Crisoles de alto rendimiento y consumibles de fundici&amp;oacute;n para aplicaciones de fusi&amp;oacute;n de metales no ferrosos.</source>
+        <target>High-performance crucibles and foundry consumables for non-ferrous metal melting applications.</target>
+      </trans-unit>
+      <trans-unit id="tCVGfpg" resname="Ladrillos Refractarios">
+        <source>Ladrillos Refractarios</source>
+        <target>__Ladrillos Refractarios</target>
+      </trans-unit>
+      <trans-unit id="taw3fZJ" resname="Son fabricados a partir de caolines muy puros,enriquecidos con &#10;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;al&amp;uacute;mina en las versiones cuyas temperaturasde clasificaci&amp;oacute;n son m&amp;aacute;s elevadas.">
+        <source>Son fabricados a partir de caolines muy puros,enriquecidos con 
+													al&amp;uacute;mina en las versiones cuyas temperaturasde clasificaci&amp;oacute;n son m&amp;aacute;s elevadas.</source>
+        <target>They are manufactured from very pure kaolin, enriched with
+													Alumina in versions with higher classification temperatures.</target>
+      </trans-unit>
+      <trans-unit id="ec11pck" resname="Face Seals">
+        <source>Face Seals</source>
+        <target>__Face Seals</target>
+      </trans-unit>
+      <trans-unit id="sg77CmE" resname="Hecho en materiales de cer&amp;aacute;mica, en blanco y negro, vol&amp;uacute;menes desde &amp;uacute;nicos hasta de alto rendimiento, tama&amp;ntilde;os que se &#10;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;adaptan a sus requisitos y se utilizan en aplicaciones en los mercados de procesamiento qu&amp;iacute;mico, &#10;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;industrial, aeroespacial, energ&amp;eacute;tico, m&amp;eacute;dico, etc.">
+        <source>Hecho en materiales de cer&amp;aacute;mica, en blanco y negro, vol&amp;uacute;menes desde &amp;uacute;nicos hasta de alto rendimiento, tama&amp;ntilde;os que se 
+													adaptan a sus requisitos y se utilizan en aplicaciones en los mercados de procesamiento qu&amp;iacute;mico, 
+													industrial, aeroespacial, energ&amp;eacute;tico, m&amp;eacute;dico, etc.</source>
+        <target>Made in ceramic materials, in black and white, volumes from single to high performance, sizes to be
+													tailored to your requirements and used in applications in the chemical processing markets,
+													industrial, aerospace, energy, medical, etc.</target>
+      </trans-unit>
+      <trans-unit id="vIMb664" resname="El 100 Place Cupellation es adecuado para laboratorios grandes, con procesamientos de entre 400 a 1200 muestras por d&amp;iacute;.&#10;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;Trabaja con gas natural, gas licuado de petroleo (L.P.) y Diesel.">
+        <source>El 100 Place Cupellation es adecuado para laboratorios grandes, con procesamientos de entre 400 a 1200 muestras por d&amp;iacute;.
+													Trabaja con gas natural, gas licuado de petroleo (L.P.) y Diesel.</source>
+        <target>The 100 Place Cupellation is suitable for large laboratories, processing 400 to 1200 samples per day.
+													Works with natural gas, liquefied petroleum gas (L.P.) and Diesel.</target>
+      </trans-unit>
+      <trans-unit id="NptSnwn" resname="Este horno tiene un interruptor principal giratorio de encendido/apagado f&amp;aacute;cil de usar.&#10;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;Se calienta mediante 12 elementos montados en las paredes laterales. Es ideal para el funcionamiento continuo.&#10;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;ya que esto prolongar&amp;aacute; la vida de los elementos.">
+        <source>Este horno tiene un interruptor principal giratorio de encendido/apagado f&amp;aacute;cil de usar.
+													Se calienta mediante 12 elementos montados en las paredes laterales. Es ideal para el funcionamiento continuo.
+													ya que esto prolongar&amp;aacute; la vida de los elementos.</source>
+        <target>This oven has an easy-to-use rotary main on / off switch. It is heated by 12 elements mounted on the side walls. It is ideal for continuous operation.
+													as this will prolong the life of the elements.</target>
+      </trans-unit>
+      <trans-unit id="cJNPgM_" resname="Este horno tiene un sistema de doble quemador forzado por ventilador, con sistema de &#10;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;encendido autom&amp;aacute;tico. Se puede cambiar entre GN y GLP (propano) para adaptarse a los diferentes requisitos del sitio, con solo &#10;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;unos pocos ajustes simples realizados en el sitio que implican un mínimo de tiempo de inactividad y costos asociados.">
+        <source>Este horno tiene un sistema de doble quemador forzado por ventilador, con sistema de 
+													encendido autom&amp;aacute;tico. Se puede cambiar entre GN y GLP (propano) para adaptarse a los diferentes requisitos del sitio, con solo 
+													unos pocos ajustes simples realizados en el sitio que implican un mínimo de tiempo de inactividad y costos asociados.</source>
+        <target>This oven has a double-burner system forced by a fan, with a system ofvautomatic ignition. It can be switched between NG and LPG (propane) to suit different site requirements, with just
+													a few simple adjustments made on site that involve minimal downtime and associated costs.</target>
+      </trans-unit>
+      <trans-unit id="YcoKw5F" resname="Tenemos tu soluci&amp;oacute;n">
+        <source>Tenemos tu soluci&amp;oacute;n</source>
+        <target>We Got Your Solution</target>
+      </trans-unit>
+      <trans-unit id="kyHrzgY" resname="COTIZA CON NOSOTROS POR LLAMADA O CORREO ELECTR&amp;Oacute;NICO">
+        <source>COTIZA CON NOSOTROS POR LLAMADA O CORREO ELECTR&amp;Oacute;NICO</source>
+        <target>QUOTE WITH US FOR A CALL OR E-MAIL</target>
+      </trans-unit>
+      <trans-unit id="xtccKis" resname="Productos de Geolog&amp;iacute;a">
+        <source>Productos de Geolog&amp;iacute;a</source>
+        <target>Geology Products</target>
+      </trans-unit>
+      <trans-unit id="iDdeKos" resname="Productos de Golog&amp;iacute;a">
+        <source>Productos de Golog&amp;iacute;a</source>
+        <target>Geology Products</target>
+      </trans-unit>
+      <trans-unit id="01YYFPC" resname="Nombre del Producto">
+        <source>Nombre del Producto</source>
+        <target>Product Name</target>
+      </trans-unit>
+      <trans-unit id="nzGVkAD" resname="Describci&amp;oacute;n breve del producto">
+        <source>Describci&amp;oacute;n breve del producto</source>
+        <target>Describe Product</target>
+      </trans-unit>
+      <trans-unit id="UnRPpCL" resname="Servicios">
+        <source>Servicios</source>
+        <target>Services</target>
+      </trans-unit>
+      <trans-unit id="TtGZD6u" resname="Mantenimiento de Equipo de Laboratorio">
+        <source>Mantenimiento de Equipo de Laboratorio</source>
+        <target>Laboratory Equipment Maintenence</target>
+      </trans-unit>
+      <trans-unit id="uBMmx_1" resname="Trabajamos estrechamente con usted para mantener su equipo en un estado de funcionamiento &amp;oacute;ptimo.">
+        <source>Trabajamos estrechamente con usted para mantener su equipo en un estado de funcionamiento &amp;oacute;ptimo.</source>
+        <target>We work closely with you to maintain your equipment in a state of optimal functioning.</target>
+      </trans-unit>
+      <trans-unit id="9pmq9mG" resname="Proporcionamos inspecciones, pruebas, reemplazos, reinstalaciones, calibraciones, reparaciones &#10;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;y reconstrucciones según sea necesario.">
+        <source>Proporcionamos inspecciones, pruebas, reemplazos, reinstalaciones, calibraciones, reparaciones 
+									y reconstrucciones según sea necesario.</source>
+        <target>We provide onsite inspections, testing, replacement, re-installations, calibrations, repairs and reconstruction as needed.</target>
+      </trans-unit>
+      <trans-unit id="4_ZVzgm" resname="Soporte T&amp;eacute;cnico">
+        <source>Soporte T&amp;eacute;cnico</source>
+        <target>Technical Support</target>
+      </trans-unit>
+      <trans-unit id="fxal5bv" resname="Te ayudamos a optimizar y mejorar el rendimiento de tus productos o servicios tecnol&amp;oacute;gicos, como hardware y software, con un enfoque de prevenci&amp;oacute;n de problemas.">
+        <source>Te ayudamos a optimizar y mejorar el rendimiento de tus productos o servicios tecnol&amp;oacute;gicos, como hardware y software, con un enfoque de prevenci&amp;oacute;n de problemas.</source>
+        <target>We help you optimize and improve the performance of your technological products or services, such as hardware and software, with a problem-prevention approach.</target>
+      </trans-unit>
+      <trans-unit id="5COVvAQ" resname="Buscamos brindarle la mejor orientaci&amp;oacute;n sobre el uso de los sistemas y las correcciones para el mal funcionamiento de los equipos.">
+        <source>Buscamos brindarle la mejor orientaci&amp;oacute;n sobre el uso de los sistemas y las correcciones para el mal funcionamiento de los equipos.</source>
+        <target>We seek to provide you with the best guidance on the use of systems, and corrections for equipment malfunctions.</target>
+      </trans-unit>
+      <trans-unit id="8MN1tSO" resname="&amp;Aacute;rea Ambiental">
+        <source>&amp;Aacute;rea Ambiental</source>
+        <target>Environmental Area</target>
+      </trans-unit>
+      <trans-unit id="Yq.Lo_f" resname="Servicio de Agua Residuales">
+        <source>Servicio de Agua Residuales</source>
+        <target>Waste Water Service</target>
+      </trans-unit>
+      <trans-unit id="HJ4_D_D" resname="Uno de los grandes beneficios del tratamiento de aguas residuales es el de producir en gran medida agua limpia reutilizable y que esté convenientemente disponible para el rehúso.">
+        <source>Uno de los grandes beneficios del tratamiento de aguas residuales es el de producir en gran medida agua limpia reutilizable y que esté convenientemente disponible para el rehúso.</source>
+        <target>One of the great benefits of wastewater treatment is to produce largely clean, reusable water that is conveniently available for reuse.</target>
+      </trans-unit>
+      <trans-unit id="bFqkE6O" resname="Este tipo de tratamiento también es conocido como depuración de las aguas residuales.">
+        <source>Este tipo de tratamiento también es conocido como depuración de las aguas residuales.</source>
+        <target>This type of treatment is also known as wastewater purification.</target>
+      </trans-unit>
+      <trans-unit id="dZ20qw4" resname="Especialistas en Tratamientos de Agua Residuales">
+        <source>Especialistas en Tratamientos de Agua Residuales</source>
+        <target>Waste Water Treatment Specialists</target>
+      </trans-unit>
+      <trans-unit id="hD0_3Be" resname="Acelera la biodegradación del efluente de los procesos de la &#10;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;industria del cerdo (purines) y elimina rápidamente el amoníaco, responsable de los olores nocivos.">
+        <source>Acelera la biodegradación del efluente de los procesos de la 
+												industria del cerdo (purines) y elimina rápidamente el amoníaco, responsable de los olores nocivos.</source>
+        <target>Accelerates the biodegradation of effluent from the processes of the
+												pig industry (slurry) and quickly removes ammonia, responsible for harmful odors.</target>
+      </trans-unit>
+      <trans-unit id=".UKAo0C" resname="Gel de liberación lenta que biodegrada los residuos orgánicos y fecales en &#10;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;todos los sistemas de tratamiento de aguas.">
+        <source>Gel de liberación lenta que biodegrada los residuos orgánicos y fecales en 
+												todos los sistemas de tratamiento de aguas.</source>
+        <target>Slow release gel that biodegrades organic and faecal waste into
+												all water treatment systems.</target>
+      </trans-unit>
+      <trans-unit id="I5rZqqY" resname="La biomasa segrega principalmente grasa mediante la principal enzima para biodegradar &#10;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;grasas y aceites, la lipasa.">
+        <source>La biomasa segrega principalmente grasa mediante la principal enzima para biodegradar 
+												grasas y aceites, la lipasa.</source>
+        <target>Biomass secretes mainly fat through the main enzyme to biodegrade
+												fats and oils, lipase.</target>
+      </trans-unit>
+      <trans-unit id="nb1e3Gw" resname="Un potente biocatalizador de amplio espectro que acelera significativamente la tasa de &#10;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;degradación biológica natural de grasas, aceites y desechos orgánicos hasta 1000 veces.">
+        <source>Un potente biocatalizador de amplio espectro que acelera significativamente la tasa de 
+												degradación biológica natural de grasas, aceites y desechos orgánicos hasta 1000 veces.</source>
+        <target>A powerful broad-spectrum biocatalyst that significantly accelerates the rate of
+												natural biological degradation of fats, oils and organic waste up to 1000 times.</target>
+      </trans-unit>
+      <trans-unit id="02HSH4j" resname="Biodegrada el aceite de hidrocarburos en el agua, suelos, alfombras, pavimentos de ladrillos &#10;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;y es eco-amigable con el medio ambiente para la flora, la fauna, la vida acuática y los animales.">
+        <source>Biodegrada el aceite de hidrocarburos en el agua, suelos, alfombras, pavimentos de ladrillos 
+												y es eco-amigable con el medio ambiente para la flora, la fauna, la vida acuática y los animales.</source>
+        <target>Biodegrades hydrocarbon oil in water, floors, carpets, brick pavements
+												and it is eco-friendly with the environment for flora, fauna, aquatic life and animals.</target>
+      </trans-unit>
+      <trans-unit id="lzTuiSD" resname="Servicio De Agua Residual">
+        <source>Servicio De Agua Residual</source>
+        <target>Waste Water Service</target>
+      </trans-unit>
+      <trans-unit id="h525rI2" resname="Cotiza Con Nosotros">
+        <source>Cotiza Con Nosotros</source>
+        <target>Quote With Us</target>
+      </trans-unit>
+      <trans-unit id="L.Xc_R_" resname="LLAMANOS AL (618) 122-04-44">
+        <source>LLAMANOS AL (618) 122-04-44</source>
+        <target>CALL TO (618) 122-04-44</target>
+      </trans-unit>
+      <trans-unit id="U2oZEIe" resname="Rocklabs es una marca reconocida, bajo el sello de Scott Technologies; ofrecen soluciones rob&amp;oacute;ticas y de automatizaci&amp;oacute;n inteligente.&#10;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;Se estableci&amp;oacute; en 1969 como un laboratorio comercial, especializado en an&amp;aacute;lisis geoqu&amp;iacute;mico y ensayos de fuego.">
+        <source>Rocklabs es una marca reconocida, bajo el sello de Scott Technologies; ofrecen soluciones rob&amp;oacute;ticas y de automatizaci&amp;oacute;n inteligente.
+										Se estableci&amp;oacute; en 1969 como un laboratorio comercial, especializado en an&amp;aacute;lisis geoqu&amp;iacute;mico y ensayos de fuego.</source>
+        <target><![CDATA[__Rocklabs es una marca reconocida, bajo el sello de Scott Technologies; ofrecen soluciones rob&oacute;ticas y de automatizaci&oacute;n inteligente.
+										Se estableci&oacute; en 1969 como un laboratorio comercial, especializado en an&aacute;lisis geoqu&iacute;mico y ensayos de fuego.]]></target>
+      </trans-unit>
+      <trans-unit id="9zWnFcf" resname="Desde entonces, Rocklabs ha sido un innovador global en el campo de los equipos ded preparaci&amp;oacute;n de muestras, una amplia variedad&#10;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;de equipos para la extracci&amp;oacute;n de oro, plata, platino, hierro y paladio.">
+        <source>Desde entonces, Rocklabs ha sido un innovador global en el campo de los equipos ded preparaci&amp;oacute;n de muestras, una amplia variedad
+												de equipos para la extracci&amp;oacute;n de oro, plata, platino, hierro y paladio.</source>
+        <target><![CDATA[__Desde entonces, Rocklabs ha sido un innovador global en el campo de los equipos ded preparaci&oacute;n de muestras, una amplia variedad
+												de equipos para la extracci&oacute;n de oro, plata, platino, hierro y paladio.]]></target>
+      </trans-unit>
     </body>
   </file>
 </xliff>
