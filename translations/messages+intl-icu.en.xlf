@@ -500,14 +500,171 @@
       <trans-unit id="U2oZEIe" resname="Rocklabs es una marca reconocida, bajo el sello de Scott Technologies; ofrecen soluciones rob&amp;oacute;ticas y de automatizaci&amp;oacute;n inteligente.&#10;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;Se estableci&amp;oacute; en 1969 como un laboratorio comercial, especializado en an&amp;aacute;lisis geoqu&amp;iacute;mico y ensayos de fuego.">
         <source>Rocklabs es una marca reconocida, bajo el sello de Scott Technologies; ofrecen soluciones rob&amp;oacute;ticas y de automatizaci&amp;oacute;n inteligente.
 										Se estableci&amp;oacute; en 1969 como un laboratorio comercial, especializado en an&amp;aacute;lisis geoqu&amp;iacute;mico y ensayos de fuego.</source>
-        <target><![CDATA[__Rocklabs es una marca reconocida, bajo el sello de Scott Technologies; ofrecen soluciones rob&oacute;ticas y de automatizaci&oacute;n inteligente.
-										Se estableci&oacute; en 1969 como un laboratorio comercial, especializado en an&aacute;lisis geoqu&iacute;mico y ensayos de fuego.]]></target>
+        <target>Rocklabs is a recognized brand, under the Scott Technologies seal; offer robotic and intelligent automation solutions.
+								Was established in 1969 as a commercial laboratory, specialising in geochemical analysis and fire assaying.</target>
       </trans-unit>
       <trans-unit id="9zWnFcf" resname="Desde entonces, Rocklabs ha sido un innovador global en el campo de los equipos ded preparaci&amp;oacute;n de muestras, una amplia variedad&#10;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;de equipos para la extracci&amp;oacute;n de oro, plata, platino, hierro y paladio.">
         <source>Desde entonces, Rocklabs ha sido un innovador global en el campo de los equipos ded preparaci&amp;oacute;n de muestras, una amplia variedad
 												de equipos para la extracci&amp;oacute;n de oro, plata, platino, hierro y paladio.</source>
-        <target><![CDATA[__Desde entonces, Rocklabs ha sido un innovador global en el campo de los equipos ded preparaci&oacute;n de muestras, una amplia variedad
-												de equipos para la extracci&oacute;n de oro, plata, platino, hierro y paladio.]]></target>
+        <target>Since then, Rocklabs has been a global innovator in the sample preparation equipment field, supplying 
+									a wide variety of equipment for the mining of gold, silver, platinum, iron and palladium.</target>
+      </trans-unit>
+      <trans-unit id="p_HusVj" resname="General Instruments">
+        <source>General Instruments</source>
+        <target>General Instruments</target>
+      </trans-unit>
+      <trans-unit id="JRUNUYN" resname="Instrumentos Generales">
+        <source>Instrumentos Generales</source>
+        <target>General Instruments</target>
+      </trans-unit>
+      <trans-unit id="h9Quo0Z" resname="Instrumentos">
+        <source>Instrumentos</source>
+        <target>Instruments</target>
+      </trans-unit>
+      <trans-unit id="3cPupT7" resname="Laboratory Equipment">
+        <source>Laboratory Equipment</source>
+        <target>Laboratory Equipment</target>
+      </trans-unit>
+      <trans-unit id="7w6icAt" resname="Productos Para Equipo de Laboratorio">
+        <source>Productos Para Equipo de Laboratorio</source>
+        <target>Products to Laboratory Equipment</target>
+      </trans-unit>
+      <trans-unit id="wVPFld_" resname="Equipo de Laboratorio">
+        <source>Equipo de Laboratorio</source>
+        <target>Laboratory Equipment</target>
+      </trans-unit>
+      <trans-unit id="PIzWJp2" resname="Tuber&amp;iacute;a HDPE">
+        <source>Tuber&amp;iacute;a HDPE</source>
+        <target>HDPE Pipe</target>
+      </trans-unit>
+      <trans-unit id="SzmoDSC" resname="Tuber&amp;iacute;a de polietileno de alta densidad (HDPE) de 1/2 ″ de diámetro a 144 ″ de di&amp;aacute;metro">
+        <source>Tuber&amp;iacute;a de polietileno de alta densidad (HDPE) de 1/2 ″ de diámetro a 144 ″ de di&amp;aacute;metro</source>
+        <target>High-density polyethylene (HDPE) tubing from 1/2 ″ diameter to 144 ″ diameter.</target>
+      </trans-unit>
+      <trans-unit id="QpXeKGN" resname="Compresi&amp;oacute;n de polipropileno">
+        <source>Compresi&amp;oacute;n de polipropileno</source>
+        <target>Polypropylene Compression</target>
+      </trans-unit>
+      <trans-unit id="IdcSXAJ" resname="Accesorios de compresión de polipropileno y monturas de servicio en una variedad de tamaños.">
+        <source>Accesorios de compresión de polipropileno y monturas de servicio en una variedad de tamaños.</source>
+        <target>Polypropylene compression fittings and service mounts in a variety of sizes.</target>
+      </trans-unit>
+      <trans-unit id="b.S6RF7" resname="Productos de Metalurgia">
+        <source>Productos de Metalurgia</source>
+        <target>Metallurgical Products</target>
+      </trans-unit>
+      <trans-unit id="tcUsKjF" resname="Nombre del Producto producto">
+        <source>Nombre del Producto producto</source>
+        <target>Product Name</target>
+      </trans-unit>
+      <trans-unit id="mUMv2ag" resname="El ROCKLABS BOYD Elite es el primer triturador de mandíbula fina de doble acción del mundo, &#10;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;que emplea mandíbulas que pueden contener hasta 5 kg de muestra y triturar una muestra de 70 mm a 2 mm en una sola pasada.">
+        <source>El ROCKLABS BOYD Elite es el primer triturador de mandíbula fina de doble acción del mundo, 
+													que emplea mandíbulas que pueden contener hasta 5 kg de muestra y triturar una muestra de 70 mm a 2 mm en una sola pasada.</source>
+        <target>The ROCKLABS BOYD Elite is the world’s first double-acting fine jaw crusher, employing jaws that can hold up 
+													to 5kg of sample and crush a 70mm sample to 2mm in a single pass.</target>
+      </trans-unit>
+      <trans-unit id="OgUUbEY" resname="La trituradora BOYD de modelo más grande de Rocklabs, la trituradora BIG BOYD, &#10;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;emplea trituradoras de mandíbula fina de doble acción para procesar muestras de hasta 20 kg.">
+        <source>La trituradora BOYD de modelo más grande de Rocklabs, la trituradora BIG BOYD, 
+													emplea trituradoras de mandíbula fina de doble acción para procesar muestras de hasta 20 kg.</source>
+        <target>Rocklabs larger-model BOYD Crusher – the BIG BOYD Crusher - employs double-acting fine jaw crushers to process samples of up to 20kg.</target>
+      </trans-unit>
+      <trans-unit id="46Hoilz" resname="El combo Rocklabs Smart BOYD LSD combina la trituradora BOYD con un divisor lineal de muestras (LSD) &#10;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;controlado por un sistema lógico programable (PLC) que permite al operador pesar previamente las muestras y &#10;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;seleccionar los pesos divididos adecuados.">
+        <source>El combo Rocklabs Smart BOYD LSD combina la trituradora BOYD con un divisor lineal de muestras (LSD) 
+													controlado por un sistema lógico programable (PLC) que permite al operador pesar previamente las muestras y 
+													seleccionar los pesos divididos adecuados.</source>
+        <target>The Rocklabs Smart BOYD LSD combo combines the BOYD Crusher with a Linear Sample Divider (LSD) controlled by a Programmable Logic 
+													System (PLC) allowing an operator to pre-weigh samples and select the suitable split weights. It is capable of variable splits in one pass.</target>
+      </trans-unit>
+      <trans-unit id="G9yjleD" resname="El Rocklabs Mid-Boyd utiliza nuestro diseño de trituración de mandíbula &#10;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;fina de doble acción, con un tamaño de entrada de muestra aumentado de hasta 100 mm. Con mordazas móviles superior e inferior, &#10;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;MID BOYD ofrece la máxima cantidad de trituración, reduciendo las muestras en 50 veces el tamaño original.">
+        <source>El Rocklabs Mid-Boyd utiliza nuestro diseño de trituración de mandíbula 
+													fina de doble acción, con un tamaño de entrada de muestra aumentado de hasta 100 mm. Con mordazas móviles superior e inferior, 
+													MID BOYD ofrece la máxima cantidad de trituración, reduciendo las muestras en 50 veces el tamaño original.</source>
+        <target>The Rocklabs Mid-Boyd utilises our double acting fine jaw crushing design, with an increased sample input size of up to 100mm. 
+													Featuring top and bottom moving jaws, the MID BOYD delivers the maximum amount of crushing, reducing samples by 50 times the original size.</target>
+      </trans-unit>
+      <trans-unit id="RLEM.1H" resname="La trituradora hidráulica Rocklabs prepara muestras de trazas de metales antes de pulverizarlas en un molino de &#10;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;anillo ROCKLABS o equipo similar. Está diseñado para ser fácil de usar, simple de mantener y rentable de operar.">
+        <source>La trituradora hidráulica Rocklabs prepara muestras de trazas de metales antes de pulverizarlas en un molino de 
+													anillo ROCKLABS o equipo similar. Está diseñado para ser fácil de usar, simple de mantener y rentable de operar.</source>
+        <target>The Rocklabs Hydraulic Crusher trims excess material from rock samples and drills cores prior to pulverising.</target>
+      </trans-unit>
+      <trans-unit id="Vn5x._g" resname="Está especialmente diseñado para procesar muestras con alto contenido de &#10;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;humedad o aquellas que tienden a formar grumos como carbón, piedra caliza, laterita, saprolita, bauxita y yeso, pero puede &#10;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;procesar todos los demás tipos de rocas.">
+        <source>Está especialmente diseñado para procesar muestras con alto contenido de 
+													humedad o aquellas que tienden a formar grumos como carbón, piedra caliza, laterita, saprolita, bauxita y yeso, pero puede 
+													procesar todos los demás tipos de rocas.</source>
+        <target>The design simplicity makes the Rocklabs Hammer Mill suitable for processing a wide variety of materials. It is particularly designed to process 
+													samples with high moisture content or those that tend to form lumps such as coal, limestone, laterite, saprolite, bauxite, and gypsum but can process all other rock types.</target>
+      </trans-unit>
+      <trans-unit id="wwXlcek" resname="El CB15S puede funcionar de forma segura en cualquier &#10;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;campana de extracci&amp;oacute;n de laboratorio de qu&amp;iacute;mica h&amp;uacute;meda estándar o en un sistema de ventilaci&amp;oacute;n comparable.">
+        <source>El CB15S puede funcionar de forma segura en cualquier 
+													campana de extracci&amp;oacute;n de laboratorio de qu&amp;iacute;mica h&amp;uacute;meda estándar o en un sistema de ventilaci&amp;oacute;n comparable.</source>
+        <target>The CB15S can safely operate in any standard wet-chem laboratory fume hood or comparable ventilation system.</target>
+      </trans-unit>
+      <trans-unit id="O_ObYgC" resname="El digestor CB12L es ideal para la preparaci&amp;oacute;n de muestras m&amp;aacute;s grandes de hasta 30 gr.&#10;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;El CB12L puede funcionar de forma segura en cualquier campana de extracci&amp;oacute;n de &#10;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;laboratorio de qu&amp;iacute;mica h&amp;uacute;meda estándar o en un sistema de ventilaci&amp;oacute;n comparable.">
+        <source>El digestor CB12L es ideal para la preparaci&amp;oacute;n de muestras m&amp;aacute;s grandes de hasta 30 gr.
+													El CB12L puede funcionar de forma segura en cualquier campana de extracci&amp;oacute;n de 
+													laboratorio de qu&amp;iacute;mica h&amp;uacute;meda estándar o en un sistema de ventilaci&amp;oacute;n comparable.</source>
+        <target>The CB12L digester is ideal for preparation of larger sample sizes up to 30 g.
+													The CB12L can safely operate in any standard wet-chem laboratory fume hood or comparable ventilation system.</target>
+      </trans-unit>
+      <trans-unit id="QklBdCD" resname="Productos Para Reactivos Qu&amp;iacute;micos">
+        <source>Productos Para Reactivos Qu&amp;iacute;micos</source>
+        <target>Products to Chemical Reagents</target>
+      </trans-unit>
+      <trans-unit id="J_Z1o9P" resname="Reactivos Qu&amp;iacute;micos">
+        <source>Reactivos Qu&amp;iacute;micos</source>
+        <target>Chemical Reagents</target>
+      </trans-unit>
+      <trans-unit id="_nMBgUD" resname="Reference Materials and Standars">
+        <source>Reference Materials and Standars</source>
+        <target>Reference Materials and Standars</target>
+      </trans-unit>
+      <trans-unit id="MGihpXK" resname="Materiales de Referenc&amp;iacute;a">
+        <source>Materiales de Referenc&amp;iacute;a</source>
+        <target>Reference Materials and Standars</target>
+      </trans-unit>
+      <trans-unit id="kKxhS5f" resname="Material de referencia de Oro Marca Rocklabs-OxC152">
+        <source>Material de referencia de Oro Marca Rocklabs-OxC152</source>
+        <target>Rocklabs-OxC152 Brand Gold Reference Material</target>
+      </trans-unit>
+      <trans-unit id="2we2Fkf" resname="Material de referencia de Oro Marca Rocklabs-OxG140">
+        <source>Material de referencia de Oro Marca Rocklabs-OxG140</source>
+        <target>Rocklabs-OxG140 Brand Gold Reference Material</target>
+      </trans-unit>
+      <trans-unit id="DATahAo" resname="Material de referencia de Oro y Plata Marca Rocklabs-Oxi164">
+        <source>Material de referencia de Oro y Plata Marca Rocklabs-Oxi164</source>
+        <target>Rocklabs-Oxi164 Brand Gold and Silver Reference Material</target>
+      </trans-unit>
+      <trans-unit id="Cr1mbDW" resname="Material de referencia de Oro y Plata Marca Rocklabs-SN104">
+        <source>Material de referencia de Oro y Plata Marca Rocklabs-SN104</source>
+        <target>Rocklabs-SN104 Brand Gold and Silver Reference Material</target>
+      </trans-unit>
+      <trans-unit id="V54LZYz" resname="Material de referencia de Oro y Plata Marca Rocklabs-SG99">
+        <source>Material de referencia de Oro y Plata Marca Rocklabs-SG99</source>
+        <target>Rocklabs-SG99 Brand Gold and Silver Reference Material</target>
+      </trans-unit>
+      <trans-unit id="KkVeASo" resname="Material de referencia de Oro y Plata Marca Rocklabs-SL105">
+        <source>Material de referencia de Oro y Plata Marca Rocklabs-SL105</source>
+        <target>Rocklabs-SL105 Brand Gold and Silver Reference Material</target>
+      </trans-unit>
+      <trans-unit id="brjyq_H" resname="Muestras de Roca Pulverizada CDN-ME-1709 (bolsas de 100g)">
+        <source>Muestras de Roca Pulverizada CDN-ME-1709 (bolsas de 100g)</source>
+        <target>PULVERIZED ROCK SAMPLES CDN-ME-1709 (100g bags)</target>
+      </trans-unit>
+      <trans-unit id="c8evCnu" resname="Muestras de Roca Pulverizada CDN-ME-1709 (bolsas de 1Kg.)">
+        <source>Muestras de Roca Pulverizada CDN-ME-1709 (bolsas de 1Kg.)</source>
+        <target>PULVERIZED ROCK SAMPLES CDN-ME-1709 (1 kg jars)</target>
+      </trans-unit>
+      <trans-unit id="VGn.LTF" resname="Muestras de Roca Pulverizada CDN-ME-1902 (bolsas de 100g)">
+        <source>Muestras de Roca Pulverizada CDN-ME-1902 (bolsas de 100g)</source>
+        <target>PULVERIZED ROCK SAMPLES CDN-ME-1902 (100g bags)</target>
+      </trans-unit>
+      <trans-unit id="j87W3la" resname="Muestras de Roca Pulverizada CDN-ME-1805 (bolsas de 60g)">
+        <source>Muestras de Roca Pulverizada CDN-ME-1805 (bolsas de 60g)</source>
+        <target>PULVERIZED ROCK SAMPLES CDN-ME-1805 (60g bags)</target>
+      </trans-unit>
+      <trans-unit id="dABd0o2" resname="Muestras de Roca Pulverizada CDN-GS-P1A (bolsas de 50g)">
+        <source>Muestras de Roca Pulverizada CDN-GS-P1A (bolsas de 50g)</source>
+        <target>PULVERIZED ROCK SAMPLES CDN-GS-P1A (50g bags)</target>
       </trans-unit>
     </body>
   </file>
