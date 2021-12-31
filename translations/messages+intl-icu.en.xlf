@@ -666,6 +666,14 @@
         <source>Muestras de Roca Pulverizada CDN-GS-P1A (bolsas de 50g)</source>
         <target>PULVERIZED ROCK SAMPLES CDN-GS-P1A (50g bags)</target>
       </trans-unit>
+      <trans-unit id="eRU6_b7" resname="Informaci&amp;oacute;n:">
+        <source>Informaci&amp;oacute;n:</source>
+        <target>E-Mail:</target>
+      </trans-unit>
+      <trans-unit id="bwiL7o9" resname="Tel&amp;eacute;fono:">
+        <source>Tel&amp;eacute;fono:</source>
+        <target>Phone Number:</target>
+      </trans-unit>
     </body>
   </file>
 </xliff>
