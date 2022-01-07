@@ -19,33 +19,58 @@ class SiteController extends AbstractController
     {
         return $this->render('site/index.html.twig');
     }
-    public function contacto(): Response
+    public function contact(): Response
     {
-        return $this->render('site/contactanos.html.twig');
+        return $this->render('site/contact-us.html.twig');
     }
-    public function colaborador(): Response
+    public function partners(): Response
     {
-        return $this->render('site/colaboradores.html.twig');
+        return $this->render('site/partners.html.twig');
     }
-    public function conocenos(): Response
+    public function about(): Response
     {
-        return $this->render('site/conocenos.html.twig');
+        return $this->render('site/about-us.html.twig');
     }
-    public function servicio(): Response
+    public function services(): Response
     {
-        return $this->render('site/servicios.html.twig');
+        return $this->render('site/services.html.twig');
     }
-    public function producto(): Response
+    public function products(): Response
     {
         return $this->render('site/products.html.twig');
     }
-    public function pro_ensayo(): Response
+    public function sample(): Response
     {
         return $this->render('site/products/sample-prep.html.twig');
     }
-    public function pro_geologia(): Response
+    public function geology(): Response
     {
-        return $this->render('site/geology.html.twig');
+        return $this->render('site/products/geology.html.twig');
     }
+    public function assay(): Response
+    {
+        return $this->render('site/products/fire-assay.html.twig');
+    }
+    public function instruments(): Response
+    {
+        return $this->render('site/products/instruments.html.twig');
+    }
+    public function chemical (): Response
+    {
+        return $this->render('site/products/chemical-reagents.html.twig');
+    }
+    public function equipment (): Response
+    {
+        return $this->render('site/products/lab-equipment.html.twig');
+    }
+    public function metallurgical (): Response
+    {
+        return $this->render('site/products/metallurgical.html.twig');
+    }
+    public function reference (): Response
+    {
+        return $this->render('site/products/reference-materials.html-twig'); 
+    }
+
 
 }
