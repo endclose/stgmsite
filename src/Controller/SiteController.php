@@ -37,15 +37,15 @@ class SiteController extends AbstractController
     }
     public function producto(): Response
     {
-        return $this->render('site/productos.html.twig');
+        return $this->render('site/products.html.twig');
     }
     public function pro_ensayo(): Response
     {
-        return $this->render('site/productos-ensayo.html.twig');
+        return $this->render('site/products/sample-prep.html.twig');
     }
     public function pro_geologia(): Response
     {
-        return $this->render('site/productos-geologia.html.twig');
+        return $this->render('site/geology.html.twig');
     }
 
 }
