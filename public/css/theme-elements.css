@@ -13320,6 +13320,15 @@ section.section {
 	padding: 50px 0;
 }
 
+/*Servicio ambiental */
+section.section2 {
+	background-image: url(https://www.avantuwater.com/wp-content/uploads/2020/10/Avantu-Water-home-home-about-1.png);
+	border-top: 5px solid #f1f1f1;
+	margin: 40px 0;
+	/*Cambio de tamaño de sección misión*/
+	padding: 10px 0;
+}
+
 section.section > .container {
 	position: relative;
 }
@@ -16089,6 +16098,20 @@ html.gecko .sort-destination.sort-destination-margin > [class*="col-"] {
 	position: relative;
 	text-decoration: none;
 	max-width: 100%;
+	background-color: #FFF;
+	border-radius: 4px;
+	overflow: hidden;
+	-webkit-backface-visibility: hidden;
+	backface-visibility: hidden;
+	transform: translate3d(0, 0, 0);
+}
+
+
+.thumb-info2 {
+	display: block;
+	position: relative;
+	text-decoration: none;
+	max-width: 30%;
 	background-color: #FFF;
 	border-radius: 4px;
 	overflow: hidden;

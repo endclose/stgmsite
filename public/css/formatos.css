@@ -1,0 +1,34 @@
+body{
+	background: #ffffff;
+}
+
+.mapadiv{
+	width: 100%;
+	height: 100%;
+	margin: left;
+}
+
+.mapadiv path{
+	fill: #7185a3;
+	stroke: #000;
+	stroke-width: 2px;
+}
+
+.mamadiv .division{
+	fill: #9a9ba7;
+	stroke: #000;
+	stroke-width: 2px;
+}
+
+.mapadiv :hover{
+	fill: #CFD2D5;
+}
+
+.mapadiv .vancouver :hover{
+	fill: #f8fc03;
+}
+
+.mapadiv .mexico :hover{
+	fill: #f8fc03;
+}
+

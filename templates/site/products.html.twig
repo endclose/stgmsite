@@ -1,5 +1,5 @@
 {% extends "base.html.twig" %}
-{% extends "cotizar.html.twig" %}
+
 {% block title %}{% trans %} Products {% endtrans %} | {% endblock %}
 {% block content %}
     			<div role="main" class="main">
@@ -91,7 +91,7 @@
 							<div class="col-lg-9 col-xl-8 text-center">
 								<div class="overflow-hidden mb-3">
 									<h3 class="font-weight-bold text-transform-none text-9 line-height-2 mb-0 appear-animation" 
-									data-appear-animation="maskUp" data-appear-animation-delay="400">{% trans %}Preparaci&oacute;n de Muestra{% trans %}</h3>
+									data-appear-animation="maskUp" data-appear-animation-delay="400">{% trans %}Preparaci&oacute;n de Muestra{% endtrans %}</h3>
 								</div>
 							</div>
 						</div>
@@ -533,7 +533,7 @@
 									<div class="card border-0 border-radius-0 box-shadow-1">
 										<div class="card-body p-4 z-index-1">
 											<a>
-												<img class="card-img-top border-radius-0 mb-4" src="img/CDN.png" alt="Product Name">
+												<img class="card-img-top border-radius-0 mb-4" src="/img/CDN.png" alt="Product Name">
 											</a>
 											<div class="card-body p-0">
 												<h4 class="card-title mb-3 text-5 font-weight-semibold"><a class="text-color-dark text-color-hover-primary text-decoration-none">{% trans %}Certified reference materials by CDN{% endtrans %}</a></h4>
@@ -552,10 +552,6 @@
 						</div>
 					</div>
 				</section>
-
-				{% block cotizar %}
-				{% endblock %}
-				
 
 			</div> 
 			<br><br><br><br><br>

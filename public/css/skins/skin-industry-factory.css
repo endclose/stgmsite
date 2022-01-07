@@ -2333,11 +2333,11 @@ html .word-rotator.loading-bar-light .word-rotator-words::after {
 }
 
 .process .process-step-circle {
-	border-color: #d80d07;
+	border-color: #FFF;
 }
 
 .process .process-step:hover .process-step-circle {
-	background-color: #d80d07;
+	background-color: #FFF;
 }
 
 .process .process-step:hover .process-step-circle .process-step-circle-content {
