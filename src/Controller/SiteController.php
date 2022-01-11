@@ -23,8 +23,8 @@ class SiteController extends AbstractController
     }
 
     /**
-     * @Route("/{_locale}/products{category}",
-     *         name="products",
+     * @Route("/{_locale}/products/{category}",
+     *         name="products/",
      * 
      *         requirements ={
      *              "_locale": "en|pt|es",
@@ -39,7 +39,7 @@ class SiteController extends AbstractController
 
         switch ($category)
         {
-            case "geology":
+            case "products/geology":
                 $template = "site/products/geology.html.twig";
             break;
 
@@ -143,6 +143,88 @@ class SiteController extends AbstractController
     {
         return $this->render('site/products.html.twig');
     }
+
+
+
+    /**
+     * @Route("/{_locale}/environment",
+     *         name="environment",
+     *         requirements ={
+     *              "_locale": "en|pt|es",
+     *         }
+     * )
+     * 
+     */
+    
+    public function environment(): Response
+    {
+        return $this->render('site/environment.html.twig');
+    }
+
+    /**
+     * @Route("/{_locale}/environment-services",
+     *         name="environment-services",
+     * 
+     *         requirements ={
+     *              "_locale": "en|pt|es",
+     *         }
+     * )
+     * 
+     */
+    
+    public function env_services(): Response
+    {
+        return $this->render('site/environment-services.html.twig');
+    }
+
+    /**
+     * @Route("/{_locale}/environment-products",
+     *         name="environment-products",
+     *         requirements ={
+     *              "_locale": "en|pt|es",
+     *         }
+     * )
+     * 
+     */
+    
+    public function env_products(): Response
+    {
+        return $this->render('site/environment-products.html.twig');
+    }
+
+
+     /**
+     * @Route("/{_locale}/products/geology",
+     *         name="geology",
+     * 
+     *         requirements ={
+     *              "_locale": "en|pt|es",
+     *         }
+     * )
+     * 
+     */
+
+    public function geology(): Response
+    {
+        return $this->render('site/products/geology.html.twig');
+    }
+
+     /**
+     * @Route("/{_locale}/products/fire-assay",
+     *         name="fire-assay",
+     * 
+     *         requirements ={
+     *              "_locale": "en|pt|es",
+     *         }
+     * )
+     * 
+     */
+
+    public function assay(): Response
+    {
+        return $this->render('site/products/fire-assay.html.twig');
+    }
+
 
 
 }
