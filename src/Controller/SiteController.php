@@ -22,60 +22,6 @@ class SiteController extends AbstractController
         return $this->render('site/index.html.twig');
     }
 
-    /**
-     * @Route("/{_locale}/products/{category}",
-     *         name="products/",
-     * 
-     *         requirements ={
-     *              "_locale": "en|pt|es",
-     *         }
-     * )
-     * 
-     */
-
-    public function producs ($category): Response
-    {
-        $template = "site/products.html.twig";
-
-        switch ($category)
-        {
-            case "products/geology":
-                $template = "site/products/geology.html.twig";
-            break;
-
-            case "metarllurgical":
-                $template = "site/products/metallurgical.html.twig";
-            break;
-
-            case "chemical":
-                $template = "site/products/chemical-reagents.html.twig";
-            break;
-
-            case "assay":
-                $template = "site/products/fire-assay.html.twig";
-            break;
-
-            case "equipment":
-                $template = "site/products/lab-equipment.html.twig";
-            break;
-
-            case "sample":
-                $template ="site/products/sample-prep.html.twig";
-            break;
-
-            case "reference":
-                $template = "site/products/reference-materials.html.twig";
-            break;
-
-            case "instruments":
-                $template = "site/products/instruments.html.twig";
-            break;
-        }
-
-        return $this->render($template);
-
-    }
-
     public function contact(): Response
     {
         return $this->render('site/contact-us.html.twig');
@@ -194,7 +140,7 @@ class SiteController extends AbstractController
 
 
      /**
-     * @Route("/{_locale}/products/geology",
+     * @Route("/{_locale}/geology",
      *         name="geology",
      * 
      *         requirements ={
@@ -206,11 +152,11 @@ class SiteController extends AbstractController
 
     public function geology(): Response
     {
-        return $this->render('site/products/geology.html.twig');
+        return $this->render('site/geology.html.twig');
     }
 
      /**
-     * @Route("/{_locale}/products/fire-assay",
+     * @Route("/{_locale}/fire-assay",
      *         name="fire-assay",
      * 
      *         requirements ={
@@ -222,7 +168,103 @@ class SiteController extends AbstractController
 
     public function assay(): Response
     {
-        return $this->render('site/products/fire-assay.html.twig');
+        return $this->render('site/fire-assay.html.twig');
+    }
+
+     /**
+     * @Route("/{_locale}/sample-prep",
+     *         name="sample-prep",
+     * 
+     *         requirements ={
+     *              "_locale": "en|pt|es",
+     *         }
+     * )
+     * 
+     */
+
+    public function sample(): Response
+    {
+        return $this->render('site/sample-prep.html.twig');
+    }
+
+     /**
+     * @Route("/{_locale}/reference-materials",
+     *         name="reference-materials",
+     * 
+     *         requirements ={
+     *              "_locale": "en|pt|es",
+     *         }
+     * )
+     * 
+     */
+
+    public function reference(): Response
+    {
+        return $this->render('site/reference-materials.html.twig');
+    }
+
+     /**
+     * @Route("/{_locale}/chemical-reagents",
+     *         name="chemical-reagents",
+     * 
+     *         requirements ={
+     *              "_locale": "en|pt|es",
+     *         }
+     * )
+     * 
+     */
+
+    public function chemical(): Response
+    {
+        return $this->render('site/chemical-reagents.html.twig');
+    }
+
+     /**
+     * @Route("/{_locale}/instruments",
+     *         name="instruments",
+     * 
+     *         requirements ={
+     *              "_locale": "en|pt|es",
+     *         }
+     * )
+     * 
+     */
+
+    public function instruments(): Response
+    {
+        return $this->render('site/instruments.html.twig');
+    }
+
+     /**
+     * @Route("/{_locale}/lab-equipment",
+     *         name="lab-equipment",
+     * 
+     *         requirements ={
+     *              "_locale": "en|pt|es",
+     *         }
+     * )
+     * 
+     */
+
+    public function equipment(): Response
+    {
+        return $this->render('site/lab-equipment.html.twig');
+    }
+
+     /**
+     * @Route("/{_locale}/metallurgical",
+     *         name="metallurgical",
+     * 
+     *         requirements ={
+     *              "_locale": "en|pt|es",
+     *         }
+     * )
+     * 
+     */
+
+    public function metallurgical(): Response
+    {
+        return $this->render('site/metallurgical.html.twig');
     }
 
 
