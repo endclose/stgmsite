@@ -525,6 +525,405 @@
         <source>CALL TO (618) 122-04-44</source>
         <target>LLAMANOS AL (618) 122-04-44</target>
       </trans-unit>
+      <trans-unit id="NBEFnLj" resname="Spanish">
+        <source>Spanish</source>
+        <target>Inglés</target>
+      </trans-unit>
+      <trans-unit id="mLAbiQa" resname="Portuguese">
+        <source>Portuguese</source>
+        <target>Portugues</target>
+      </trans-unit>
+      <trans-unit id="fyRlrHz" resname="Equipment">
+        <source>Equipment</source>
+        <target>Equipo</target>
+      </trans-unit>
+      <trans-unit id="6Jswqh3" resname="Resources">
+        <source>Resources</source>
+        <target>Recursos</target>
+      </trans-unit>
+      <trans-unit id="kfgtp0v" resname="Official Page">
+        <source>Official Page</source>
+        <target>Página Oficial</target>
+      </trans-unit>
+      <trans-unit id="mLZwY8_" resname="Contact Us">
+        <source>Contact Us</source>
+        <target>Contáctanos</target>
+      </trans-unit>
+      <trans-unit id="D75RuMz" resname="Nort America">
+        <source>Nort America</source>
+        <target>América del Norte</target>
+      </trans-unit>
+      <trans-unit id="5qRat3b" resname="973 3rd St W North Vancouver, Canada&lt;/p&gt;&lt;p&gt;canada@stgmining.com">
+        <source>973 3rd St W North Vancouver, Canada&lt;/p&gt;&lt;p&gt;canada@stgmining.com</source>
+        <target>973 3rd St W North Vancouver, Canadá, canada@stgmining.com</target>
+      </trans-unit>
+      <trans-unit id="wH8fg82" resname="Blvd. Manuel Avila Camacho 32 Int. 6, Lomas de Chapultepec III, Section Miguel Hidalgo, Cuidad de Mexico&#10;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;11000">
+        <source>Blvd. Manuel Avila Camacho 32 Int. 6, Lomas de Chapultepec III, Section Miguel Hidalgo, Cuidad de Mexico
+									11000</source>
+        <target>Blvd. Manuel Avila Camacho 32 Int. 6, Lomas de Chapultepec III, Sección Miguel Hidalgo, Cuidad de Mexico
+									11000</target>
+      </trans-unit>
+      <trans-unit id="vRLDvjb" resname="mexico@stgmining.com">
+        <source>mexico@stgmining.com</source>
+        <target>mexico@stgmining.com</target>
+      </trans-unit>
+      <trans-unit id=".1iLQQF" resname="South America">
+        <source>South America</source>
+        <target>América del Sur</target>
+      </trans-unit>
+      <trans-unit id="KHJaWLW" resname="Rua Ministro Hermenegildo de Barros, 459 - Itapoa-Belo Horizonte, Brasil.&lt;/p&gt;&lt;p&gt;brasil@stgmining.com">
+        <source>Rua Ministro Hermenegildo de Barros, 459 - Itapoa-Belo Horizonte, Brasil.&lt;/p&gt;&lt;p&gt;brasil@stgmining.com</source>
+        <target>Rua Ministro Hermenegildo de Barros, 459 - Itapoa-Belo Horizonte, Brasil, brasil@stgmining.com</target>
+      </trans-unit>
+      <trans-unit id="08eoXvB" resname="Street Chinchasuyu #4, Esq. Antisuyu, Cota Cota, La Paz, Bolivia.&lt;/p&gt;&lt;p&gt;bolivia@stgmining.com">
+        <source>Street Chinchasuyu #4, Esq. Antisuyu, Cota Cota, La Paz, Bolivia.&lt;/p&gt;&lt;p&gt;bolivia@stgmining.com</source>
+        <target>Calle Chinchasuyu #4, Esq. Antisuyu, Cota Cota, La Paz, Bolivia, bolivia@stgmining.com</target>
+      </trans-unit>
+      <trans-unit id="1bdfET_" resname="San Pablo N 9900, bodega 6 edificio 2, Comuna de Pudahuel, Santiago, Chile&lt;/p&gt;&lt;p&gt;chile@stgmining.com">
+        <source>San Pablo N 9900, bodega 6 edificio 2, Comuna de Pudahuel, Santiago, Chile&lt;/p&gt;&lt;p&gt;chile@stgmining.com</source>
+        <target>San Pablo N 9900, bodega 6 edificio 2, Comuna de Pudahuel, Santiago, Chile, chile@stgmining.com</target>
+      </trans-unit>
+      <trans-unit id="idDGf8I" resname="Street Carlos Augusto Salaverry 239, Urb. La Arboleda, San Miguel, Lima, Peru&lt;/p&gt;&lt;p&gt;peru@stgmining.com">
+        <source>Street Carlos Augusto Salaverry 239, Urb. La Arboleda, San Miguel, Lima, Peru&lt;/p&gt;&lt;p&gt;peru@stgmining.com</source>
+        <target>Calle Carlos Augusto Salaverry 239, Urb. La Arboleda, San Miguel, Lima, Peru, peru@stgmining.com</target>
+      </trans-unit>
+      <trans-unit id="KwrkPa2" resname="Our Address">
+        <source>Our Address</source>
+        <target>Nuestra Dirección</target>
+      </trans-unit>
+      <trans-unit id="Esodvmi" resname="973 3rd St W North Vancouver">
+        <source>973 3rd St W North Vancouver</source>
+        <target>973 3rd St W North Vancouver</target>
+      </trans-unit>
+      <trans-unit id="VZnU_N6" resname="BC V7P 1E4">
+        <source>BC V7P 1E4</source>
+        <target>BC V7P 1E4</target>
+      </trans-unit>
+      <trans-unit id="vlXvP0x" resname="Canada">
+        <source>Canada</source>
+        <target>Canadá</target>
+      </trans-unit>
+      <trans-unit id="L65vsws" resname="E-Mail">
+        <source>E-Mail</source>
+        <target>Correo Electrónico</target>
+      </trans-unit>
+      <trans-unit id="wFbjM.0" resname="info@stgmining.com">
+        <source>info@stgmining.com</source>
+        <target>info@stgmining.com</target>
+      </trans-unit>
+      <trans-unit id="sgJl8io" resname="Call Us">
+        <source>Call Us</source>
+        <target>Llamanos</target>
+      </trans-unit>
+      <trans-unit id="WZw2Te7" resname="Let's Work Together">
+        <source>Let's Work Together</source>
+        <target>Trabajemos Juntos</target>
+      </trans-unit>
+      <trans-unit id="qnbORW5" resname="Si deseas consultar mayor información sobre nuestros servicios y/o productos,">
+        <source>Si deseas consultar mayor información sobre nuestros servicios y/o productos,</source>
+        <target>Si deseas consultar mayor información sobre nuestros servicios y/o productos,</target>
+      </trans-unit>
+      <trans-unit id="jIowzWa" resname="o tienes alguna duda al respecto,">
+        <source>o tienes alguna duda al respecto,</source>
+        <target>__o tienes alguna duda al respecto,</target>
+      </trans-unit>
+      <trans-unit id="UndCdH7" resname="no dudes en solicitar una consultoría gratuita y uno de">
+        <source>no dudes en solicitar una consultoría gratuita y uno de</source>
+        <target>__no dudes en solicitar una consultoría gratuita y uno de</target>
+      </trans-unit>
+      <trans-unit id="DzzAT0f" resname="nuestros asesores te contactará a la brevedad.">
+        <source>nuestros asesores te contactará a la brevedad.</source>
+        <target>__nuestros asesores te contactará a la brevedad.</target>
+      </trans-unit>
+      <trans-unit id="mhx7uqZ" resname="Enrironment Products">
+        <source>Enrironment Products</source>
+        <target>Productos Ambientales</target>
+      </trans-unit>
+      <trans-unit id="LQeGdgK" resname="Fatking biomass secretes mainly lipase being the main enzyme to biodegrade fats, &#10;  oils and greases in all environments such as fat traps, septic tanks STW.">
+        <source>Fatking biomass secretes mainly lipase being the main enzyme to biodegrade fats, 
+                                oils and greases in all environments such as fat traps, septic tanks STW.</source>
+        <target>La biomasa segrega principalmente grasa mediante la principal enzima para biodegradar grasas y aceites, la lipasa. 
+        En todos los ambientes como trampas de grasa, fosas sépticas STW.</target>
+      </trans-unit>
+      <trans-unit id="CZzq6ff" resname="Predominantly lipase producing bacteria for FOG biodegradation.">
+        <source>Predominantly lipase producing bacteria for FOG biodegradation.</source>
+        <target>Bacterias predominantemente productoras de lipasa para la biodegradación de FOG.</target>
+      </trans-unit>
+      <trans-unit id="nFwamHf" resname="Eliminates the source of smells related to kitchen waste.">
+        <source>Eliminates the source of smells related to kitchen waste.</source>
+        <target>Elimina la fuente de olores relacionados con los residuos de cocina.</target>
+      </trans-unit>
+      <trans-unit id="NWBaPdc" resname="Breaks down FOG buildup in pipes.">
+        <source>Breaks down FOG buildup in pipes.</source>
+        <target>Descompone la acumulación de FOG en las tuberías.</target>
+      </trans-unit>
+      <trans-unit id="cutZNjT" resname="Converts FOG molecules to CO2 and H2O.">
+        <source>Converts FOG molecules to CO2 and H2O.</source>
+        <target>Convierte moléculas de FOG en CO2 y H2O.</target>
+      </trans-unit>
+      <trans-unit id="pD_Y_Sl" resname="Hydroking biodegrades hydrocarbon oil in water, soils, carpets, &#10;                                brick paving and is environmentally friendly to marine, flora, forna, aquatic life and animals.">
+        <source>Hydroking biodegrades hydrocarbon oil in water, soils, carpets, 
+                                brick paving and is environmentally friendly to marine, flora, forna, aquatic life and animals.</source>
+        <target>Biodegrada el aceite de hidrocarburos en el agua, suelos, alfombras, pavimentos de ladrillos y 
+        es eco-amigable con el medio ambiente para la flora, la fauna, la vida acuática y los animales.</target>
+      </trans-unit>
+      <trans-unit id="JZCSmBk" resname="Due to the Increased dissolved oxygen it biodegrades the hydrocarbon molecules to CO2 and water leaving harmless nutrients.">
+        <source>Due to the Increased dissolved oxygen it biodegrades the hydrocarbon molecules to CO2 and water leaving harmless nutrients.</source>
+        <target>Debido al aumento del oxígeno disuelto, se biodegrada las moléculas de hidrocarburos a CO2 y el agua dejando nutrientes inofensivos.</target>
+      </trans-unit>
+      <trans-unit id="a1aWGcx" resname="The process converts hazardous hydrocarbons to non-hazardous.">
+        <source>The process converts hazardous hydrocarbons to non-hazardous.</source>
+        <target>El proceso convierte los hidrocarburos peligrosos en no peligrosos También convierte hidrocarburos inflamables a no inflamables.</target>
+      </trans-unit>
+      <trans-unit id="wuJit67" resname="Removes by biodegrading the hydrocarbon impregnated into concrete, carpets, soil, water, and metal surfaces, leaving no residue.">
+        <source>Removes by biodegrading the hydrocarbon impregnated into concrete, carpets, soil, water, and metal surfaces, leaving no residue.</source>
+        <target>Elimina por biodegradación el hidrocarburo impregnado en hormigón, alfombras, suelo, agua y superficies metálicas, sin dejar residuo.</target>
+      </trans-unit>
+      <trans-unit id="XhnKfTD" resname="A powerful broad-spectrum biocatalyst that significantly &#10;                                accelerates the natural biological degradation rate of fats, oils, and grease organic waste by up to 1000 times.">
+        <source>A powerful broad-spectrum biocatalyst that significantly 
+                                accelerates the natural biological degradation rate of fats, oils, and grease organic waste by up to 1000 times.</source>
+        <target>Un potente biocatalizador de amplio espectro que acelera significativamente la tasa de degradación biológica natural de grasas, 
+        aceites y desechos orgánicos hasta 1000 veces.</target>
+      </trans-unit>
+      <trans-unit id="rk5fWsP" resname="Increases the dissolved oxygen by up to 600%.">
+        <source>Increases the dissolved oxygen by up to 600%.</source>
+        <target>Aumenta el oxígeno disuelto hasta en un 600%.</target>
+      </trans-unit>
+      <trans-unit id="Rdd3fEH" resname="Biodegrades fats, oils, grease, and protein on dishes, in dishwashing machines, pipes, septic tanks and general equipment degreasing.">
+        <source>Biodegrades fats, oils, grease, and protein on dishes, in dishwashing machines, pipes, septic tanks and general equipment degreasing.</source>
+        <target>Biodegrada grasas, aceites, grasas y proteínas en platos, en lavavajillas, tuberías, fosas sépticas y desengrasado de equipos en general.</target>
+      </trans-unit>
+      <trans-unit id="muOcp8C" resname="Converts fats, oils, and grease molecules to CO2 and water leaving the nutrients being food for bacteria in STP.">
+        <source>Converts fats, oils, and grease molecules to CO2 and water leaving the nutrients being food for bacteria in STP.</source>
+        <target>Convierte grasas, aceites y moléculas de grasa en CO2 y agua, dejando que los nutrientes sean alimento para las bacterias en STP.</target>
+      </trans-unit>
+      <trans-unit id="a0QcOEC" resname="Increases the dissolved Oxygen by up to 600%.">
+        <source>Increases the dissolved Oxygen by up to 600%.</source>
+        <target>Aumenta el oxígeno disuelto hasta en un 600%.</target>
+      </trans-unit>
+      <trans-unit id="N50vBf5" resname="Reduces Energy Usage (aeration system).">
+        <source>Reduces Energy Usage (aeration system).</source>
+        <target>Reduce el uso de energía (sistema de aireación).</target>
+      </trans-unit>
+      <trans-unit id="FXgb5yK" resname="Biodegrades marine faecal and food waste and bottom sludge.">
+        <source>Biodegrades marine faecal and food waste and bottom sludge.</source>
+        <target>Biodegrada los residuos fecales y alimentarios marinos y los lodos del fondo.</target>
+      </trans-unit>
+      <trans-unit id="VUD.G.z" resname="Reduces Volatile Organic Compounds and Ammonia.">
+        <source>Reduces Volatile Organic Compounds and Ammonia.</source>
+        <target>Reduce los compuestos orgánicos volátiles y el amoníaco.</target>
+      </trans-unit>
+      <trans-unit id="YbCJRZb" resname="Converts the anaerobic sludge to aerobic. The aerobic biodegradation takes &#10;                                approximate 7 days instead of the 54 days in the anaerobic zone.">
+        <source>Converts the anaerobic sludge to aerobic. The aerobic biodegradation takes 
+                                approximate 7 days instead of the 54 days in the anaerobic zone.</source>
+        <target>Convierte el lodo anaeróbico en aeróbico. La biodegradación aeróbica tarda aproximadamente 
+        7 días en lugar de los 54 días en la zona anaeróbica.</target>
+      </trans-unit>
+      <trans-unit id="wwFE_3i" resname="Predominantly anaerobic action, where the waterborne diseases hibernate. Once converted to the aerobic phase, the waterborne diseases are obliterated.">
+        <source>Predominantly anaerobic action, where the waterborne diseases hibernate. Once converted to the aerobic phase, the waterborne diseases are obliterated.</source>
+        <target>Acción predominantemente anaeróbica, donde hibernan las enfermedades transmitidas por el agua.</target>
+      </trans-unit>
+      <trans-unit id="rpjG4T3" resname="The conversion to aerobic eliminates the source of the smells related to the black fermenting anaerobic sludge.">
+        <source>The conversion to aerobic eliminates the source of the smells related to the black fermenting anaerobic sludge.</source>
+        <target>La conversión a aeróbico elimina la fuente de los olores relacionados con el lodo anaeróbico de fermentación negra.</target>
+      </trans-unit>
+      <trans-unit id="G3QLD5V" resname="Mozking bacteria secrete a crystalline toxin that prevents the &#10;                                maturing of the mosquito and black fly larvae.">
+        <source>Mozking bacteria secrete a crystalline toxin that prevents the 
+                                maturing of the mosquito and black fly larvae.</source>
+        <target>Las bacterias mozking segregan una toxina cristalina que impide la maduración de las larvas de mosquitos y moscas negras.</target>
+      </trans-unit>
+      <trans-unit id="xcdkvO7" resname="MozKing in conjunction with MozGo and Mozzicote forms a formidable mosquito and fly extermination program.">
+        <source>MozKing in conjunction with MozGo and Mozzicote forms a formidable mosquito and fly extermination program.</source>
+        <target>MozKing junto con MozGo y Mozzicote forman un formidable programa de exterminio de mosquitos y moscas.</target>
+      </trans-unit>
+      <trans-unit id="Z9b1ScB" resname="The breeding cycle of mosquitoes is 6 weeks; therefore, the application of the MozKing should be every 2 weeks with 3 dosing in total over the 6-week period.">
+        <source>The breeding cycle of mosquitoes is 6 weeks; therefore, the application of the MozKing should be every 2 weeks with 3 dosing in total over the 6-week period.</source>
+        <target>El ciclo de reproducción de los mosquitos es de 6 semanas; por lo tanto, la aplicación de MozKing debe realizarse cada 2 semanas con 3 dosis en total durante el período de 6 semanas.</target>
+      </trans-unit>
+      <trans-unit id="Zz3945K" resname="A slow release gel that biodegrades faecal and &#10;                                organic waste in all management treatment systems.">
+        <source>A slow release gel that biodegrades faecal and 
+                                organic waste in all management treatment systems.</source>
+        <target>Gel de liberación lenta que biodegrada los residuos orgánicos y fecales en todos los sistemas de tratamiento de aguas.</target>
+      </trans-unit>
+      <trans-unit id="UMZ4ng8" resname="Predominantly aerobic waste biodegradation.">
+        <source>Predominantly aerobic waste biodegradation.</source>
+        <target>Biodegradación de residuos predominantemente aeróbica.</target>
+      </trans-unit>
+      <trans-unit id="FFmXkQO" resname="Eliminates waterborne diseases by converting anaerobic to aerobic sludge.">
+        <source>Eliminates waterborne diseases by converting anaerobic to aerobic sludge.</source>
+        <target>Elimina las enfermedades transmitidas por el agua al convertir lodos anaeróbicos en aeróbicos.</target>
+      </trans-unit>
+      <trans-unit id="zDm_VEQ" resname="Removes smells by degrading the molecules of the faecal waste.">
+        <source>Removes smells by degrading the molecules of the faecal waste.</source>
+        <target>Elimina los olores degradando las moléculas de los desechos fecales.</target>
+      </trans-unit>
+      <trans-unit id="3V0b9wn" resname="Converts faecal molecules to CO2 and water leaving the nutrients which is a food source for bacteria.">
+        <source>Converts faecal molecules to CO2 and water leaving the nutrients which is a food source for bacteria.</source>
+        <target>Convierte las moléculas fecales en CO2 y agua dejando los nutrientes que son una fuente de alimento para las bacterias.</target>
+      </trans-unit>
+      <trans-unit id="Oj_tRvO" resname="Biolake biologically removes phosphates and nitrates being the food source of cyanobacteria, aquatic weed, alien grasses.&#10;                                    Removes bottom sludge including gel and restores the ecological equilibrium of the water body.">
+        <source>Biolake biologically removes phosphates and nitrates being the food source of cyanobacteria, aquatic weed, alien grasses.
+                                    Removes bottom sludge including gel and restores the ecological equilibrium of the water body.</source>
+        <target>Biolake elimina biológicamente fosfatos y nitratos que son la fuente de alimento de cianobacterias, malas hierbas acuáticas y pastos extraños. 
+        Elimina los lodos del fondo y restablece el equilibrio ecológico del agua.</target>
+      </trans-unit>
+      <trans-unit id="lScJQft" resname="Biolake establishes a biomass using bacterial cultures to remove the phosphorous and nitrogen compounds that most algae including cyanobacteria and grasses uses as a food source.">
+        <source>Biolake establishes a biomass using bacterial cultures to remove the phosphorous and nitrogen compounds that most algae including cyanobacteria and grasses uses as a food source.</source>
+        <target>Biolake establece una biomasa utilizando cultivos bacterianos para eliminar los compuestos de fósforo 
+        y nitrógeno que la mayoría de las algas, incluidas las cianobacterias y los pastos, utilizan como fuente de alimento.</target>
+      </trans-unit>
+      <trans-unit id="I0sPFem" resname="Biolake adds a blend of facultative (which perform under aerobic and anaerobic conditions) and anaerobic microbial cultures to break down the vast quantities of bottom sludge.">
+        <source>Biolake adds a blend of facultative (which perform under aerobic and anaerobic conditions) and anaerobic microbial cultures to break down the vast quantities of bottom sludge.</source>
+        <target>Biolake agrega una mezcla de cultivos microbianos facultativos (que funcionan en condiciones aeróbicas y anaeróbicas) 
+        y anaeróbicos para descomponer las grandes cantidades de lodo del fondo.</target>
+      </trans-unit>
+      <trans-unit id="TYoG.2d" resname="MozCote the Nano technology apply to walls, ceilings, bedspreads, curtains and furniture will repel mosquitoes for up to 4 months.">
+        <source>MozCote the Nano technology apply to walls, ceilings, bedspreads, curtains and furniture will repel mosquitoes for up to 4 months.</source>
+        <target>MozCote la tecnología Nano aplicada a paredes, techos, cortinas y muebles repelerá a los mosquitos por hasta 4 meses</target>
+      </trans-unit>
+      <trans-unit id="CIyPksS" resname="Once dry, the sprayed surface becomes the repellant.">
+        <source>Once dry, the sprayed surface becomes the repellant.</source>
+        <target>Una vez seca, la superficie rociada se convierte en repelente.</target>
+      </trans-unit>
+      <trans-unit id="L01cOEz" resname="MozCote will repel mosquitoes, even with regular washing of the surface.">
+        <source>MozCote will repel mosquitoes, even with regular washing of the surface.</source>
+        <target>MozCote repelerá a los mosquitos, incluso con un lavado regular de la superficie.</target>
+      </trans-unit>
+      <trans-unit id="F7le0Ck" resname="MozGo using the Nano technology apply MozGo into the washing &#10;                                rinse and mosquitoes will be repelled for over 3 months even with regular washing of the clothes.">
+        <source>MozGo using the Nano technology apply MozGo into the washing 
+                                rinse and mosquitoes will be repelled for over 3 months even with regular washing of the clothes.</source>
+        <target>MozGo utiliza la tecnología Nano, aplique MozGo en el enjuague de lavado y los mosquitos serán repelidos 
+        durante más de 3 meses incluso con el lavado regular de la ropa.</target>
+      </trans-unit>
+      <trans-unit id="h3CV.wr" resname="The clothing now becomes the repellent and not the person’s skin.">
+        <source>The clothing now becomes the repellent and not the person’s skin.</source>
+        <target>La ropa ahora se convierte en repelente y no en la piel de la persona.</target>
+      </trans-unit>
+      <trans-unit id="ldWQqsc" resname="Many people have adverse reactions to chemically based repellents; not MozGo.">
+        <source>Many people have adverse reactions to chemically based repellents; not MozGo.</source>
+        <target>Muchas personas tienen reacciones adversas a los repelentes de base química; no MozGo.</target>
+      </trans-unit>
+      <trans-unit id="rmLmm8d" resname="MozGo will repel for over 3 months, even with regular washing.">
+        <source>MozGo will repel for over 3 months, even with regular washing.</source>
+        <target>MozGo repelerá durante más de 3 meses, incluso con un lavado regular.</target>
+      </trans-unit>
+      <trans-unit id="rrGYyY_" resname="Enrironment Services">
+        <source>Enrironment Services</source>
+        <target>Servicios Ambientales</target>
+      </trans-unit>
+      <trans-unit id="6.y.1hY" resname="We Count With The Services That You Need">
+        <source>We Count With The Services That You Need</source>
+        <target>Contamos Con Los Servicios Que Necesitas</target>
+      </trans-unit>
+      <trans-unit id="5w2OuQU" resname="Analysis">
+        <source>Analysis</source>
+        <target>Análisis</target>
+      </trans-unit>
+      <trans-unit id="w.xUqlO" resname="Installation">
+        <source>Installation</source>
+        <target>Instalación</target>
+      </trans-unit>
+      <trans-unit id="F8z6W2g" resname="Maintenance">
+        <source>Maintenance</source>
+        <target>Mantenimiento</target>
+      </trans-unit>
+      <trans-unit id="ciROpXX" resname="Optimization">
+        <source>Optimization</source>
+        <target>Optimización</target>
+      </trans-unit>
+      <trans-unit id="NqeY4.O" resname="Training">
+        <source>Training</source>
+        <target>Capacitación</target>
+      </trans-unit>
+      <trans-unit id="q3uLcHS" resname="CALL US TO">
+        <source>CALL US TO</source>
+        <target>LLAMANOS AL</target>
+      </trans-unit>
+      <trans-unit id="26kyOdF" resname="Environment Area">
+        <source>Environment Area</source>
+        <target>Área Ambiental</target>
+      </trans-unit>
+      <trans-unit id="Rs9QoSR" resname="Sprcialists in Waste Water Treatment.">
+        <source>Specialists in Waste Water Treatment.</source>
+        <target>Especialistas en el Tratamiento de Aguas Residuales</target>
+      </trans-unit>
+      <trans-unit id="6Yo.UX_" resname="Preparaci&amp;oacute;n de Muestra">
+        <source>Preparaci&amp;oacute;n de Muestra</source>
+        <target>Preparación de Muestra</target>
+      </trans-unit>
+      <trans-unit id="mUMv2ag" resname="El ROCKLABS BOYD Elite es el primer triturador de mandíbula fina de doble acción del mundo, &#10;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;que emplea mandíbulas que pueden contener hasta 5 kg de muestra y triturar una muestra de 70 mm a 2 mm en una sola pasada.">
+        <source>El ROCKLABS BOYD Elite es el primer triturador de mandíbula fina de doble acción del mundo, 
+													que emplea mandíbulas que pueden contener hasta 5 kg de muestra y triturar una muestra de 70 mm a 2 mm en una sola pasada.</source>
+        <target>__El ROCKLABS BOYD Elite es el primer triturador de mandíbula fina de doble acción del mundo, 
+													que emplea mandíbulas que pueden contener hasta 5 kg de muestra y triturar una muestra de 70 mm a 2 mm en una sola pasada.</target>
+      </trans-unit>
+      <trans-unit id="OgUUbEY" resname="La trituradora BOYD de modelo más grande de Rocklabs, la trituradora BIG BOYD, &#10;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;emplea trituradoras de mandíbula fina de doble acción para procesar muestras de hasta 20 kg.">
+        <source>La trituradora BOYD de modelo más grande de Rocklabs, la trituradora BIG BOYD, 
+													emplea trituradoras de mandíbula fina de doble acción para procesar muestras de hasta 20 kg.</source>
+        <target>__La trituradora BOYD de modelo más grande de Rocklabs, la trituradora BIG BOYD, 
+													emplea trituradoras de mandíbula fina de doble acción para procesar muestras de hasta 20 kg.</target>
+      </trans-unit>
+      <trans-unit id="46Hoilz" resname="El combo Rocklabs Smart BOYD LSD combina la trituradora BOYD con un divisor lineal de muestras (LSD) &#10;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;controlado por un sistema lógico programable (PLC) que permite al operador pesar previamente las muestras y &#10;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;seleccionar los pesos divididos adecuados.">
+        <source>El combo Rocklabs Smart BOYD LSD combina la trituradora BOYD con un divisor lineal de muestras (LSD) 
+													controlado por un sistema lógico programable (PLC) que permite al operador pesar previamente las muestras y 
+													seleccionar los pesos divididos adecuados.</source>
+        <target>__El combo Rocklabs Smart BOYD LSD combina la trituradora BOYD con un divisor lineal de muestras (LSD) 
+													controlado por un sistema lógico programable (PLC) que permite al operador pesar previamente las muestras y 
+													seleccionar los pesos divididos adecuados.</target>
+      </trans-unit>
+      <trans-unit id="aKEdolh" resname="Productos de Ensayo de Fuego">
+        <source>Productos de Ensayo de Fuego</source>
+        <target>__Productos de Ensayo de Fuego</target>
+      </trans-unit>
+      <trans-unit id="cJNPgM_" resname="Este horno tiene un sistema de doble quemador forzado por ventilador, con sistema de &#10;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;encendido autom&amp;aacute;tico. Se puede cambiar entre GN y GLP (propano) para adaptarse a los diferentes requisitos del sitio, con solo &#10;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;unos pocos ajustes simples realizados en el sitio que implican un mínimo de tiempo de inactividad y costos asociados.">
+        <source>Este horno tiene un sistema de doble quemador forzado por ventilador, con sistema de 
+													encendido autom&amp;aacute;tico. Se puede cambiar entre GN y GLP (propano) para adaptarse a los diferentes requisitos del sitio, con solo 
+													unos pocos ajustes simples realizados en el sitio que implican un mínimo de tiempo de inactividad y costos asociados.</source>
+        <target><![CDATA[__Este horno tiene un sistema de doble quemador forzado por ventilador, con sistema de 
+													encendido autom&aacute;tico. Se puede cambiar entre GN y GLP (propano) para adaptarse a los diferentes requisitos del sitio, con solo 
+													unos pocos ajustes simples realizados en el sitio que implican un mínimo de tiempo de inactividad y costos asociados.]]></target>
+      </trans-unit>
+      <trans-unit id="NptSnwn" resname="Este horno tiene un interruptor principal giratorio de encendido/apagado f&amp;aacute;cil de usar.&#10;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;Se calienta mediante 12 elementos montados en las paredes laterales. Es ideal para el funcionamiento continuo.&#10;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;ya que esto prolongar&amp;aacute; la vida de los elementos.">
+        <source>Este horno tiene un interruptor principal giratorio de encendido/apagado f&amp;aacute;cil de usar.
+													Se calienta mediante 12 elementos montados en las paredes laterales. Es ideal para el funcionamiento continuo.
+													ya que esto prolongar&amp;aacute; la vida de los elementos.</source>
+        <target><![CDATA[__Este horno tiene un interruptor principal giratorio de encendido/apagado f&aacute;cil de usar.
+													Se calienta mediante 12 elementos montados en las paredes laterales. Es ideal para el funcionamiento continuo.
+													ya que esto prolongar&aacute; la vida de los elementos.]]></target>
+      </trans-unit>
+      <trans-unit id="vIMb664" resname="El 100 Place Cupellation es adecuado para laboratorios grandes, con procesamientos de entre 400 a 1200 muestras por d&amp;iacute;.&#10;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;Trabaja con gas natural, gas licuado de petroleo (L.P.) y Diesel.">
+        <source>El 100 Place Cupellation es adecuado para laboratorios grandes, con procesamientos de entre 400 a 1200 muestras por d&amp;iacute;.
+													Trabaja con gas natural, gas licuado de petroleo (L.P.) y Diesel.</source>
+        <target><![CDATA[__El 100 Place Cupellation es adecuado para laboratorios grandes, con procesamientos de entre 400 a 1200 muestras por d&iacute;.
+													Trabaja con gas natural, gas licuado de petroleo (L.P.) y Diesel.]]></target>
+      </trans-unit>
+      <trans-unit id="wVPFld_" resname="Equipo de Laboratorio">
+        <source>Equipo de Laboratorio</source>
+        <target>__Equipo de Laboratorio</target>
+      </trans-unit>
+      <trans-unit id="_nMBgUD" resname="Reference Materials and Standars">
+        <source>Reference Materials and Standars</source>
+        <target>Materiales de Referencia y Estándares</target>
+      </trans-unit>
+      <trans-unit id="XsnBd7X" resname="Certified reference materials by Rocklabs">
+        <source>Certified reference materials by Rocklabs</source>
+        <target>Materiales de Referencia Certificados por Rocklabs</target>
+      </trans-unit>
+      <trans-unit id="JjiKxZR" resname="Rocklabs Certified Reference Materials are recognized as the most accurate reference materials and Reliable worldwide and certified for the elements of the Gold, Silver and Platinum group.">
+        <source>Rocklabs Certified Reference Materials are recognized as the most accurate reference materials and Reliable worldwide and certified for the elements of the Gold, Silver and Platinum group.</source>
+        <target>Los materiales de referencia certificados de Rocklabs son reconocidos como los materiales de referencia más precisos y 
+													confiables a nivel mundial y están certificados para los elementos del grupo de oro, plata y platino.</target>
+      </trans-unit>
+      <trans-unit id="tuTkFtH" resname="Certified reference materials by CDN">
+        <source>Certified reference materials by CDN</source>
+        <target>Materiales de Referencia Certificados por CDN</target>
+      </trans-unit>
+      <trans-unit id="aXHOqjf" resname="CDN certified reference materials and standards are prepared &#10;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;from real minerals or mixtures of real minerals with mineral concentrates.">
+        <source>CDN certified reference materials and standards are prepared 
+												from real minerals or mixtures of real minerals with mineral concentrates.</source>
+        <target>Los materiales de referencia certificados de CDN y estándares, están preparados a partir de minerales 
+													reales o mezclas de minerales reales con concentrados de mineral.</target>
+      </trans-unit>
     </body>
   </file>
 </xliff>
