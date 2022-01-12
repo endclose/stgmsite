@@ -22,6 +22,16 @@ class SiteController extends AbstractController
         return $this->render('site/index.html.twig');
     }
 
+     /**
+     * @Route("/{_locale}/contact-us",
+     *         name="contact-us",
+     *         requirements ={
+     *              "_locale": "en|pt|es",
+     *         }
+     * )
+     * 
+     */
+
     public function contact(): Response
     {
         return $this->render('site/contact-us.html.twig');

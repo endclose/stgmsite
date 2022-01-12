@@ -854,52 +854,52 @@
       <trans-unit id="mUMv2ag" resname="El ROCKLABS BOYD Elite es el primer triturador de mandíbula fina de doble acción del mundo, &#10;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;que emplea mandíbulas que pueden contener hasta 5 kg de muestra y triturar una muestra de 70 mm a 2 mm en una sola pasada.">
         <source>El ROCKLABS BOYD Elite es el primer triturador de mandíbula fina de doble acción del mundo, 
 													que emplea mandíbulas que pueden contener hasta 5 kg de muestra y triturar una muestra de 70 mm a 2 mm en una sola pasada.</source>
-        <target>__El ROCKLABS BOYD Elite es el primer triturador de mandíbula fina de doble acción del mundo, 
+        <target>El ROCKLABS BOYD Elite es el primer triturador de mandíbula fina de doble acción del mundo, 
 													que emplea mandíbulas que pueden contener hasta 5 kg de muestra y triturar una muestra de 70 mm a 2 mm en una sola pasada.</target>
       </trans-unit>
       <trans-unit id="OgUUbEY" resname="La trituradora BOYD de modelo más grande de Rocklabs, la trituradora BIG BOYD, &#10;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;emplea trituradoras de mandíbula fina de doble acción para procesar muestras de hasta 20 kg.">
         <source>La trituradora BOYD de modelo más grande de Rocklabs, la trituradora BIG BOYD, 
 													emplea trituradoras de mandíbula fina de doble acción para procesar muestras de hasta 20 kg.</source>
-        <target>__La trituradora BOYD de modelo más grande de Rocklabs, la trituradora BIG BOYD, 
+        <target>La trituradora BOYD de modelo más grande de Rocklabs, la trituradora BIG BOYD, 
 													emplea trituradoras de mandíbula fina de doble acción para procesar muestras de hasta 20 kg.</target>
       </trans-unit>
       <trans-unit id="46Hoilz" resname="El combo Rocklabs Smart BOYD LSD combina la trituradora BOYD con un divisor lineal de muestras (LSD) &#10;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;controlado por un sistema lógico programable (PLC) que permite al operador pesar previamente las muestras y &#10;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;seleccionar los pesos divididos adecuados.">
         <source>El combo Rocklabs Smart BOYD LSD combina la trituradora BOYD con un divisor lineal de muestras (LSD) 
 													controlado por un sistema lógico programable (PLC) que permite al operador pesar previamente las muestras y 
 													seleccionar los pesos divididos adecuados.</source>
-        <target>__El combo Rocklabs Smart BOYD LSD combina la trituradora BOYD con un divisor lineal de muestras (LSD) 
+        <target>El combo Rocklabs Smart BOYD LSD combina la trituradora BOYD con un divisor lineal de muestras (LSD) 
 													controlado por un sistema lógico programable (PLC) que permite al operador pesar previamente las muestras y 
 													seleccionar los pesos divididos adecuados.</target>
       </trans-unit>
       <trans-unit id="aKEdolh" resname="Productos de Ensayo de Fuego">
         <source>Productos de Ensayo de Fuego</source>
-        <target>__Productos de Ensayo de Fuego</target>
+        <target>Productos de Ensayo de Fuego</target>
       </trans-unit>
       <trans-unit id="cJNPgM_" resname="Este horno tiene un sistema de doble quemador forzado por ventilador, con sistema de &#10;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;encendido autom&amp;aacute;tico. Se puede cambiar entre GN y GLP (propano) para adaptarse a los diferentes requisitos del sitio, con solo &#10;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;unos pocos ajustes simples realizados en el sitio que implican un mínimo de tiempo de inactividad y costos asociados.">
         <source>Este horno tiene un sistema de doble quemador forzado por ventilador, con sistema de 
 													encendido autom&amp;aacute;tico. Se puede cambiar entre GN y GLP (propano) para adaptarse a los diferentes requisitos del sitio, con solo 
 													unos pocos ajustes simples realizados en el sitio que implican un mínimo de tiempo de inactividad y costos asociados.</source>
-        <target><![CDATA[__Este horno tiene un sistema de doble quemador forzado por ventilador, con sistema de 
-													encendido autom&aacute;tico. Se puede cambiar entre GN y GLP (propano) para adaptarse a los diferentes requisitos del sitio, con solo 
-													unos pocos ajustes simples realizados en el sitio que implican un mínimo de tiempo de inactividad y costos asociados.]]></target>
+        <target>Este horno tiene un sistema de doble quemador forzado por ventilador, con sistema de 
+													encendido automático. Se puede cambiar entre GN y GLP (propano) para adaptarse a los diferentes requisitos del sitio, con solo 
+													unos pocos ajustes simples realizados en el sitio que implican un mínimo de tiempo de inactividad y costos asociados.</target>
       </trans-unit>
       <trans-unit id="NptSnwn" resname="Este horno tiene un interruptor principal giratorio de encendido/apagado f&amp;aacute;cil de usar.&#10;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;Se calienta mediante 12 elementos montados en las paredes laterales. Es ideal para el funcionamiento continuo.&#10;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;ya que esto prolongar&amp;aacute; la vida de los elementos.">
         <source>Este horno tiene un interruptor principal giratorio de encendido/apagado f&amp;aacute;cil de usar.
 													Se calienta mediante 12 elementos montados en las paredes laterales. Es ideal para el funcionamiento continuo.
 													ya que esto prolongar&amp;aacute; la vida de los elementos.</source>
-        <target><![CDATA[__Este horno tiene un interruptor principal giratorio de encendido/apagado f&aacute;cil de usar.
+        <target>Este horno tiene un interruptor principal giratorio de encendido/apagado fácil de usar.
 													Se calienta mediante 12 elementos montados en las paredes laterales. Es ideal para el funcionamiento continuo.
-													ya que esto prolongar&aacute; la vida de los elementos.]]></target>
+													ya que esto prolongará la vida de los elementos.</target>
       </trans-unit>
       <trans-unit id="vIMb664" resname="El 100 Place Cupellation es adecuado para laboratorios grandes, con procesamientos de entre 400 a 1200 muestras por d&amp;iacute;.&#10;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;Trabaja con gas natural, gas licuado de petroleo (L.P.) y Diesel.">
         <source>El 100 Place Cupellation es adecuado para laboratorios grandes, con procesamientos de entre 400 a 1200 muestras por d&amp;iacute;.
 													Trabaja con gas natural, gas licuado de petroleo (L.P.) y Diesel.</source>
-        <target><![CDATA[__El 100 Place Cupellation es adecuado para laboratorios grandes, con procesamientos de entre 400 a 1200 muestras por d&iacute;.
-													Trabaja con gas natural, gas licuado de petroleo (L.P.) y Diesel.]]></target>
+        <target>El 100 Place Cupellation es adecuado para laboratorios grandes, con procesamientos de entre 400 a 1200 muestras por día.
+													Trabaja con gas natural, gas licuado de petroleo (L.P.) y Diesel.</target>
       </trans-unit>
       <trans-unit id="wVPFld_" resname="Equipo de Laboratorio">
         <source>Equipo de Laboratorio</source>
-        <target>__Equipo de Laboratorio</target>
+        <target>Equipo de Laboratorio</target>
       </trans-unit>
       <trans-unit id="_nMBgUD" resname="Reference Materials and Standars">
         <source>Reference Materials and Standars</source>
