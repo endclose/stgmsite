@@ -527,7 +527,7 @@
       </trans-unit>
       <trans-unit id="NBEFnLj" resname="Spanish">
         <source>Spanish</source>
-        <target>Inglés</target>
+        <target>Español</target>
       </trans-unit>
       <trans-unit id="mLAbiQa" resname="Portuguese">
         <source>Portuguese</source>
@@ -639,9 +639,9 @@
         <source>Enrironment Products</source>
         <target>Productos Ambientales</target>
       </trans-unit>
-      <trans-unit id="LQeGdgK" resname="Fatking biomass secretes mainly lipase being the main enzyme to biodegrade fats, &#10;  oils and greases in all environments such as fat traps, septic tanks STW.">
+      <trans-unit id="VfAoPlU" resname="Fatking biomass secretes mainly lipase being the main enzyme to biodegrade fats, &#10;  oils and greases in all environments such as fat traps, septic tanks STW.">
         <source>Fatking biomass secretes mainly lipase being the main enzyme to biodegrade fats, 
-                                oils and greases in all environments such as fat traps, septic tanks STW.</source>
+  oils and greases in all environments such as fat traps, septic tanks STW.</source>
         <target>La biomasa segrega principalmente grasa mediante la principal enzima para biodegradar grasas y aceites, la lipasa. 
         En todos los ambientes como trampas de grasa, fosas sépticas STW.</target>
       </trans-unit>
@@ -844,7 +844,7 @@
         <target>Área Ambiental</target>
       </trans-unit>
       <trans-unit id="Rs9QoSR" resname="Sprcialists in Waste Water Treatment.">
-        <source>Specialists in Waste Water Treatment.</source>
+        <source>Sprcialists in Waste Water Treatment.</source>
         <target>Especialistas en el Tratamiento de Aguas Residuales</target>
       </trans-unit>
       <trans-unit id="6Yo.UX_" resname="Preparaci&amp;oacute;n de Muestra">
@@ -923,6 +923,42 @@
 												from real minerals or mixtures of real minerals with mineral concentrates.</source>
         <target>Los materiales de referencia certificados de CDN y estándares, están preparados a partir de minerales 
 													reales o mezclas de minerales reales con concentrados de mineral.</target>
+      </trans-unit>
+      <trans-unit id="uhGL9.y" resname="English">
+        <source>English</source>
+        <target>Inglés</target>
+      </trans-unit>
+      <trans-unit id="LQeGdgK" resname="Fatking biomass secretes mainly lipase being the main enzyme to biodegrade fats, &#10;                                oils and greases in all environments such as fat traps, septic tanks STW.">
+        <source>Fatking biomass secretes mainly lipase being the main enzyme to biodegrade fats, 
+                                oils and greases in all environments such as fat traps, septic tanks STW.</source>
+        <target>La biomasa segrega principalmente grasa mediante la principal enzima para biodegradar 
+        grasas y aceites, la lipasa. En todos los ambientes como trampas de grasa, fosas sépticas STW.</target>
+      </trans-unit>
+      <trans-unit id="p9NVsmv" resname="Mexico">
+        <source>Mexico</source>
+        <target>México</target>
+      </trans-unit>
+      <trans-unit id="FcDuyCp" resname="Blvd. Manuel Avila Camacho 32 Int. 6, Lomas de Chapultepec III Section, Miguel Hidalgo, Cuidad de Mexico&#10;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;11000">
+        <source>Blvd. Manuel Avila Camacho 32 Int. 6, Lomas de Chapultepec III Section, Miguel Hidalgo, Cuidad de Mexico
+									11000</source>
+        <target>Blvd. Manuel Avila Camacho 32 Int. 6, Lomas de Chapultepec III Sección, Miguel Hidalgo, Cuidad de México
+									11000</target>
+      </trans-unit>
+      <trans-unit id="ZkHFp._" resname="Brasil">
+        <source>Brasil</source>
+        <target>Brasil</target>
+      </trans-unit>
+      <trans-unit id="liHAc2R" resname="Bolivia">
+        <source>Bolivia</source>
+        <target>Bolivia</target>
+      </trans-unit>
+      <trans-unit id="9Sc_I21" resname="Chile">
+        <source>Chile</source>
+        <target>Chile</target>
+      </trans-unit>
+      <trans-unit id="UIcxo8X" resname="Peru">
+        <source>Peru</source>
+        <target>Peru</target>
       </trans-unit>
     </body>
   </file>

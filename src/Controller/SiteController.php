@@ -7,6 +7,23 @@ use Symfony\Bundle\FrameworkBundle\Controller\AbstractController;
 
 class SiteController extends AbstractController
 {
+
+    /**
+     * @Route("/{_locale}/es/index",
+     *         name="es-index",
+     *         requirements ={
+     *              "_locale": "en|pt|es",
+     *         }
+     * )
+     * 
+     */
+    
+    public function esindex(): Response
+    {
+        return $this->render('site/es/index.html.twig');
+    }
+
+
     /**
      * @Route("/{_locale}/index",
      *         name="index",
