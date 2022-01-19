@@ -960,6 +960,88 @@
         <source>Peru</source>
         <target>Peru</target>
       </trans-unit>
+      <trans-unit id="cPiwnlw" resname="Si deseas consultar mayor información sobre nuestros servicios y/o productos,If you would like more information about our services and /or products,">
+        <source>Si deseas consultar mayor información sobre nuestros servicios y/o productos,If you would like more information about our services and /or products,</source>
+        <target>Si deseas consultar mayor información sobre nuestros servicios y/o productos,</target>
+      </trans-unit>
+      <trans-unit id="ANNQqN6" resname="or if you would like to request a free consultation,">
+        <source>or if you would like to request a free consultation,</source>
+        <target>o tienes alguna duda al respecto,no dudes en solicitar una consultoría</target>
+      </trans-unit>
+      <trans-unit id="M_d9F06" resname="please email us! One of our client service">
+        <source>please email us! One of our client service</source>
+        <target>envianos un correo electrónico! Un representante de servicios al clientes</target>
+      </trans-unit>
+      <trans-unit id="bdy4ihw" resname="representatives will contact you shortly.">
+        <source>representatives will contact you shortly.</source>
+        <target>se contactará con usted a la brevedad.</target>
+      </trans-unit>
+      <trans-unit id="IFQ45zq" resname="To provide honest and reliable service combined with best in class products to meet our clients’ &#10;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;specific needs.">
+        <source>To provide honest and reliable service combined with best in class products to meet our clients’ 
+								specific needs.</source>
+        <target>__To provide honest and reliable service combined with best in class products to meet our clients’ 
+								specific needs.</target>
+      </trans-unit>
+      <trans-unit id="vqbIWME" resname="Our Phone Number">
+        <source>Our Phone Number</source>
+        <target>Nuestro Teléfono</target>
+      </trans-unit>
+      <trans-unit id="C5IZYpZ" resname="If you would like more information about our services and /or products,">
+        <source>If you would like more information about our services and /or products,</source>
+        <target>__If you would like more information about our services and /or products,</target>
+      </trans-unit>
+      <trans-unit id="Swj7txs" resname="We Are Here For You.">
+        <source>We Are Here For You.</source>
+        <target>Estamos Aquí Para Tí.</target>
+      </trans-unit>
+      <trans-unit id="J6l5B.D" resname="Request a Quote">
+        <source>Request a Quote</source>
+        <target>Solicita una Cotización</target>
+      </trans-unit>
+      <trans-unit id="XKhO0T6" resname="Rocklabs-OxC152 Brand Gold Reference Material">
+        <source>Rocklabs-OxC152 Brand Gold Reference Material</source>
+        <target>Material de referencia de Oro Marca Rocklabs-OxC152</target>
+      </trans-unit>
+      <trans-unit id="0UUK7Tk" resname="Rocklabs-OxG140 Brand Gold Reference Material">
+        <source>Rocklabs-OxG140 Brand Gold Reference Material</source>
+        <target>Material de referencia de Oro Marca Rocklabs-OxG140</target>
+      </trans-unit>
+      <trans-unit id="Zsn2fCZ" resname="Rocklabs-Oxi164 Brand Gold and Silver Reference Material">
+        <source>Rocklabs-Oxi164 Brand Gold and Silver Reference Material</source>
+        <target>Material de referencia de Oro y Plata Marca Rocklabs-Oxi164</target>
+      </trans-unit>
+      <trans-unit id="18TQ7Tp" resname="Rocklabs-SN104 Brand Gold and Silver Reference Material">
+        <source>Rocklabs-SN104 Brand Gold and Silver Reference Material</source>
+        <target>Material de referencia de Oro y Plata Marca Rocklabs-SN104</target>
+      </trans-unit>
+      <trans-unit id=".9mPr1." resname="Rocklabs-SG99 Brand Gold and Silver Reference Material">
+        <source>Rocklabs-SG99 Brand Gold and Silver Reference Material</source>
+        <target>Material de referencia de Oro y Plata Marca Rocklabs-SG99</target>
+      </trans-unit>
+      <trans-unit id="sqwYL77" resname="Rocklabs-SL105 Brand Gold and Silver Reference Material">
+        <source>Rocklabs-SL105 Brand Gold and Silver Reference Material</source>
+        <target>Material de referencia de Oro y Plata Marca Rocklabs-SL105</target>
+      </trans-unit>
+      <trans-unit id=".VLEc3M" resname="PULVERIZED ROCK SAMPLES CDN-ME-1709 (100g bags)">
+        <source>PULVERIZED ROCK SAMPLES CDN-ME-1709 (100g bags)</source>
+        <target>Muestras de Roca Pulverizada CDN-ME-1709 (bolsas de 100g)</target>
+      </trans-unit>
+      <trans-unit id="g674ZAu" resname="PULVERIZED ROCK SAMPLES CDN-ME-1709 (1 kg jars)">
+        <source>PULVERIZED ROCK SAMPLES CDN-ME-1709 (1 kg jars)</source>
+        <target>Muestras de Roca Pulverizada CDN-ME-1709 (bolsas de 1Kg.)</target>
+      </trans-unit>
+      <trans-unit id="6eVg6VC" resname="PULVERIZED ROCK SAMPLES CDN-ME-1902 (100g bags)">
+        <source>PULVERIZED ROCK SAMPLES CDN-ME-1902 (100g bags)</source>
+        <target>Muestras de Roca Pulverizada CDN-ME-1902 (bolsas de 100g)</target>
+      </trans-unit>
+      <trans-unit id="_O9LKAA" resname="PULVERIZED ROCK SAMPLES CDN-ME-1805 (60g bags)">
+        <source>PULVERIZED ROCK SAMPLES CDN-ME-1805 (60g bags)</source>
+        <target>Muestras de Roca Pulverizada CDN-ME-1805 (bolsas de 60g)</target>
+      </trans-unit>
+      <trans-unit id="pbNcr5k" resname="PULVERIZED ROCK SAMPLES CDN-GS-P1A (50g bags)">
+        <source>PULVERIZED ROCK SAMPLES CDN-GS-P1A (50g bags)</source>
+        <target>Muestras de Roca Pulverizada CDN-GS-P1A (bolsas de 50g)</target>
+      </trans-unit>
     </body>
   </file>
 </xliff>

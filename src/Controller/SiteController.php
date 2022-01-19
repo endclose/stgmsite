@@ -9,7 +9,7 @@ class SiteController extends AbstractController
 {
 
     /**
-     * @Route("/{_locale}/es/index",
+     * @Route("/{_locale}/es/",
      *         name="es-index",
      *         requirements ={
      *              "_locale": "en|pt|es",
@@ -20,7 +20,7 @@ class SiteController extends AbstractController
     
     public function esindex(): Response
     {
-        return $this->render('site/es/index.html.twig');
+        return $this->render('site/es/');
     }
 
 
