@@ -1,3 +1,104 @@
 #index:
 #    path: /
 #    controller: App\Controller\DefaultController::index
+
+index:
+  path:
+    en: /
+    es: /es/inicio
+    pt: /pt/iniciar
+  controller: App\Controller\SiteController::index
+
+about-us:
+  path:
+    en: /about-us
+    es: /es/conocenos
+    pt: /pt/nos-conoce
+  controller: App\Controller\SiteController::about
+
+contact-us:
+  path:
+    en: /contact-us
+    es: /es/contactanos
+    pt: /pt/contate-nos
+  controller: App\Controller\SiteController::contact
+
+services:
+  path:
+    en: /services
+    es: /es/servicios
+    pt: /pt/serviços
+  controller: App\Controller\SiteController::services
+
+partners:
+  path:
+    en: /partners
+    es: /es/socios-comerciales
+    pt: /pt/parceiros-de-negócios
+  controller: App\Controller\SiteController::partners
+
+products:
+  path:
+    en: /products
+    es: /es/productos
+    pt: /pt/produtos
+  controller: App\Controller\SiteController::products
+
+sample-prep:
+  path:
+    en: /sample-preparation-products
+    es: /es/productos-preparación-muestra
+    pt: /pt/produtos-preparação-amostra
+  controller: App\Controller\SiteController::sample
+
+chemical-reagents:
+  path:
+    en: /chemical-reagents-products
+    es: /es/productos-reagentes-químicos
+    pt: /pt/produtos-reagentes-químicos
+  controller: App\Controller\SiteController::chemical
+
+fire-assay:
+  path:
+    en: /fire-assay-products
+    es: /es/productos-hornos-fuego
+    pt: /pt/produtos-teste-fogo
+  controller: App\Controller\SiteController::assay
+
+geology:
+  path:
+    en: /geology-products
+    es: /es/productos-geología
+    pt: /pt/produtos-geologia
+  controller: App\Controller\SiteController::geology
+
+intruments:
+  path:
+    en: /instruments
+    es: /es/instrumentos
+    pt: /pt/instrumentos
+  controller: App\Controller\SiteController::instruments
+
+lab-equipment:
+  path:
+    en: /lab-equipment-products
+    es: /es/productos-equipo-laboratorio
+    pt: /pt/produtos-equipamento-laboratório
+  controller: App\Controller\SiteController::equipment
+
+metallurgical:
+  path:
+    en: /metallurgical-products
+    es: /es/productos-metalurgia
+    pt: /pt/produtos-metalurgia
+  controller: App\Controller\SiteController::metallurgical
+
+reference-materials:
+  path:
+    en: /reference-materials
+    es: /es/materiales-referencia
+    pt: /pt/materiais-referência
+  controller: App\Controller\SiteController::reference
+
+
+
