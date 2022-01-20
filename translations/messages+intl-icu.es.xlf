@@ -463,11 +463,11 @@
       </trans-unit>
       <trans-unit id="lL9C76N" resname="We help you optimize and improve the performance of your technological products or services, such as hardware and software, with a problem-prevention approach.">
         <source>We help you optimize and improve the performance of your technological products or services, such as hardware and software, with a problem-prevention approach.</source>
-        <target>Te ayudamos a optimizar y mejorar el rendimiento de tus productos o servicios tecnológicos, como hardware y software, con un enfoque de prevención de problemas.</target>
+        <target>Te ayudamos a optimizar y mejorar el rendimiento de tu equipo de minería, además de ayudar a prevenir problemas futuros en los mismos.</target>
       </trans-unit>
       <trans-unit id="MZXVy6M" resname="We seek to provide you with the best guidance on the use of systems, and corrections for equipment malfunctions.">
         <source>We seek to provide you with the best guidance on the use of systems, and corrections for equipment malfunctions.</source>
-        <target>Buscamos brindarle la mejor orientación sobre el uso de los sistemas y las correcciones para el mal funcionamiento de los equipos.</target>
+        <target>Buscamos brindarle la mejor orientación sobre el uso de los sistemas y las correcciones para el mal funcionamiento de los equipos de minería.</target>
       </trans-unit>
       <trans-unit id="_YiVydj" resname="Environmental Area">
         <source>Environmental Area</source>
@@ -979,8 +979,7 @@
       <trans-unit id="IFQ45zq" resname="To provide honest and reliable service combined with best in class products to meet our clients’ &#10;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;specific needs.">
         <source>To provide honest and reliable service combined with best in class products to meet our clients’ 
 								specific needs.</source>
-        <target>__To provide honest and reliable service combined with best in class products to meet our clients’ 
-								specific needs.</target>
+        <target>Nos esforzamos por brindar continuamente un servicio honesto y confiable, combinado con los mejores productos para satisfacer las necesidades específicas de nuestros clientes.</target>
       </trans-unit>
       <trans-unit id="vqbIWME" resname="Our Phone Number">
         <source>Our Phone Number</source>
@@ -988,7 +987,7 @@
       </trans-unit>
       <trans-unit id="C5IZYpZ" resname="If you would like more information about our services and /or products,">
         <source>If you would like more information about our services and /or products,</source>
-        <target>__If you would like more information about our services and /or products,</target>
+        <target>Si deseas consultar mayor información sobre nuestros servicios y/o productos,</target>
       </trans-unit>
       <trans-unit id="Swj7txs" resname="We Are Here For You.">
         <source>We Are Here For You.</source>
@@ -1041,6 +1040,22 @@
       <trans-unit id="pbNcr5k" resname="PULVERIZED ROCK SAMPLES CDN-GS-P1A (50g bags)">
         <source>PULVERIZED ROCK SAMPLES CDN-GS-P1A (50g bags)</source>
         <target>Muestras de Roca Pulverizada CDN-GS-P1A (bolsas de 50g)</target>
+      </trans-unit>
+      <trans-unit id="ZL4Ihbw" resname="North America">
+        <source>North America</source>
+        <target>Norte América</target>
+      </trans-unit>
+      <trans-unit id="HinlvQV" resname="CALL US AT">
+        <source>CALL US AT</source>
+        <target>LLAMANOS ALs</target>
+      </trans-unit>
+      <trans-unit id="oPFAEKW" resname="We help you optimize and improve the performance of your mining equipment, plus prevent problems in the same.">
+        <source>We help you optimize and improve the performance of your mining equipment, plus prevent problems in the same.</source>
+        <target>Te ayudamos a optimizar y mejorar el rendimiento de tu equipo de minería, además de ayudar a prevenir problemas futuros en los mismos.</target>
+      </trans-unit>
+      <trans-unit id="8GtRg4K" resname="We seek to provide you with the best guidance on the use of systems, and corrections for mining equipment malfunctions.">
+        <source>We seek to provide you with the best guidance on the use of systems, and corrections for mining equipment malfunctions.</source>
+        <target>Buscamos brindarle la mejor orientación sobre el uso de los sistemas y las correcciones para el mal funcionamiento de los equipos de minería.</target>
       </trans-unit>
     </body>
   </file>
