@@ -9,13 +9,13 @@ body{
 }
 
 .mapadiv path{
-	fill: #7185a3;
+	fill: #697a94;
 	stroke: #000;
 	stroke-width: 2px;
 }
 
 .mamadiv .division{
-	fill: #9a9ba7;
+	fill: #66698a;
 	stroke: #000;
 	stroke-width: 2px;
 }
@@ -25,10 +25,10 @@ body{
 }
 
 .mapadiv .vancouver :hover{
-	fill: #f8fc03;
+	fill: #9b9b94;
 }
 
 .mapadiv .mexico :hover{
-	fill: #f8fc03;
+	fill: #9b9b94;
 }
 
