@@ -1,5 +1,5 @@
 {% extends "base.html.twig" %}
-{% block title %}{% trans %} Home {% endtrans %} | {% endblock %}
+{% block title %}{% trans %} Home {% endtrans %} | {{parent()}}{% endblock %}
 {% block content %}
     			<div role="main" class="main">
 				<div class="slider-container rev_slider_wrapper" style="height: 670px;">
@@ -166,11 +166,7 @@
 								</div>
 								<div class="process-step col-sm-9 col-md-7 col-lg-4 mb-5 mb-lg-4 appear-animation" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="500">
 									<div class="process-step-circle">
-										<strong class="process-step-circle-content text-color-primary"><img 
-										
-										
-										
-										"{{ asset('img/rocklabs.png') }}" class="img-fluid"/></strong>
+										<strong class="process-step-circle-content text-color-primary"><img src="{{ asset('img/rocklabs.png') }}" class="img-fluid"/></strong>
 									</div>
 									<div class="process-step-content px-lg-4">
 										<h4 class="font-weight-bold custom-font-size-2 pb-1 mb-2">{% trans %}Rocklabs{% endtrans %}</h4>
