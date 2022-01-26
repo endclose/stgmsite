@@ -81,10 +81,10 @@
 												{% trans %}Phone Number:{% endtrans %} <a href="#" class="text-color-dark text-color-hover-primary text-decoration-none"><strong>+1 778-340-9121</strong></a>
 											</li>
 											<li class="list-inline-item text-color-dark d-none d-sm-inline-block mb-0">
-												<a href="/es/index" class="text-color-dark text-color-hover-primary text-decoration-none"><strong>{% trans %}Spanish{% endtrans %}</strong></a>
+												<a href="{{ path(app.request.attributes.get('_route'), {_locale:'es'}) }}" class="text-color-dark text-color-hover-primary text-decoration-none"><strong>{% trans %}Spanish{% endtrans %}</strong></a>
 											</li>
 											<li class="list-inline-item text-color-dark d-none d-sm-inline-block mb-0">
-												<a href="/en/index" class="text-color-dark text-color-hover-primary text-decoration-none"><strong>{% trans %}English{% endtrans %}</strong></a>
+												<a href="{{ path(app.request.attributes.get('_route'), {_locale:'en'}) }}" class="text-color-dark text-color-hover-primary text-decoration-none"><strong>{% trans %}English{% endtrans %}</strong></a>
 											</li>
 										</ul>
 									</div>
@@ -101,7 +101,7 @@
 								<div class="header-row">
 									<div class="header-logo">
 										<a href="index.html">
-											<img src="/img/logo.png" class="img-fluid" width="250" height="100" alt="" />
+											<img src="{{ asset('img/logo.png') }}" class="img-fluid" width="250" height="100" alt="" />
 										</a>
 									</div>
 								</div>
@@ -177,6 +177,18 @@
 														{% trans %}Contact us{% endtrans %}
 													</a>
 												</li>
+
+												<li class="nav-item dropdown nav-item-left-border d-none d-sm-block nav-item-left-border-remove nav-item-left-border-md-show">
+												<a class="nav-link" href="#" role="button" id="dropdownLanguage" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+													<img src="{{ asset('img/eua.png')}}" class="flag flag-us" alt="English" />{% trans %} English{% endtrans %}
+													<i class="fas fa-angle-down"></i>
+												</a>
+												<div class="dropdown-menu" aria-labelledby="dropdownLanguage">
+													<a class="dropdown-item" href="#"><img src="{{ asset('img/eua.png')}}" class="flag flag-us" alt="English" />{% trans %} English{% endtrans %}</a>
+													<a class="dropdown-item" href="#"><img src="{{asset('img/espana.png')}}" class="flag flag-es" alt="English" />{% trans %} Spanish {% endtrans %}</a>
+													<a class="dropdown-item" href="#"><img src="{{asset('img/brazil.png')}}" class="flag flag-fr" alt="English" /> {% trans %}Portuguese{% endtrans %}</a>
+												</div>
+												</li>
 												
 											</ul>
 										</nav>
@@ -192,7 +204,6 @@
 					</div>
 				</div>
 			</header>
-
             {% block content %}
             
             {% endblock %}
@@ -238,37 +249,37 @@
 		</div>
 
 		<!-- Vendor -->
-		<script src="/vendor/jquery/jquery.min.js"></script>
-		<script src="/vendor/jquery.appear/jquery.appear.min.js"></script>
-		<script src="/vendor/jquery.easing/jquery.easing.min.js"></script>
-		<script src="/vendor/jquery.cookie/jquery.cookie.min.js"></script>
-		<script src="/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
-		<script src="/vendor/jquery.validation/jquery.validate.min.js"></script>
-		<script src="/vendor/jquery.easy-pie-chart/jquery.easypiechart.min.js"></script>
-		<script src="/vendor/jquery.gmap/jquery.gmap.min.js"></script>
-		<script src="/vendor/lazysizes/lazysizes.min.js"></script>
-		<script src="/vendor/isotope/jquery.isotope.min.js"></script>
-		<script src="/vendor/owl.carousel/owl.carousel.min.js"></script>
-		<script src="/vendor/magnific-popup/jquery.magnific-popup.min.js"></script>
-		<script src="/vendor/vide/jquery.vide.min.js"></script>
-		<script src="/vendor/vivus/vivus.min.js"></script>
+		<script src="{{ asset('vendor/jquery/jquery.min.js') }}"></script>
+		<script src="{{ asset('vendor/jquery.appear/jquery.appear.min.js') }}"></script>
+		<script src="{{ asset('vendor/jquery.easing/jquery.easing.min.js') }}"></script>
+		<script src="{{ asset('vendor/jquery.cookie/jquery.cookie.min.js') }}"></script>
+		<script src="{{ asset('vendor/bootstrap/js/bootstrap.bundle.min.js') }}"></script>
+		<script src="{{ asset('vendor/jquery.validation/jquery.validate.min.js') }}"></script>
+		<script src="{{ asset('vendor/jquery.easy-pie-chart/jquery.easypiechart.min.js') }}"></script>
+		<script src="{{ asset('vendor/jquery.gmap/jquery.gmap.min.js') }}"></script>
+		<script src="{{ asset('vendor/lazysizes/lazysizes.min.js') }}"></script>
+		<script src="{{ asset('vendor/isotope/jquery.isotope.min.js') }}"></script>
+		<script src="{{ asset('vendor/owl.carousel/owl.carousel.min.js') }}"></script>
+		<script src="{{ asset('vendor/magnific-popup/jquery.magnific-popup.min.js') }}"></script>
+		<script src="{{ asset('vendor/vide/jquery.vide.min.js') }}"></script>
+		<script src="{{ asset('vendor/vivus/vivus.min.js') }}"></script>
 
 		<!-- Theme Base, Components and Settings -->
-		<script src="/js/theme.js"></script>
+		<script src="{{ asset('js/theme.js') }}"></script>
 
 		<!-- Revolution Slider Scripts -->
-		<script src="/vendor/rs-plugin/js/jquery.themepunch.tools.min.js"></script>
-		<script src="/vendor/rs-plugin/js/jquery.themepunch.revolution.min.js"></script>
+		<script src="{{ asset('vendor/rs-plugin/js/jquery.themepunch.tools.min.js') }}"></script>
+		<script src="{{ asset('vendor/rs-plugin/js/jquery.themepunch.revolution.min.js') }}"></script>
 		<!-- Circle Flip Slideshow Script -->
-		<script src="/vendor/circle-flip-slideshow/js/jquery.flipshow.min.js"></script>
+		<script src="{{ asset('vendor/circle-flip-slideshow/js/jquery.flipshow.min.js') }}"></script>
 		<!-- Current Page Views -->
-		<script src="/js/views/view.home.js"></script>
+		<script src="{{ asset('js/views/view.home.js') }}"></script>
 
 		<!-- Theme Custom -->
-		<script src="/js/custom.js"></script>
+		<script src="{{ asset('js/custom.js') }}"></script>
 
 		<!-- Theme Initialization Files -->
-		<script src="/js/theme.init.js"></script>
+		<script src="{{ asset('js/theme.init.js') }}"></script>
 
 	</body>
 </html>
