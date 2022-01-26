@@ -1,6 +1,6 @@
 {% extends "base.html.twig" %}
 
-{% block title %}{% trans %} Reference Materials and Standars {% endtrans %} | {{parent()}}{% endblock %}
+{% block title %}{% trans %} Reference Materials and Standars {% endtrans %} | {{ parent() }}{% endblock %}
 {% block content %}
     			<div role="main" class="main">
 
@@ -12,8 +12,8 @@
 							</div>
 							<div class="col-md-4 order-1 order-md-2 align-self-center">
 								<ul class="breadcrumb breadcrumb-light d-block text-md-end text-4 mb-0">
-									<li><a href="index" class="text-decoration-none">Home</a></li>
-                                    <li><a href="products" class="text-decoration-none">Products</a></li>
+									<li><a href="{{ path('index') }}" class="text-decoration-none">{% trans %}Home{% endtrans %}</a></li>
+                                    <li><a href="{{ path('products') }}" class="text-decoration-none">{% trans %}Products{% endtrans %}</a></li>
 									<li class="active">{% trans %}Reference Materials and Standars{% endtrans %}</li>
 								</ul>
 							</div>
@@ -151,7 +151,7 @@
 									<div class="card border-0 border-radius-0 box-shadow-1">
 										<div class="card-body p-4 z-index-1">
 											<a>
-												<img class="card-img-top border-radius-0 mb-4" src="/img/CDN.png" alt="Product Name">
+												<img class="card-img-top border-radius-0 mb-4" src="{{ asset('img/CDN.png') }}" alt="Product Name">
 											</a>
 											<div class="card-body p-0">
 												<h4 class="card-title mb-3 text-5 font-weight-semibold"><a class="text-color-dark text-color-hover-primary text-decoration-none">{% trans %}PULVERIZED ROCK SAMPLES CDN-ME-1709 (100g bags){% endtrans %}</a></h4>
@@ -167,7 +167,7 @@
 									<div class="card border-0 border-radius-0 box-shadow-1">
 										<div class="card-body p-4 z-index-1">
 											<a>
-												<img class="card-img-top border-radius-0 mb-4" src="/img/CDN.png" alt="Product Name">
+												<img class="card-img-top border-radius-0 mb-4" src="{{ asset('img/CDN.png') }}" alt="Product Name">
 											</a>
 											<div class="card-body p-0">
 												<h4 class="card-title mb-3 text-5 font-weight-semibold"><a class="text-color-dark text-color-hover-primary text-decoration-none">{% trans %}PULVERIZED ROCK SAMPLES CDN-ME-1709 (1 kg jars){% endtrans %}</a></h4>
@@ -183,7 +183,7 @@
 									<div class="card border-0 border-radius-0 box-shadow-1">
 										<div class="card-body p-4 z-index-1">
 											<a>
-												<img class="card-img-top border-radius-0 mb-4" src="/img/CDN.png" alt="Product Name">
+												<img class="card-img-top border-radius-0 mb-4" src="{{ asset('img/CDN.png') }}" alt="Product Name">
 											</a>
 											<div class="card-body p-0">
 												<h4 class="card-title mb-3 text-5 font-weight-semibold"><a class="text-color-dark text-color-hover-primary text-decoration-none">{% trans %}PULVERIZED ROCK SAMPLES CDN-ME-1902 (100g bags){% endtrans %}</a></h4>
@@ -199,7 +199,7 @@
 									<div class="card border-0 border-radius-0 box-shadow-1">
 										<div class="card-body p-4 z-index-1">
 											<a>
-												<img class="card-img-top border-radius-0 mb-4" src="/img/CDN.png" alt="Product Name">
+												<img class="card-img-top border-radius-0 mb-4" src="{{ asset('img/CDN.png') }}" alt="Product Name">
 											</a>
 											<div class="card-body p-0">
 												<h4 class="card-title mb-3 text-5 font-weight-semibold"><a class="text-color-dark text-color-hover-primary text-decoration-none">{% trans %}PULVERIZED ROCK SAMPLES CDN-ME-1805 (60g bags){% endtrans %}</a></h4>
@@ -215,7 +215,7 @@
 									<div class="card border-0 border-radius-0 box-shadow-1">
 										<div class="card-body p-4 z-index-1">
 											<a>
-												<img class="card-img-top border-radius-0 mb-4" src="/img/CDN.png" alt="Product Name">
+												<img class="card-img-top border-radius-0 mb-4" src="{{ asset('img/CDN.png') }}" alt="Product Name">
 											</a>
 											<div class="card-body p-0">
 												<h4 class="card-title mb-3 text-5 font-weight-semibold"><a class="text-color-dark text-color-hover-primary text-decoration-none">{% trans %}PULVERIZED ROCK SAMPLES CDN-GS-P1A (50g bags){% endtrans %}</a></h4>

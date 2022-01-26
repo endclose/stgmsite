@@ -61,7 +61,7 @@ chemical-reagents:
 fire-assay:
   path:
     en: /fire-assay-products
-    es: /es/productos-hornos-fuego
+    es: /es/productos-hornos-ensayo-al-fuego
     pt: /pt/produtos-teste-fogo
   controller: App\Controller\SiteController::assay
 
@@ -72,7 +72,7 @@ geology:
     pt: /pt/produtos-geologia
   controller: App\Controller\SiteController::geology
 
-intruments:
+instruments:
   path:
     en: /instruments
     es: /es/instrumentos
@@ -96,7 +96,7 @@ metallurgical:
 reference-materials:
   path:
     en: /reference-materials
-    es: /es/materiales-referencia
+    es: /es/materiales-de-referencia
     pt: /pt/materiais-referência
   controller: App\Controller\SiteController::reference
 

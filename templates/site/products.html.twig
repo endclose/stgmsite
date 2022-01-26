@@ -1,5 +1,5 @@
 {% extends "base.html.twig" %}
-{% block title %}{% trans %} Products {% endtrans %} | {% endblock %}
+{% block title %}{% trans %} Products {% endtrans %} | {{ parent() }}{% endblock %}
 {% block content %}
     			<div role="main" class="main">
 
@@ -11,7 +11,7 @@
 							</div>
 							<div class="col-md-4 order-1 order-md-2 align-self-center">
 								<ul class="breadcrumb breadcrumb-light d-block text-md-end text-4 mb-0">
-									<li><a href="index" class="text-decoration-none">{% trans %}Home{% endtrans %}</a></li>
+									<li><a href="{{ path('index') }}" class="text-decoration-none">{% trans %}Home{% endtrans %}</a></li>
 									<li class="active">{% trans %}Products{% endtrans %}</li>
 								</ul>
 							</div>
@@ -145,7 +145,7 @@
 							</div>
 
 							<center>
-								<a href="prod-muestra.html" class="custom-read-more btn btn-link d-inline-flex align-items-center font-weight-semibold text-decoration-none ps-0 appear-animation" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="650">
+								<a href="{{ path('sample-prep')}}" class="custom-read-more btn btn-link d-inline-flex align-items-center font-weight-semibold text-decoration-none ps-0 appear-animation" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="650">
 									{% trans %}READ MORE{% endtrans %} 
 								</a>
 								</center>
@@ -215,7 +215,7 @@
 							</div>
 
 							<center>
-								<a href="prod-ensayo.html" class="custom-read-more btn btn-link d-inline-flex align-items-center font-weight-semibold text-decoration-none ps-0 appear-animation" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="650">
+								<a href="{{ path('fire-assay') }}" class="custom-read-more btn btn-link d-inline-flex align-items-center font-weight-semibold text-decoration-none ps-0 appear-animation" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="650">
 									{% trans %}READ MORE{% endtrans %} 
 								</a>
 								</center>
@@ -530,7 +530,7 @@
 									<div class="card border-0 border-radius-0 box-shadow-1">
 										<div class="card-body p-4 z-index-1">
 											<a>
-												<img class="card-img-top border-radius-0 mb-4" src="/img/CDN.png" alt="Product Name">
+												<img class="card-img-top border-radius-0 mb-4" src="{{ asset('img/CDN.png') }}" alt="Product Name">
 											</a>
 											<div class="card-body p-0">
 												<h4 class="card-title mb-3 text-5 font-weight-semibold"><a class="text-color-dark text-color-hover-primary text-decoration-none">{% trans %}Certified reference materials by CDN{% endtrans %}</a></h4>

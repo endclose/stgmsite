@@ -7,7 +7,7 @@
 						<ul>
 							<!-- Inicia segunda página de slider -->
 							<li class="slide" data-transition="fade">
-								<img src="/img/image.png"  
+								<img src="{{ asset('img/image.png') }}"  
 									alt=""
 									data-bgposition="center center" 
 									data-bgfit="cover" 
@@ -43,12 +43,12 @@
 									data-x="center"
 									data-y="center" data-voffset="['55','55','55','260']"
 									data-fontsize="['145','145','145','250']"
-									data-lineheight="['150','150','150','260']"><img src="/img/dorado2.png" width="600px" height="500" alt=""></div>
+									data-lineheight="['150','150','150','260']"><img src="{{ asset('img/dorado2.png') }}" width="600px" height="500" alt=""></div>
 
 							</li>
 
 							<!--<li class="slide-overlay" data-transition="fade">
-								<img src="/img/informe_laboratorios.jpg"  
+								<img src="{{ asset('img/informe_laboratorios.jpg') }}"  
 									alt=""
 									data-bgposition="center center" 
 									data-bgfit="cover" 
@@ -57,7 +57,7 @@
 							</li>
 
 							<li class="slide-overlay" data-transition="fade">
-								<img src="/img/image.png"  
+								<img src="{{ asset('img/image.png') }}"  
 									alt=""
 									data-bgposition="center center" 
 									data-bgfit="cover" 
@@ -91,7 +91,7 @@
 										<a class="text-decoration-none">
 											<div class="thumb-info3 custom-thumb-info-style-1 mb-3">
 												<div class="custom-thumb-info-icon bg-dark">
-													<img src="/img/fire-assay.png" class="img-fluid" alt="" />
+													<img src="{{ asset('img/fire-assay.png') }}" class="img-fluid" alt="" />
 												</div>
 												
 											</div>
@@ -103,7 +103,7 @@
 										<a  class="text-decoration-none">
 											<div class="thumb-info3 custom-thumb-info-style-1 mb-3">
 												<div class="custom-thumb-info-icon bg-dark">
-													<img src="/img/lab-design-illustration.png" class="img-fluid"/>
+													<img src="{{ asset('img/lab-design-illustration.png') }}" class="img-fluid"/>
 												</div>
 												
 											</div>
@@ -115,7 +115,7 @@
 										<a  class="text-decoration-none">
 											<div class="thumb-info3 custom-thumb-info-style-1 mb-3">
 												<div class="custom-thumb-info-icon bg-dark">
-													<img src="/img/mining-prep.png" class="img-fluid" alt="" />
+													<img src="{{ asset('img/mining-prep.png') }}" class="img-fluid" alt="" />
 												</div>
 											
 											</div>
@@ -127,7 +127,7 @@
 										<a  class="text-decoration-none">
 											<div class="thumb-info custom-thumb-info-style-1 mb-3">
 												<div class="custom-thumb-info-icon bg-dark">
-													<img src="/img/reference-material.png" class="img-fluid" alt="" />
+													<img src="{{ asset('img/reference-material.png') }}" class="img-fluid" alt="" />
 												</div>
 												
 											</div>
@@ -158,7 +158,7 @@
 							<div class="row justify-content-center process custom-process-style-1 my-5">
 								<div class="process-step col-sm-9 col-md-7 col-lg-4 mb-5 mb-lg-4 appear-animation" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="300">
 									<div class="process-step-circle">
-										<strong class="process-step-circle-content text-color-primary"><img src="/img/avantu.png" class="img-fluid"/></strong>
+										<strong class="process-step-circle-content text-color-primary"><img src="{{ asset('img/avantu.png') }}" class="img-fluid"/></strong>
 									</div>
 									<div class="process-step-content px-lg-4">
 										<h4 class="font-weight-bold custom-font-size-2 pb-1 mb-2">{% trans %}Avantu{% endtrans %}</h4>
@@ -166,7 +166,11 @@
 								</div>
 								<div class="process-step col-sm-9 col-md-7 col-lg-4 mb-5 mb-lg-4 appear-animation" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="500">
 									<div class="process-step-circle">
-										<strong class="process-step-circle-content text-color-primary"><img src="/img/rocklabs.png" class="img-fluid"/></strong>
+										<strong class="process-step-circle-content text-color-primary"><img 
+										
+										
+										
+										"{{ asset('img/rocklabs.png') }}" class="img-fluid"/></strong>
 									</div>
 									<div class="process-step-content px-lg-4">
 										<h4 class="font-weight-bold custom-font-size-2 pb-1 mb-2">{% trans %}Rocklabs{% endtrans %}</h4>
@@ -175,7 +179,7 @@
 
 								<div class="process-step col-sm-9 col-md-7 col-lg-4 mb-5 mb-lg-4 appear-animation" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="700">
 									<div class="process-step-circle">
-										<strong class="process-step-circle-content text-color-primary"><img src="/img/coldblock.jpg" class="img-fluid"/></strong>
+										<strong class="process-step-circle-content text-color-primary"><img src="{{ asset('img/coldblock.jpg') }}" class="img-fluid"/></strong>
 									</div>
 									<div class="process-step-content px-lg-4">
 										<h4 class="font-weight-bold custom-font-size-2 pb-1 mb-2" >{% trans %}ColdBlock{% endtrans %}</h4>
@@ -184,7 +188,7 @@
 
 								<div class="process-step col-sm-9 col-md-7 col-lg-4 mb-5 mb-lg-4 appear-animation" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="700">
 									<div class="process-step-circle">
-										<strong class="process-step-circle-content text-color-primary"><img src="/img/Furnace-logo.png" class="img-fluid"/></strong>
+										<strong class="process-step-circle-content text-color-primary"><img src="{{ asset('img/Furnace-logo.png') }}" class="img-fluid"/></strong>
 									</div>
 									<div class="process-step-content px-lg-4">
 										<h4 class="font-weight-bold custom-font-size-2 pb-1 mb-2" >{% trans %}Furnace and Assays{% endtrans %}</h4>
@@ -193,7 +197,7 @@
 
 								<div class="process-step col-sm-9 col-md-7 col-lg-4 mb-5 mb-lg-4 appear-animation" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="700">
 									<div class="process-step-circle">
-										<strong class="process-step-circle-content text-color-primary"><img src="/img/psi-logo.png" class="img-fluid"/></strong>
+										<strong class="process-step-circle-content text-color-primary"><img src="{{ asset('img/psi-logo.png') }}" class="img-fluid"/></strong>
 									</div>
 									<div class="process-step-content px-lg-4">
 										<h4 class="font-weight-bold custom-font-size-2 pb-1 mb-2" >{% trans %}Prolite Systems Inc.{% endtrans %}</h4>
@@ -203,7 +207,7 @@
 							
 							</div>
 							<center>
-							<a href="colaboradores.html" class="custom-read-more btn btn-link d-inline-flex align-items-center font-weight-semibold text-decoration-none ps-0 appear-animation" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="650">
+							<a href="{{ path('partners') }}" class="custom-read-more btn btn-link d-inline-flex align-items-center font-weight-semibold text-decoration-none ps-0 appear-animation" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="650">
 								{% trans %}READ MORE{% endtrans %} 
 							</a>
 							</center>

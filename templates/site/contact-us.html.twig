@@ -1,5 +1,5 @@
 {% extends "base.html.twig" %}
-{% block title %}{% trans %} Contact Us {% endtrans %} | {% endblock %}
+{% block title %}{% trans %} Contact Us {% endtrans %} | {{ parent() }}{% endblock %}
 {% block content %}
     			<div role="main" class="main">
 
@@ -11,7 +11,7 @@
 							</div>
 							<div class="col-md-4 order-1 order-md-2 align-self-center">
 								<ul class="breadcrumb breadcrumb-light d-block text-md-end text-4 mb-0">
-									<li><a href="index" class="text-decoration-none">{% trans %}Home{% endtrans %}</a></li>
+									<li><a href="{{ path('index')}}" class="text-decoration-none">{% trans %}Home{% endtrans %}</a></li>
 									<li class="active">{% trans %}Contact Us{% endtrans %}</li>
 								</ul>
 							</div>
@@ -287,7 +287,7 @@
 								<div class="col">
 									<div class="feature-box feature-box-style-5">
 										<div class="feature-box-icon">
-											<img class="icon-animated" width="42" src="/img/demos/industry-factory/icons/icon-location.svg" alt="" data-icon data-plugin-options="{'onlySVG': true, 'extraClass': 'svg-fill-color-primary'}" />
+											<img class="icon-animated" width="42" src="{{ asset('img/demos/industry-factory/icons/icon-location.svg') }}" alt="" data-icon data-plugin-options="{'onlySVG': true, 'extraClass': 'svg-fill-color-primary'}" />
 										</div>
 										<div class="feature-box-info">
 											<h3 class="text-transform-none font-weight-bold custom-font-size-1 mb-3">{% trans %}Our Address{% endtrans %}</h3>
@@ -307,12 +307,12 @@
 								<div class="col">
 									<div class="feature-box feature-box-style-5">
 										<div class="feature-box-icon">
-											<img class="icon-animated" width="42" src="/img/demos/industry-factory/icons/icon-mail.svg" alt="" data-icon data-plugin-options="{'onlySVG': true, 'extraClass': 'svg-fill-color-primary position-relative bottom-5'}" />
+											<img class="icon-animated" width="42" src="{{ asset('img/demos/industry-factory/icons/icon-mail.svg') }}" alt="" data-icon data-plugin-options="{'onlySVG': true, 'extraClass': 'svg-fill-color-primary position-relative bottom-5'}" />
 										</div>
 										<div class="feature-box-info">
 											<h3 class="text-transform-none font-weight-bold custom-font-size-1 pb-1 mb-2">{% trans %}E-Mail{% endtrans %}</h3>
 											<ul class="list list-unstyled pe-5 mb-0">
-												<li class="mb-0"><a href="info@stgmining.com" class="text-color-default text-color-hover-primary text-decoration-none">{% trans %}info@stgmining.com{% endtrans %}</a></li>
+												<li class="mb-0"><a href="mailto:info@stgmining.com" class="text-color-default text-color-hover-primary text-decoration-none">{% trans %}info@stgmining.com{% endtrans %}</a></li>
 											</ul>
 										</div>
 									</div>
@@ -322,7 +322,7 @@
 								<div class="col">
 									<div class="feature-box feature-box-style-5">
 										<div class="feature-box-icon">
-											<img class="icon-animated" width="42" src="/img/demos/industry-factory/icons/icon-phone.svg" alt="" data-icon data-plugin-options="{'onlySVG': true, 'extraClass': 'svg-fill-color-primary'}" />
+											<img class="icon-animated" width="42" src="{{ asset('img/demos/industry-factory/icons/icon-phone.svg') }}" alt="" data-icon data-plugin-options="{'onlySVG': true, 'extraClass': 'svg-fill-color-primary'}" />
 										</div>
 										<div class="feature-box-info">
 											<h3 class="text-transform-none font-weight-bold custom-font-size-1 pb-1 mb-2">{% trans %}Our Phone Number{% endtrans %}</h3>
