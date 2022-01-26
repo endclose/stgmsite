@@ -184,8 +184,8 @@
 													<i class="fas fa-angle-down"></i>
 												</a>
 												<div class="dropdown-menu" aria-labelledby="dropdownLanguage">
-													<a class="dropdown-item" href="#"><img src="{{ asset('img/eua.png')}}" class="flag flag-us" alt="English" />{% trans %} English{% endtrans %}</a>
-													<a class="dropdown-item" href="#"><img src="{{asset('img/espana.png')}}" class="flag flag-es" alt="English" />{% trans %} Spanish {% endtrans %}</a>
+													<a class="dropdown-item" href="{{ path(app.request.attributes.get('_route'), {_locale:'en'}) }}"><img src="{{ asset('img/eua.png')}}" class="flag flag-us" alt="English" />{% trans %} English{% endtrans %}</a>
+													<a class="dropdown-item" href="{{ path(app.request.attributes.get('_route'), {_locale:'es'}) }}"><img src="{{asset('img/espana.png')}}" class="flag flag-es" alt="English" />{% trans %} Spanish {% endtrans %}</a>
 													<a class="dropdown-item" href="#"><img src="{{asset('img/brazil.png')}}" class="flag flag-fr" alt="English" /> {% trans %}Portuguese{% endtrans %}</a>
 												</div>
 												</li>
