@@ -99,6 +99,3 @@ reference-materials:
     es: /es/materiales-de-referencia
     pt: /pt/materiais-referência
   controller: App\Controller\SiteController::reference
-
-
-
