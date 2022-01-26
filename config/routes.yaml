@@ -61,7 +61,7 @@ chemical-reagents:
 fire-assay:
   path:
     en: /fire-assay-products
-    es: /es/productos-hornos-ensayo-al-fuego
+    es: /es/productos-para-ensayo-al-fuego
     pt: /pt/produtos-teste-fogo
   controller: App\Controller\SiteController::assay
 
@@ -82,8 +82,8 @@ instruments:
 lab-equipment:
   path:
     en: /lab-equipment-products
-    es: /es/productos-equipo-laboratorio
-    pt: /pt/produtos-equipamento-laboratório
+    es: /es/equipo-de-laboratorio
+    pt: /pt/equipamento-laboratório
   controller: App\Controller\SiteController::equipment
 
 metallurgical:
