@@ -625,15 +625,15 @@
       </trans-unit>
       <trans-unit id="jIowzWa" resname="o tienes alguna duda al respecto,">
         <source>o tienes alguna duda al respecto,</source>
-        <target>__o tienes alguna duda al respecto,</target>
+        <target>o tienes alguna duda al respecto,</target>
       </trans-unit>
       <trans-unit id="UndCdH7" resname="no dudes en solicitar una consultoría gratuita y uno de">
         <source>no dudes en solicitar una consultoría gratuita y uno de</source>
-        <target>__no dudes en solicitar una consultoría gratuita y uno de</target>
+        <target>no dudes en solicitar una consultoría gratuita y uno de</target>
       </trans-unit>
       <trans-unit id="DzzAT0f" resname="nuestros asesores te contactará a la brevedad.">
         <source>nuestros asesores te contactará a la brevedad.</source>
-        <target>__nuestros asesores te contactará a la brevedad.</target>
+        <target>nuestros asesores te contactará a la brevedad.</target>
       </trans-unit>
       <trans-unit id="mhx7uqZ" resname="Enrironment Products">
         <source>Enrironment Products</source>
@@ -1056,6 +1056,184 @@
       <trans-unit id="8GtRg4K" resname="We seek to provide you with the best guidance on the use of systems, and corrections for mining equipment malfunctions.">
         <source>We seek to provide you with the best guidance on the use of systems, and corrections for mining equipment malfunctions.</source>
         <target>Buscamos brindarle la mejor orientación sobre el uso de los sistemas y las correcciones para el mal funcionamiento de los equipos de minería.</target>
+      </trans-unit>
+      <trans-unit id="tMMvtw2" resname="973 3rd St W&lt;/li&gt;&#10;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&lt;li&gt; North Vancouver, BC &lt;/li&gt;&#10;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&lt;li&gt; V7P 1E4&lt;/li&gt;&#10;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&lt;li&gt;  Canada">
+        <source>973 3rd St W&lt;/li&gt;
+										&lt;li&gt; North Vancouver, BC &lt;/li&gt;
+										&lt;li&gt; V7P 1E4&lt;/li&gt;
+										&lt;li&gt;  Canada</source>
+        <target>973 3rd St W
+										North Vancouver, BC
+										V7P 1E4
+										Canada</target>
+      </trans-unit>
+      <trans-unit id="5cpX4oY" resname="We pride ourselves on building strong partnerships in the mining laboratory&#10;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;sector that lead to lasting relationships with our clients. We do this by providing tailor-made services to our &#10;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;globally based clients.">
+        <source>We pride ourselves on building strong partnerships in the mining laboratory
+								sector that lead to lasting relationships with our clients. We do this by providing tailor-made services to our 
+								globally based clients.</source>
+        <target>La satisfacción del cliente es el núcleo de la filosofía de STG Mining y nuestro experimentado personal internacional se esfuerza por hacer su vida un poco más fácil simplificando las necesidades de su laboratorio.</target>
+      </trans-unit>
+      <trans-unit id="qjsXYA2" resname="Here">
+        <source>Here</source>
+        <target>Aquí</target>
+      </trans-unit>
+      <trans-unit id="nwnNp0n" resname="973 3rd St">
+        <source>973 3rd St</source>
+        <target>973 3rd St</target>
+      </trans-unit>
+      <trans-unit id="LuicUIV" resname="North Vancouver">
+        <source>North Vancouver</source>
+        <target>North Vancouver</target>
+      </trans-unit>
+      <trans-unit id="seTbABi" resname="E-Mail: canada@stgmining.com &lt;/p&gt;&lt;p&gt;Phone Number: +1-778-340-9121">
+        <source>E-Mail: canada@stgmining.com &lt;/p&gt;&lt;p&gt;Phone Number: +1-778-340-9121</source>
+        <target>E-Mail: canada@stgmining.com
+        Phone Number: +1-778-340-9121</target>
+      </trans-unit>
+      <trans-unit id="gjv8vvt" resname="Blvd. Manuel Avila Camacho 32 Int. 6">
+        <source>Blvd. Manuel Avila Camacho 32 Int. 6</source>
+        <target>Blvd. Manuel Avila Camacho 32 Int. 6</target>
+      </trans-unit>
+      <trans-unit id="2Mg2ES0" resname="Lomas de Chapultepec III Section">
+        <source>Lomas de Chapultepec III Section</source>
+        <target>Lomas de Chapultepec III Section</target>
+      </trans-unit>
+      <trans-unit id="ziOIqnd" resname="Alcaldía Miguel Hidalgo">
+        <source>Alcaldía Miguel Hidalgo</source>
+        <target>Alcaldía Miguel Hidalgo</target>
+      </trans-unit>
+      <trans-unit id="itVQoFw" resname="Cuidad de Mexico">
+        <source>Cuidad de Mexico</source>
+        <target>Cuidad de Mexico</target>
+      </trans-unit>
+      <trans-unit id="uc_cohq" resname="Phone Number: (+52)55-322-209-94">
+        <source>Phone Number: (+52)55-322-209-94</source>
+        <target>Phone Number: (+52)55-322-209-94</target>
+      </trans-unit>
+      <trans-unit id="QqE6oXQ" resname="Rua Ministro Hermenegildo de Barros 459">
+        <source>Rua Ministro Hermenegildo de Barros 459</source>
+        <target>Rua Ministro Hermenegildo de Barros 459</target>
+      </trans-unit>
+      <trans-unit id="ilwFiV9" resname="Itapoa-Belo Horizonte">
+        <source>Itapoa-Belo Horizonte</source>
+        <target>Itapoa-Belo Horizonte</target>
+      </trans-unit>
+      <trans-unit id="cgRKsa6" resname="Brasil.&lt;/p&gt;&lt;p&gt;brasil@stgmining.com">
+        <source>Brasil.&lt;/p&gt;&lt;p&gt;brasil@stgmining.com</source>
+        <target>Brasil.
+        brasil@stgmining.com></target>
+      </trans-unit>
+      <trans-unit id="MhZrnS_" resname="Calle Chinchasuyu #4 Esq. Antisuyu">
+        <source>Calle Chinchasuyu #4 Esq. Antisuyu</source>
+        <target>Calle Chinchasuyu #4 Esq. Antisuyu</target>
+      </trans-unit>
+      <trans-unit id="4RWf6sm" resname="Cota Cota, La Paz">
+        <source>Cota Cota, La Paz</source>
+        <target>Cota Cota, La Paz</target>
+      </trans-unit>
+      <trans-unit id="hcFrTOu" resname="E-Mail: bolivia@stgmining.com">
+        <source>E-Mail: bolivia@stgmining.com</source>
+        <target>E-Mail: bolivia@stgmining.com</target>
+      </trans-unit>
+      <trans-unit id="VCXZBYV" resname="San Pablo N 9900, Bodega 6, Edificio 2">
+        <source>San Pablo N 9900, Bodega 6, Edificio 2</source>
+        <target>San Pablo N 9900, Bodega 6, Edificio 2</target>
+      </trans-unit>
+      <trans-unit id="OAD7eia" resname="Comuna de Pudahuel, Santiago">
+        <source>Comuna de Pudahuel, Santiago</source>
+        <target>Comuna de Pudahuel, Santiago</target>
+      </trans-unit>
+      <trans-unit id="w6Ng_YC" resname="E-Mail: chile@stgmining.com">
+        <source>E-Mail: chile@stgmining.com</source>
+        <target>E-Mail: chile@stgmining.com</target>
+      </trans-unit>
+      <trans-unit id="l2kKVHx" resname="Calle Carlos Augusto Salaverry 239, Urb. La Arboleda">
+        <source>Calle Carlos Augusto Salaverry 239, Urb. La Arboleda</source>
+        <target>Calle Carlos Augusto Salaverry 239, Urb. La Arboleda</target>
+      </trans-unit>
+      <trans-unit id="tZMhXWA" resname="San Miguel, Lima">
+        <source>San Miguel, Lima</source>
+        <target>San Miguel, Lima</target>
+      </trans-unit>
+      <trans-unit id="5Irq9cd" resname="E-Mail: peru@stgmining.com">
+        <source>E-Mail: peru@stgmining.com</source>
+        <target>E-Mail: peru@stgmining.com</target>
+      </trans-unit>
+      <trans-unit id="mjfTngG" resname="W North Vancouver">
+        <source>W North Vancouver</source>
+        <target>W North Vancouver</target>
+      </trans-unit>
+      <trans-unit id="oZSv5Re" resname="Crucibles">
+        <source>Crucibles</source>
+        <target>Crisoles</target>
+      </trans-unit>
+      <trans-unit id="yDjciZi" resname="Refractory Brick Kits">
+        <source>Refractory Brick Kits</source>
+        <target>Ladrillos Refractarios</target>
+      </trans-unit>
+      <trans-unit id="aa2ErIE" resname="Has an easy-to-use rotary main on/off switch. It is heated by 12 elements mounted &#10;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;on the side walls.">
+        <source>Has an easy-to-use rotary main on/off switch. It is heated by 12 elements mounted 
+												on the side walls.</source>
+        <target>Este horno tiene un interruptor principal giratorio de encendido/apagado fácil de usar. Se calienta mediante 12 elementos montados en las paredes laterales.</target>
+      </trans-unit>
+      <trans-unit id="8UysoHl" resname="Has a double-burner system forced by a fan with a system of automatic ignition. It can be switched &#10;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;between NG and LPG to suit different site requirements.">
+        <source>Has a double-burner system forced by a fan with a system of automatic ignition. It can be switched 
+												between NG and LPG to suit different site requirements.</source>
+        <target>Este horno tiene un sistema de doble quemador forzado por ventilador, con sistema de encendido automático. Se puede cambiar entre GN y GLP (propano) para adaptarse a los diferentes requisitos del sitio</target>
+      </trans-unit>
+      <trans-unit id="9.0yh0F" resname="Mining Laboratory Specialists">
+        <source>Mining Laboratory Specialists</source>
+        <target>Especialistas en Laboratior de Minería</target>
+      </trans-unit>
+      <trans-unit id="m_iSmJO" resname="Canadian Company Dedicated to Certified Reference Materials">
+        <source>Canadian Company Dedicated to Certified Reference Materials</source>
+        <target>Empresa Canadiense Dedicada a Materiales de Referencia Certificados</target>
+      </trans-unit>
+      <trans-unit id="6M6O3H1" resname="Canadian Made Digestion Systems">
+        <source>Canadian Made Digestion Systems</source>
+        <target>Sistemas de Digestión de Fabricación Canadiense</target>
+      </trans-unit>
+      <trans-unit id="eWrWmZd" resname="Australian Company Producer of Drying, Melting and Cupellation Furnaces">
+        <source>Australian Company Producer of Drying, Melting and Cupellation Furnaces</source>
+        <target>Empresa Australiana Productora de Hornos de Secado, Fusión y Copelación</target>
+      </trans-unit>
+      <trans-unit id="rr4KbEl" resname="Australian Manufactured Drying, Melting and Cupellation Furnaces">
+        <source>Australian Manufactured Drying, Melting and Cupellation Furnaces</source>
+        <target>Hornos de Secado, Fusión y Copelación de Fabricación Australiana</target>
+      </trans-unit>
+      <trans-unit id="Ci7BWaa" resname="Rocklabs is a recognized brand, under the Scott Technologies seal; offer robotic and intelligent automation solutions.&#10;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;Was established in 1969 as a commercial, specializing in geochemical analysis and fire assaying.">
+        <source>Rocklabs is a recognized brand, under the Scott Technologies seal; offer robotic and intelligent automation solutions.
+										Was established in 1969 as a commercial, specializing in geochemical analysis and fire assaying.</source>
+        <target>Rocklabs es una marca reconocida, bajo el sello de Scott Technologies; ofrecen soluciones robóticas y de automatización inteligente. Se estableció en 1969 como un laboratorio comercial, especializado en análisis geoquímico y ensayos de fuego.</target>
+      </trans-unit>
+      <trans-unit id="3dnOMPr" resname="Rocklabs Reference Material">
+        <source>Rocklabs Reference Material</source>
+        <target>Materiales de Referencia por Rocklabs</target>
+      </trans-unit>
+      <trans-unit id="pYt6mkq" resname="PULVERIZED ROCK SAMPLES BY CND">
+        <source>PULVERIZED ROCK SAMPLES BY CND</source>
+        <target>Muestras de Piedra Pulverizada por CDN</target>
+      </trans-unit>
+      <trans-unit id="d0lYFF3" resname="Laboratory Equipment Maintenance">
+        <source>Laboratory Equipment Maintenance</source>
+        <target>Mantenimiento de Equipo de Laboratorio</target>
+      </trans-unit>
+      <trans-unit id="6V2ZWwq" resname="We work closely with your technical team to provide preventive maintenance while promoting factory recommended parts.">
+        <source>We work closely with your technical team to provide preventive maintenance while promoting factory recommended parts.</source>
+        <target>Trabajamos estrechamente con usted para mantener su equipo en un estado de funcionamiento óptimo.</target>
+      </trans-unit>
+      <trans-unit id="RlTgpU." resname="We offer a global, factory trained service team which offers efficient solutions in maintaining your mining lab production equipment.">
+        <source>We offer a global, factory trained service team which offers efficient solutions in maintaining your mining lab production equipment.</source>
+        <target>Proporcionamos inspecciones, pruebas, reemplazos, reinstalaciones, calibraciones, reparaciones y reconstrucciones según sea necesario.</target>
+      </trans-unit>
+      <trans-unit id="GpFSCiX" resname="By knowing your requirements, we can assist you in choosing the right equipment and provide &#10;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;Specific solutions that fit your needs.">
+        <source>By knowing your requirements, we can assist you in choosing the right equipment and provide 
+														Specific solutions that fit your needs.</source>
+        <target>Al conocer sus requisitos, podemos ayudarlo a elegir el equipo adecuado y brindarle soluciones específicas que se ajusten a sus necesidades.</target>
+      </trans-unit>
+      <trans-unit id="lj5BfjW" resname="Our experienced team of service technicians will assist with a full range of product support including Installation, scheduled maintenance and emergency service.">
+        <source>Our experienced team of service technicians will assist with a full range of product support including Installation, scheduled maintenance and emergency service.</source>
+        <target>Nuestro experimentado equipo de técnicos de servicio lo ayudará con una gama completa de soporte de productos, incluida la instalación, el mantenimiento programado y el servicio de emergencia.</target>
       </trans-unit>
     </body>
   </file>
