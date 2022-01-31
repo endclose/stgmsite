@@ -1253,23 +1253,63 @@
       </trans-unit>
       <trans-unit id="Cj21LmO" resname="We count with all the materials reference by CDN, on different size and weight, as well as different material.">
         <source>We count with all the materials reference by CDN, on different size and weight, as well as different material.</source>
-        <target>Contamos con diferentes tipos de materias de referencia y piedras pulverizadas marca CDN, en diferentes tamaños y pesos, al igual, con diferentes materiales.</target>
+        <target>Contamos con diferentes tipos de materias de referencia y rocas pulverizadas marca CDN, en diferentes tamaños y pesos, al igual, con diferentes materiales.</target>
       </trans-unit>
       <trans-unit id="OMnN3Ue" resname="Phone Number: +55-31-98479-4090">
         <source>Phone Number: +55-31-98479-4090</source>
-        <target>Número de teléfono: +55-31-98479-4090</target>
+        <target>Número de Teléfono: +55-31-98479-4090</target>
       </trans-unit>
       <trans-unit id="5ZzMQVR" resname="Phone Number: +591-2-715-619-5855">
         <source>Phone Number: +591-2-715-619-5855</source>
-        <target>Número de teléfono: +591-2-715-619-5855</target>
+        <target>Número de Teléfono: +591-2-715-619-5855</target>
       </trans-unit>
       <trans-unit id="EY.Fsr8" resname="Phone Number: +56-2-2800-5531">
         <source>Phone Number: +56-2-2800-5531</source>
-        <target>Número de teléfono: +56-2-2800-5531</target>
+        <target>Número de Teléfono: +56-2-2800-5531</target>
       </trans-unit>
       <trans-unit id="rNMIaH5" resname="Phone Number: +51-9-9867-2616">
         <source>Phone Number: +51-9-9867-2616</source>
-        <target>Número de teléfono: +51-9-9867-2616</target>
+        <target>Número de Teléfono: +51-9-9867-2616</target>
+      </trans-unit>
+      <trans-unit id="8FcUeE2" resname="E-Mail: canada@stgmining.com &lt;/p&gt;&lt;p&gt;Phone number: +1-778-340-9121">
+        <source>E-Mail: canada@stgmining.com &lt;/p&gt;&lt;p&gt;Phone number: +1-778-340-9121</source>
+        <target>Correo Electrónico: canada@stgmining.com Número de Teléfono: +1-778-340-9121</target>
+      </trans-unit>
+      <trans-unit id="S7lOVwp" resname="E-Mail: mexico@stgmining.com">
+        <source>E-Mail: mexico@stgmining.com</source>
+        <target>Correo Electrónico: mexico@stgmining.com</target>
+      </trans-unit>
+      <trans-unit id="cCY75DG" resname="Phone number: +52-55-8526-6358">
+        <source>Phone number: +52-55-8526-6358</source>
+        <target>Número de Teléfono: +52-55-8526-6358</target>
+      </trans-unit>
+      <trans-unit id="SdwPNlI" resname="E-Mail: brasil@stgmining.com">
+        <source>E-Mail: brasil@stgmining.com</source>
+        <target>Correo Electrónico: brasil@stgmining.com</target>
+      </trans-unit>
+      <trans-unit id="qy6il8s" resname="We count with all the material reference by Rocklabs, on different size and weight, as well as different minerals.">
+        <source>We count with all the material reference by Rocklabs, on different size and weight, as well as different minerals.</source>
+        <target>Contamos con distintos materiales de referencia elaborados por Rocklabs, contanto con distintas presentaciones, usando diferentes minerales como platino, oro y plata.</target>
+      </trans-unit>
+      <trans-unit id="wC4Q3W5" resname="PULVERIZED ROCK SAMPLES BY CDN">
+        <source>PULVERIZED ROCK SAMPLES BY CDN</source>
+        <target>Muestras de Roca Pulverizada por CDN</target>
+      </trans-unit>
+      <trans-unit id="cgGXlyY" resname="E-Mail: canada@stgmining.com &lt;/p&gt;">
+        <source>E-Mail: canada@stgmining.com &lt;/p&gt;</source>
+        <target>Correo Electrónico: canada@stgmining.com</target>
+      </trans-unit>
+      <trans-unit id="O6zim3t" resname="&lt;p&gt;Phone number: +1-778-340-9121">
+        <source>&lt;p&gt;Phone number: +1-778-340-9121</source>
+        <target>Número de Teléfono: +1-778-340-9121</target>
+      </trans-unit>
+      <trans-unit id="pnncEWy" resname="E-Mail: canada@stgmining.com">
+        <source>E-Mail: canada@stgmining.com</source>
+        <target>Correo Electrónico: canada@stgmining.com</target>
+      </trans-unit>
+      <trans-unit id="hSezhL9" resname="Phone number: +1-778-340-9121">
+        <source>Phone number: +1-778-340-9121</source>
+        <target>Número de Teléfono: +1-778-340-9121</target>
       </trans-unit>
     </body>
   </file>
