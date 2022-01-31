@@ -1255,6 +1255,22 @@
         <source>We count with all the materials reference by CDN, on different size and weight, as well as different material.</source>
         <target>Contamos con diferentes tipos de materias de referencia y piedras pulverizadas marca CDN, en diferentes tamaños y pesos, al igual, con diferentes materiales.</target>
       </trans-unit>
+      <trans-unit id="OMnN3Ue" resname="Phone Number: +55-31-98479-4090">
+        <source>Phone Number: +55-31-98479-4090</source>
+        <target>Número de teléfono: +55-31-98479-4090</target>
+      </trans-unit>
+      <trans-unit id="5ZzMQVR" resname="Phone Number: +591-2-715-619-5855">
+        <source>Phone Number: +591-2-715-619-5855</source>
+        <target>Número de teléfono: +591-2-715-619-5855</target>
+      </trans-unit>
+      <trans-unit id="EY.Fsr8" resname="Phone Number: +56-2-2800-5531">
+        <source>Phone Number: +56-2-2800-5531</source>
+        <target>Número de teléfono: +56-2-2800-5531</target>
+      </trans-unit>
+      <trans-unit id="rNMIaH5" resname="Phone Number: +51-9-9867-2616">
+        <source>Phone Number: +51-9-9867-2616</source>
+        <target>Número de teléfono: +51-9-9867-2616</target>
+      </trans-unit>
     </body>
   </file>
 </xliff>
