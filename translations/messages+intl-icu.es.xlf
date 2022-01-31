@@ -1311,6 +1311,10 @@
         <source>Phone number: +1-778-340-9121</source>
         <target>Número de Teléfono: +1-778-340-9121</target>
       </trans-unit>
+      <trans-unit id="3x4UFpT" resname="We count with distinct reference materials by Rocklabs, count with different presentation, using materials as gold, silver and platinum.">
+        <source>We count with distinct reference materials by Rocklabs, count with different presentation, using materials as gold, silver and platinum.</source>
+        <target>Contamos con distintos materiales de referencia elaborados por Rocklabs, contanto con distintas presentaciones, usando diferentes minerales como platino, oro y plata.</target>
+      </trans-unit>
     </body>
   </file>
 </xliff>
