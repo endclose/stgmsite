@@ -55,7 +55,7 @@
       </trans-unit>
       <trans-unit id="GjZGPHL" resname="Reference Materials">
         <source>Reference Materials</source>
-        <target>Materiales de Referencia y Estándares</target>
+        <target>Materiales de Referencia</target>
       </trans-unit>
       <trans-unit id="E9.XIVU" resname="Safety Products">
         <source>Safety Products</source>
@@ -264,7 +264,7 @@
       </trans-unit>
       <trans-unit id="ucbdsZy" resname="As Mining Laboratory Specialists">
         <source>As Mining Laboratory Specialists</source>
-        <target>Como Especialistas en Laboratorios de Minería.</target>
+        <target>Especialistas en Laboratorios de Minería.</target>
       </trans-unit>
       <trans-unit id="6OkI3PL" resname="We provide products and services that fit your unique needs.">
         <source>We provide products and services that fit your unique needs.</source>
@@ -284,7 +284,7 @@
       </trans-unit>
       <trans-unit id="80T6xUU" resname="Reference Materiasl and Standars">
         <source>Reference Materiasl and Standars</source>
-        <target>Materias de Referencia y Estándares.</target>
+        <target>Materias de Referencia</target>
       </trans-unit>
       <trans-unit id="IQLc0SW" resname="Over the years, we have partnered with leaders in the mining industry.">
         <source>Over the years, we have partnered with leaders in the mining industry.</source>
@@ -312,7 +312,7 @@
       </trans-unit>
       <trans-unit id="Uw5l7hd" resname="Crucibles (Morganite and Noltina)">
         <source>Crucibles (Morganite and Noltina)</source>
-        <target>Crisoles (Morganite y Noltina)</target>
+        <target>Crisoles</target>
       </trans-unit>
       <trans-unit id="lflxsEo" resname="High-performance crucibles and foundry consumables for non-ferrous metal melting applications.">
         <source>High-performance crucibles and foundry consumables for non-ferrous metal melting applications.</source>
@@ -903,7 +903,7 @@
       </trans-unit>
       <trans-unit id="_nMBgUD" resname="Reference Materials and Standars">
         <source>Reference Materials and Standars</source>
-        <target>Materiales de Referencia y Estándares</target>
+        <target>Materiales de Referencia</target>
       </trans-unit>
       <trans-unit id="XsnBd7X" resname="Certified reference materials by Rocklabs">
         <source>Certified reference materials by Rocklabs</source>
@@ -1183,7 +1183,7 @@
       </trans-unit>
       <trans-unit id="9.0yh0F" resname="Mining Laboratory Specialists">
         <source>Mining Laboratory Specialists</source>
-        <target>Especialistas en Laboratior de Minería</target>
+        <target>Especialistas en Laboratirios de Minería</target>
       </trans-unit>
       <trans-unit id="m_iSmJO" resname="Canadian Company Dedicated to Certified Reference Materials">
         <source>Canadian Company Dedicated to Certified Reference Materials</source>
