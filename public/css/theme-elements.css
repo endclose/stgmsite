@@ -16098,7 +16098,7 @@ html.gecko .sort-destination.sort-destination-margin > [class*="col-"] {
 	position: relative;
 	text-decoration: none;
 	max-width: 100%;
-	background-color: #FFF;
+	background-color: transparent;
 	border-radius: 4px;
 	overflow: hidden;
 	-webkit-backface-visibility: hidden;
