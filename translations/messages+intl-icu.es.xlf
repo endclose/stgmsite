@@ -1121,7 +1121,7 @@
       <trans-unit id="cgRKsa6" resname="Brasil.&lt;/p&gt;&lt;p&gt;brasil@stgmining.com">
         <source>Brasil.&lt;/p&gt;&lt;p&gt;brasil@stgmining.com</source>
         <target>Brasil.
-        brasil@stgmining.com></target>
+        brasil@stgmining.com</target>
       </trans-unit>
       <trans-unit id="MhZrnS_" resname="Calle Chinchasuyu #4 Esq. Antisuyu">
         <source>Calle Chinchasuyu #4 Esq. Antisuyu</source>
@@ -1183,7 +1183,7 @@
       </trans-unit>
       <trans-unit id="9.0yh0F" resname="Mining Laboratory Specialists">
         <source>Mining Laboratory Specialists</source>
-        <target>Especialistas en Laboratirios de Minería</target>
+        <target>Especialistas en Laboratorios de Minería</target>
       </trans-unit>
       <trans-unit id="m_iSmJO" resname="Canadian Company Dedicated to Certified Reference Materials">
         <source>Canadian Company Dedicated to Certified Reference Materials</source>
@@ -1234,6 +1234,26 @@
       <trans-unit id="lj5BfjW" resname="Our experienced team of service technicians will assist with a full range of product support including Installation, scheduled maintenance and emergency service.">
         <source>Our experienced team of service technicians will assist with a full range of product support including Installation, scheduled maintenance and emergency service.</source>
         <target>Nuestro experimentado equipo de técnicos de servicio lo ayudará con una gama completa de soporte de productos, incluida la instalación, el mantenimiento programado y el servicio de emergencia.</target>
+      </trans-unit>
+      <trans-unit id="YzvRFFN" resname="We count with all the material reference by Rocklabs">
+        <source>We count with all the material reference by Rocklabs</source>
+        <target>Contamos con diferentes tipos de materiales de referencia marca Rocklabs.</target>
+      </trans-unit>
+      <trans-unit id="IF_Lbiw" resname="}We count with all the materials reference by CDN">
+        <source>}We count with all the materials reference by CDN</source>
+        <target>Contamos con diferentes tipos de materias de referencia y piedras pulverizadas marca CDN.</target>
+      </trans-unit>
+      <trans-unit id="1_ndkch" resname="We count with all the materials reference by CDN">
+        <source>We count with all the materials reference by CDN</source>
+        <target>Contamos con diferentes tipos de materias de referencia y piedras pulverizadas marca CDN.</target>
+      </trans-unit>
+      <trans-unit id="f5dUWUA" resname="We count with all the material reference by Rocklabs, on different size and weight, as wel as different minerals.">
+        <source>We count with all the material reference by Rocklabs, on different size and weight, as wel as different minerals.</source>
+        <target>Contamos con diferentes tipos de materiales de referencia marca Rocklabs, en diferentes tamaños y pesos, al igual, con diferentes minerales.</target>
+      </trans-unit>
+      <trans-unit id="Cj21LmO" resname="We count with all the materials reference by CDN, on different size and weight, as well as different material.">
+        <source>We count with all the materials reference by CDN, on different size and weight, as well as different material.</source>
+        <target>Contamos con diferentes tipos de materias de referencia y piedras pulverizadas marca CDN, en diferentes tamaños y pesos, al igual, con diferentes materiales.</target>
       </trans-unit>
     </body>
   </file>
