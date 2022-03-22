@@ -294,6 +294,21 @@ class SiteController extends AbstractController
         return $this->render('site/metallurgical.html.twig');
     }
 
+    /**
+     * @Route("/{_locale}/community",
+     *         name="community",
+     *         requirements ={
+     *              "_locale": "en|pt|es",
+     *         }
+     * )
+     * 
+     */
+    
+    public function community(): Response
+    {
+        return $this->render('site/community.html.twig');
+    }
+
 
 
 }
