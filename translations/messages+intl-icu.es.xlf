@@ -63,7 +63,7 @@
       </trans-unit>
       <trans-unit id="XatQK.u" resname="Partners">
         <source>Partners</source>
-        <target>Socios Comerciales</target>
+        <target>Socio Comercial</target>
       </trans-unit>
       <trans-unit id="YE3ORF4" resname="Services">
         <source>Services</source>
@@ -1240,7 +1240,7 @@
         <target>Contamos con diferentes tipos de materiales de referencia marca Rocklabs.</target>
       </trans-unit>
       <trans-unit id="IF_Lbiw" resname="}We count with all the materials reference by CDN">
-        <source>}We count with all the materials reference by CDN</source>
+        <source>We count with all the materials reference by CDN</source>
         <target>Contamos con diferentes tipos de materias de referencia y piedras pulverizadas marca CDN.</target>
       </trans-unit>
       <trans-unit id="1_ndkch" resname="We count with all the materials reference by CDN">
@@ -1322,6 +1322,64 @@
       <trans-unit id="nJsTRGz" resname="spanish">
         <source>spanish</source>
         <target>Español</target>
+      </trans-unit>
+      <trans-unit id="u1AdeHf" resname="Community">
+        <source>Community</source>
+        <target>Blog</target>
+      </trans-unit>
+      <trans-unit id="OGAdvoR" resname="#115-1647 Broadway Street&lt;/li&gt;&#10;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&lt;li&gt; Port Coquitlma, BC &lt;/li&gt;&#10;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&lt;li&gt; V3C 6P8&lt;/li&gt;&#10;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&lt;li&gt;  Canada">
+        <source>#115-1647 Broadway Street&lt;/li&gt;
+										&lt;li&gt; Port Coquitlma, BC &lt;/li&gt;
+										&lt;li&gt; V3C 6P8&lt;/li&gt;
+										&lt;li&gt;  Canada</source>
+        <target>Broadway Street
+										Port Coquitlma, BC
+										V3C 6P8
+										Canada</target>
+      </trans-unit>
+      <trans-unit id="1nTK_xA" resname="New Technologies for the Mining Industry">
+        <source>New Technologies for the Mining Industry</source>
+        <target>Nuevas Tecnologías en la Industria Minera</target>
+      </trans-unit>
+      <trans-unit id="XZKgpZn" resname="Introducing The First Event Of The Year">
+        <source>Introducing The First Event Of The Year</source>
+        <target>Introduciendo El Primer Evento del Año</target>
+      </trans-unit>
+      <trans-unit id="11Odrr0" resname="STG Mining Mexico, held its first event of the year that includes the demostration of cutting-edge equipment and technologies that are currently being developed in the market.">
+        <source>STG Mining Mexico, held its first event of the year that includes the demostration of cutting-edge equipment and technologies that are currently being developed in the market.</source>
+        <target>STG Mining Mexico, llevó a cabo su primer evento del año, donde se tuvo la demostración de equipos y tecnologías de vanguardia que actualmente se están desarrollando en el mercado.</target>
+      </trans-unit>
+      <trans-unit id="XC._9sZ" resname="It was attended by internationally recognized specialists, who will allow your company to stay up to date.">
+        <source>It was attended by internationally recognized specialists, who will allow your company to stay up to date.</source>
+        <target>Se contó con la participación de especialistas reconocidos en el ámbito internacional, que permitirán que su empresa se mantenga al día.</target>
+      </trans-unit>
+      <trans-unit id="y6doLNR" resname="WE ARE HERE FOR YOU">
+        <source>WE ARE HERE FOR YOU</source>
+        <target>Estamos aquí para tí</target>
+      </trans-unit>
+      <trans-unit id="pWp1UWW" resname="#115-1647 Broadway Street">
+        <source>#115-1647 Broadway Street</source>
+        <target>#115-1647 Broadway Street</target>
+      </trans-unit>
+      <trans-unit id="QiAVDCT" resname="Port Coquitlam, BC">
+        <source>Port Coquitlam, BC</source>
+        <target>Port Coquitlam, BC</target>
+      </trans-unit>
+      <trans-unit id="raG0aGj" resname="Phone number: +1-604-770-4204">
+        <source>Phone number: +1-604-770-4204</source>
+        <target>Teléfono: +1-604-770-4204</target>
+      </trans-unit>
+      <trans-unit id="bQxUD.2" resname="#115-647 Broadway Street">
+        <source>#115-647 Broadway Street</source>
+        <target>#115-647 Broadway Street</target>
+      </trans-unit>
+      <trans-unit id="6ZWIEdX" resname="Port Coquitalm">
+        <source>Port Coquitalm</source>
+        <target>Port Coquitalm</target>
+      </trans-unit>
+      <trans-unit id="OdM2JMz" resname="BC V3C 6P8">
+        <source>BC V3C 6P8</source>
+        <target>BC V3C 6P8</target>
       </trans-unit>
     </body>
   </file>
