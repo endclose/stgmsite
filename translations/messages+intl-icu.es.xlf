@@ -1323,6 +1323,64 @@
         <source>spanish</source>
         <target>Español</target>
       </trans-unit>
+      <trans-unit id="u1AdeHf" resname="Community">
+        <source>Community</source>
+        <target>__Community</target>
+      </trans-unit>
+      <trans-unit id="OGAdvoR" resname="#115-1647 Broadway Street&lt;/li&gt;&#10;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&lt;li&gt; Port Coquitlma, BC &lt;/li&gt;&#10;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&lt;li&gt; V3C 6P8&lt;/li&gt;&#10;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&lt;li&gt;  Canada">
+        <source>#115-1647 Broadway Street&lt;/li&gt;
+										&lt;li&gt; Port Coquitlma, BC &lt;/li&gt;
+										&lt;li&gt; V3C 6P8&lt;/li&gt;
+										&lt;li&gt;  Canada</source>
+        <target><![CDATA[__#115-1647 Broadway Street</li>
+										<li> Port Coquitlma, BC </li>
+										<li> V3C 6P8</li>
+										<li>  Canada]]></target>
+      </trans-unit>
+      <trans-unit id="1nTK_xA" resname="New Technologies for the Mining Industry">
+        <source>New Technologies for the Mining Industry</source>
+        <target>__New Technologies for the Mining Industry</target>
+      </trans-unit>
+      <trans-unit id="XZKgpZn" resname="Introducing The First Event Of The Year">
+        <source>Introducing The First Event Of The Year</source>
+        <target>__Introducing The First Event Of The Year</target>
+      </trans-unit>
+      <trans-unit id="11Odrr0" resname="STG Mining Mexico, held its first event of the year that includes the demostration of cutting-edge equipment and technologies that are currently being developed in the market.">
+        <source>STG Mining Mexico, held its first event of the year that includes the demostration of cutting-edge equipment and technologies that are currently being developed in the market.</source>
+        <target>__STG Mining Mexico, held its first event of the year that includes the demostration of cutting-edge equipment and technologies that are currently being developed in the market.</target>
+      </trans-unit>
+      <trans-unit id="XC._9sZ" resname="It was attended by internationally recognized specialists, who will allow your company to stay up to date.">
+        <source>It was attended by internationally recognized specialists, who will allow your company to stay up to date.</source>
+        <target>__It was attended by internationally recognized specialists, who will allow your company to stay up to date.</target>
+      </trans-unit>
+      <trans-unit id="y6doLNR" resname="WE ARE HERE FOR YOU">
+        <source>WE ARE HERE FOR YOU</source>
+        <target>__WE ARE HERE FOR YOU</target>
+      </trans-unit>
+      <trans-unit id="pWp1UWW" resname="#115-1647 Broadway Street">
+        <source>#115-1647 Broadway Street</source>
+        <target>__#115-1647 Broadway Street</target>
+      </trans-unit>
+      <trans-unit id="QiAVDCT" resname="Port Coquitlam, BC">
+        <source>Port Coquitlam, BC</source>
+        <target>__Port Coquitlam, BC</target>
+      </trans-unit>
+      <trans-unit id="raG0aGj" resname="Phone number: +1-604-770-4204">
+        <source>Phone number: +1-604-770-4204</source>
+        <target>__Phone number: +1-604-770-4204</target>
+      </trans-unit>
+      <trans-unit id="bQxUD.2" resname="#115-647 Broadway Street">
+        <source>#115-647 Broadway Street</source>
+        <target>__#115-647 Broadway Street</target>
+      </trans-unit>
+      <trans-unit id="6ZWIEdX" resname="Port Coquitalm">
+        <source>Port Coquitalm</source>
+        <target>__Port Coquitalm</target>
+      </trans-unit>
+      <trans-unit id="OdM2JMz" resname="BC V3C 6P8">
+        <source>BC V3C 6P8</source>
+        <target>__BC V3C 6P8</target>
+      </trans-unit>
     </body>
   </file>
 </xliff>
