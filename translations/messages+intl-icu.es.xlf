@@ -1240,7 +1240,7 @@
         <target>Contamos con diferentes tipos de materiales de referencia marca Rocklabs.</target>
       </trans-unit>
       <trans-unit id="IF_Lbiw" resname="}We count with all the materials reference by CDN">
-        <source>We count with all the materials reference by CDN</source>
+        <source>}We count with all the materials reference by CDN</source>
         <target>Contamos con diferentes tipos de materias de referencia y piedras pulverizadas marca CDN.</target>
       </trans-unit>
       <trans-unit id="1_ndkch" resname="We count with all the materials reference by CDN">
@@ -1380,6 +1380,22 @@
       <trans-unit id="OdM2JMz" resname="BC V3C 6P8">
         <source>BC V3C 6P8</source>
         <target>BC V3C 6P8</target>
+      </trans-unit>
+      <trans-unit id="mOJm6Zk" resname="See you at the VII Mining Congress at Durango, Mexico">
+        <source>See you at the VII Mining Congress at Durango, Mexico</source>
+        <target>Nos vemos en el VII Congreso Minero en Durango, México</target>
+      </trans-unit>
+      <trans-unit id="J_sIrLY" resname="VII Mining Congress and 6th Minerals Fair">
+        <source>VII Mining Congress and 6th Minerals Fair</source>
+        <target>VII Congreso Minero y 6a Feria de Minerales</target>
+      </trans-unit>
+      <trans-unit id="SOhRxkO" resname="STG Mining Mexico, will be present at the Mining Expo of the VII Mining Congress and 6th Minerals, Rocks and Fossils Fair.">
+        <source>STG Mining Mexico, will be present at the Mining Expo of the VII Mining Congress and 6th Minerals, Rocks and Fossils Fair.</source>
+        <target>STG Mining Mexico, estará presente en la Expo Minera del VII Congreso Minero y 6a Feria de Minerales, Rocas y Fósiles.</target>
+      </trans-unit>
+      <trans-unit id="M1OPL_y" resname="It will be held in a safe and orderly manner, guaranteeing success for all participants and guests at this great event.">
+        <source>It will be held in a safe and orderly manner, guaranteeing success for all participants and guests at this great event.</source>
+        <target>Se estará realizando de manera segura y ordenada, gatantizando el éxito para todos los participantes e invitados a este magno evento.</target>
       </trans-unit>
     </body>
   </file>
