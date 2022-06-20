@@ -24,7 +24,7 @@
 						</div>
 					</div>
 				</section>
-                            <center>
+                            {# <center>
 
                               <article class="post post-large">
 									<div class="post-image">
@@ -81,7 +81,7 @@
 										</div>
 									</div>
 								</article>
-                            </center>
+                            </center> #}
 
 
 			<section class="section section-with-shape-divider border-0 m-0">
@@ -97,4 +97,29 @@
 					</div>
 					
 			</section>
+
+			{# Sección Congreso Minero #}
+
+			<section class="section section-no-border section-angled bg-color-light-scale-1 m-0">
+					<div class="section-angled-layer-top section-angled-layer-increase-angle" style="padding: 5rem 0; background-color: #676664;"></div>
+					<div class="container py-5 my-5">
+						<div class="row align-items-center text-center my-5">
+							<div class="col-md-6">
+								<h2 class="font-weight-bold text-9 mb-0 appear-animation" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="200" data-appear-animation-duration="750">{% trans %}See you at the VII Mining Congress at Durango, Mexico{% endtrans %}</h2>
+								<p class="font-weight-semibold text-primary text-4 fonts-weight-semibold positive-ls-2 mb-3 appear-animation" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="600" data-appear-animation-duration="750">{% trans %}VII Mining Congress and 6th Minerals Fair {% endtrans %}</p>
+								<p class="pb-2 mb-4 appear-animation" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="800" data-appear-animation-duration="750">{% trans %}STG Mining Mexico, will be present at the Mining Expo of the VII Mining Congress and 6th Minerals, Rocks and Fossils Fair.{% endtrans %}</p>
+                                <p class="pb-2 mb-4 appear-animation" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="800" data-appear-animation-duration="750">{% trans %}It will be held in a safe and orderly manner, guaranteeing success for all participants and guests at this great event.{% endtrans %}</p>
+								
+                                <a class="btn-modern btn-gradient btn-rounded btn-px-5 py-3 text-3 mb-4 appear-animation" href="{{ asset('/pdf/Presentación UNIPOLI 2022.pdf') }}" download="Presentation" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="1000" data-appear-animation-duration="750" download="presentation">{% trans %}WE ARE HERE FOR YOU{% endtrans %}</a>
+							</div>
+                            
+
+                                <div class="col-lg-4 order-1 order-lg-2 ps-lg-5 mb-4 mb-lg-0">
+									<iframe  src="{{ asset('img/banner-blog.png') }}" width="640" height="360" allowfullscreen></iframe>
+                                </div>
+            
+							
+						</div>
+					</div>
+				</section>
 {% endblock %}
