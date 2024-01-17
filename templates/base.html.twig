@@ -121,10 +121,15 @@
 															{% trans %}Home{% endtrans %}
 														</a>
 													</li>
-													<li>
+													<li class="dropdown">
 														<a class="dropdown-item dropdown-toggle" href="{{path ('about-us')}}">
 															{% trans %}About us{% endtrans %}
 														</a>
+														<ul class="dropdown-menu">
+															<li>
+																<a class="dropdown-item" href="{{path ('quality-policy')}}">{% trans %}Quality Policy{% endtrans %}</a>
+															</li>
+														</ul>
 													</li>
 													<li>
 														<a class="dropdown-item dropdown-toggle" href="{{path ('community')}}">
