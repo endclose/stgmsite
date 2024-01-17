@@ -85,6 +85,11 @@ class SiteController extends AbstractController
         return $this->render('site/about-us.html.twig');
     }
 
+    public function quality(): Response
+    {
+        return $this->render('site/quality-policy.html.twig');
+    }
+
     /**
      * @Route("/{_locale}/services",
      *         name="services",

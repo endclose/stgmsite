@@ -121,10 +121,15 @@
 															{% trans %}Home{% endtrans %}
 														</a>
 													</li>
-													<li>
+													<li class="dropdown">
 														<a class="dropdown-item dropdown-toggle" href="{{path ('about-us')}}">
 															{% trans %}About us{% endtrans %}
 														</a>
+														<ul class="dropdown-menu">
+															<li>
+																<a class="dropdown-item" href="{{path ('quality-policy')}}">{% trans %}Quality Policy{% endtrans %}</a>
+															</li>
+														</ul>
 													</li>
 													<li>
 														<a class="dropdown-item dropdown-toggle" href="{{path ('community')}}">
@@ -219,7 +224,7 @@
 								<div class="col-md-6">
 									<ul >
 										<li class="text-3">📍 {% trans %}#115-1647 Broadway Street</li>
-										<li> Port Coquitlma, BC </li>
+										<li> Port Coquitlam, BC </li>
 										<li> V3C 6P8</li>
 										<li>  Canada{% endtrans %}</a></li>
 										
