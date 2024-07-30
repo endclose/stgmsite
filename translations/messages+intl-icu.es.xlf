@@ -625,15 +625,15 @@
       </trans-unit>
       <trans-unit id="jIowzWa" resname="o tienes alguna duda al respecto,">
         <source>o tienes alguna duda al respecto,</source>
-        <target>__o tienes alguna duda al respecto,</target>
+        <target>o tienes alguna duda al respecto,</target>
       </trans-unit>
       <trans-unit id="UndCdH7" resname="no dudes en solicitar una consultoría gratuita y uno de">
         <source>no dudes en solicitar una consultoría gratuita y uno de</source>
-        <target>__no dudes en solicitar una consultoría gratuita y uno de</target>
+        <target>no dudes en solicitar una consultoría gratuita y uno de</target>
       </trans-unit>
       <trans-unit id="DzzAT0f" resname="nuestros asesores te contactará a la brevedad.">
         <source>nuestros asesores te contactará a la brevedad.</source>
-        <target>__nuestros asesores te contactará a la brevedad.</target>
+        <target>nuestros asesores te contactará a la brevedad.</target>
       </trans-unit>
       <trans-unit id="mhx7uqZ" resname="Enrironment Products">
         <source>Enrironment Products</source>
@@ -1056,6 +1056,162 @@
       <trans-unit id="8GtRg4K" resname="We seek to provide you with the best guidance on the use of systems, and corrections for mining equipment malfunctions.">
         <source>We seek to provide you with the best guidance on the use of systems, and corrections for mining equipment malfunctions.</source>
         <target>Buscamos brindarle la mejor orientación sobre el uso de los sistemas y las correcciones para el mal funcionamiento de los equipos de minería.</target>
+      </trans-unit>
+      <trans-unit id="syhHoXn" resname="Quality Policy">
+        <source>Quality Policy</source>
+        <target>Política de calidad</target>
+      </trans-unit>
+      <trans-unit id="aTdLCbF" resname="EN">
+        <source>EN</source>
+        <target>ES</target>
+      </trans-unit>
+      <trans-unit id="Diy3sgA" resname="#115-1647">
+        <source>#115-1647</source>
+        <target>#115-1647</target>
+      </trans-unit>
+      <trans-unit id="z0EEGT9" resname="Broadway Street">
+        <source>Broadway Street</source>
+        <target>Broadway Street</target>
+      </trans-unit>
+      <trans-unit id="QiAVDCT" resname="Port Coquitlam, BC">
+        <source>Port Coquitlam, BC</source>
+        <target>Port Coquitlam, BC</target>
+      </trans-unit>
+      <trans-unit id="ZkTynDN" resname="V3C 6P8">
+        <source>V3C 6P8</source>
+        <target>V3C 6P8</target>
+      </trans-unit>
+      <trans-unit id="pVHwUV2" resname="#115-1647, Port Coquitlam, BC V3C 6P8, Canada">
+        <source>#115-1647, Port Coquitlam, BC V3C 6P8, Canada</source>
+        <target>#115-1647, Port Coquitlam, BC V3C 6P8, Canada</target>
+      </trans-unit>
+      <trans-unit id="pWp1UWW" resname="#115-1647 Broadway Street">
+        <source>#115-1647 Broadway Street</source>
+        <target>#115-1647 Broadway Street</target>
+      </trans-unit>
+      <trans-unit id="uhHsk81" resname="Port Coquitlam V3C 6P8">
+        <source>Port Coquitlam V3C 6P8</source>
+        <target>Port Coquitlam V3C 6P8</target>
+      </trans-unit>
+      <trans-unit id="pnncEWy" resname="E-Mail: canada@stgmining.com">
+        <source>E-Mail: canada@stgmining.com</source>
+        <target>E-Mail: canada@stgmining.com</target>
+      </trans-unit>
+      <trans-unit id="raG0aGj" resname="Phone number: +1-604-770-4204">
+        <source>Phone number: +1-604-770-4204</source>
+        <target>Phone number: +1-604-770-4204</target>
+      </trans-unit>
+      <trans-unit id="gjv8vvt" resname="Blvd. Manuel Avila Camacho 32 Int. 6">
+        <source>Blvd. Manuel Avila Camacho 32 Int. 6</source>
+        <target>Blvd. Manuel Avila Camacho 32 Int. 6</target>
+      </trans-unit>
+      <trans-unit id="2Mg2ES0" resname="Lomas de Chapultepec III Section">
+        <source>Lomas de Chapultepec III Section</source>
+        <target>Lomas de Chapultepec III Section</target>
+      </trans-unit>
+      <trans-unit id="ziOIqnd" resname="Alcaldía Miguel Hidalgo">
+        <source>Alcaldía Miguel Hidalgo</source>
+        <target>Alcaldía Miguel Hidalgo</target>
+      </trans-unit>
+      <trans-unit id="itVQoFw" resname="Cuidad de Mexico">
+        <source>Cuidad de Mexico</source>
+        <target>Cuidad de Mexico</target>
+      </trans-unit>
+      <trans-unit id="S7lOVwp" resname="E-Mail: mexico@stgmining.com">
+        <source>E-Mail: mexico@stgmining.com</source>
+        <target>E-Mail: mexico@stgmining.com</target>
+      </trans-unit>
+      <trans-unit id="cCY75DG" resname="Phone number: +52-55-8526-6358">
+        <source>Phone number: +52-55-8526-6358</source>
+        <target>Phone number: +52-55-8526-6358</target>
+      </trans-unit>
+      <trans-unit id="QqE6oXQ" resname="Rua Ministro Hermenegildo de Barros 459">
+        <source>Rua Ministro Hermenegildo de Barros 459</source>
+        <target>Rua Ministro Hermenegildo de Barros 459</target>
+      </trans-unit>
+      <trans-unit id="ilwFiV9" resname="Itapoa-Belo Horizonte">
+        <source>Itapoa-Belo Horizonte</source>
+        <target>Itapoa-Belo Horizonte</target>
+      </trans-unit>
+      <trans-unit id="SdwPNlI" resname="E-Mail: brasil@stgmining.com">
+        <source>E-Mail: brasil@stgmining.com</source>
+        <target>E-Mail: brasil@stgmining.com</target>
+      </trans-unit>
+      <trans-unit id="OMnN3Ue" resname="Phone Number: +55-31-98479-4090">
+        <source>Phone Number: +55-31-98479-4090</source>
+        <target>Phone Number: +55-31-98479-4090</target>
+      </trans-unit>
+      <trans-unit id="MhZrnS_" resname="Calle Chinchasuyu #4 Esq. Antisuyu">
+        <source>Calle Chinchasuyu #4 Esq. Antisuyu</source>
+        <target>Calle Chinchasuyu #4 Esq. Antisuyu</target>
+      </trans-unit>
+      <trans-unit id="4RWf6sm" resname="Cota Cota, La Paz">
+        <source>Cota Cota, La Paz</source>
+        <target>Cota Cota, La Paz</target>
+      </trans-unit>
+      <trans-unit id="hcFrTOu" resname="E-Mail: bolivia@stgmining.com">
+        <source>E-Mail: bolivia@stgmining.com</source>
+        <target>E-Mail: bolivia@stgmining.com</target>
+      </trans-unit>
+      <trans-unit id="5ZzMQVR" resname="Phone Number: +591-2-715-619-5855">
+        <source>Phone Number: +591-2-715-619-5855</source>
+        <target>Phone Number: +591-2-715-619-5855</target>
+      </trans-unit>
+      <trans-unit id="VCXZBYV" resname="San Pablo N 9900, Bodega 6, Edificio 2">
+        <source>San Pablo N 9900, Bodega 6, Edificio 2</source>
+        <target>San Pablo N 9900, Bodega 6, Edificio 2</target>
+      </trans-unit>
+      <trans-unit id="OAD7eia" resname="Comuna de Pudahuel, Santiago">
+        <source>Comuna de Pudahuel, Santiago</source>
+        <target>Comuna de Pudahuel, Santiago</target>
+      </trans-unit>
+      <trans-unit id="w6Ng_YC" resname="E-Mail: chile@stgmining.com">
+        <source>E-Mail: chile@stgmining.com</source>
+        <target>E-Mail: chile@stgmining.com</target>
+      </trans-unit>
+      <trans-unit id="EY.Fsr8" resname="Phone Number: +56-2-2800-5531">
+        <source>Phone Number: +56-2-2800-5531</source>
+        <target>Phone Number: +56-2-2800-5531</target>
+      </trans-unit>
+      <trans-unit id="l2kKVHx" resname="Calle Carlos Augusto Salaverry 239, Urb. La Arboleda">
+        <source>Calle Carlos Augusto Salaverry 239, Urb. La Arboleda</source>
+        <target>Calle Carlos Augusto Salaverry 239, Urb. La Arboleda</target>
+      </trans-unit>
+      <trans-unit id="tZMhXWA" resname="San Miguel, Lima">
+        <source>San Miguel, Lima</source>
+        <target>San Miguel, Lima</target>
+      </trans-unit>
+      <trans-unit id="5Irq9cd" resname="E-Mail: peru@stgmining.com">
+        <source>E-Mail: peru@stgmining.com</source>
+        <target>E-Mail: peru@stgmining.com</target>
+      </trans-unit>
+      <trans-unit id="rNMIaH5" resname="Phone Number: +51-9-9867-2616">
+        <source>Phone Number: +51-9-9867-2616</source>
+        <target>Phone Number: +51-9-9867-2616</target>
+      </trans-unit>
+      <trans-unit id="nRtdreU" resname="Port Coquitlam">
+        <source>Port Coquitlam</source>
+        <target>Port Coquitlam</target>
+      </trans-unit>
+      <trans-unit id="OdM2JMz" resname="BC V3C 6P8">
+        <source>BC V3C 6P8</source>
+        <target>BC V3C 6P8</target>
+      </trans-unit>
+      <trans-unit id="9.0yh0F" resname="Mining Laboratory Specialists">
+        <source>Mining Laboratory Specialists</source>
+        <target>Especialistas en Laboratorios de Minería</target>
+      </trans-unit>
+      <trans-unit id="V1NJ0JN" resname="Mining laboratories">
+        <source>Mining laboratories</source>
+        <target>Laboratorios de Minería</target>
+      </trans-unit>
+      <trans-unit id="IKRYKKr" resname="Supplies, equipment and technical service.">
+        <source>Supplies, equipment and technical service.</source>
+        <target>Suministros, equipos y servicio técnico.</target>
+      </trans-unit>
+      <trans-unit id="rbo1Ugs" resname="Get a free quote now">
+        <source>Get a free quote now</source>
+        <target></target>
       </trans-unit>
     </body>
   </file>

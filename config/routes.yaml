@@ -5,8 +5,8 @@
 index:
   path:
     en: /
-    es: /es/inicio
-    pt: /pt/iniciar
+    es: /es/
+    pt: /pt/
   controller: App\Controller\SiteController::index
 
 about-us:

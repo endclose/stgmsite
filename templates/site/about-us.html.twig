@@ -1,111 +1,295 @@
 {% extends "base.html.twig" %}
 {% block title %}{% trans %} About Us {% endtrans %} | {% endblock %}
 {% block content %}
-    			<div role="main" class="main">
-
-				<section class="page-header page-header-modern page-header-background page-header-background-sm m-0" >
-					<div class="container">
-						<div class="row">
-							<div class="col-md-8 order-2 order-md-1 align-self-center p-static">
-								<h1 class="font-weight-bold text-8 mb-0">{% trans %}About Us{% endtrans %}</h1>
-							</div>
-							<div class="col-md-4 order-1 order-md-2 align-self-center">
-								<ul class="breadcrumb breadcrumb-light d-block text-md-end text-4 mb-0">
-									<li><a href="index" class="text-decoration-none">{% trans %}Home{% endtrans %}</a></li>
-									<li class="active">{% trans %}About Us{% endtrans %}</li>
-								</ul>
-							</div>
-						</div>
-					</div>
-				</section>
-
-				<section class="section custom-section-shape-background border-0 m-0">
-					<div class="container position-relative z-index-3 my-3">
-						<div class="row align-items-center justify-content-center">
-							<div class="col-lg-6 pe-lg-5 mb-4 mb-lg-0">
-								<center>
-								<img src="/img/location.png" class="img-fluid appear-animation" width="200" data-appear-animation="fadeInLeftShorter" data-appear-animation-delay="500" alt="">
-								</center>
-							</div>
-							<div class="col-lg-6 appear-animation" data-appear-animation="fadeInRightShorter" data-appear-animation-delay="500">
-								<h3 class="font-weight-bold text-transform-none text-9 line-height-2 mb-3">{% trans %}Our Business{% endtrans %}</h3>
-								<p class="custom-font-secondary custom-font-size-1 line-height-7 pb-2 mb-4">{% trans %}We pride ourselves on building strong partnerships in the mining 
-								sector that lead to lasting relationships with our clients. We do this by providing tailor made services to our 
-								globally based clients.{% endtrans %}</p>
-							</div>
-						</div>
-					</div>
-				</section>
-
-				<section class="section custom-section-shape-background custom-section-shape-background-reverse border-0 m-0">
-					<div class="container position-relative z-index-3 my-3">
-						<div class="row align-items-center justify-content-center">
-							<div class="col-lg-6 order-2 order-lg-1 appear-animation" data-appear-animation="fadeInLeftShorter" data-appear-animation-delay="200">
-								<h3 class="font-weight-bold text-transform-none text-9 line-height-2 mb-3">{% trans %}Our Mission{% endtrans %}</h3>
-								<p class="custom-font-secondary custom-font-size-1 line-height-7 pb-2 mb-4">{% trans %}As a small business with a global presence, our customers are what really matter.{% endtrans %} </p>
-								<p class="custom-font-secondary custom-font-size-1 line-height-7 pb-2 mb-4">{% trans %}To provide honest and reliable service combined with best in class products to meet our clients’ 
-								specific needs.{% endtrans %}</p>
-							</div>
-							<div class="col-lg-5 order-1 order-lg-2 ps-lg-5 mb-4 mb-lg-0">
-								<img src="/img/demos/digital-agency/icons/lamp.svg" class="img-fluid appear-animation" width="200" data-appear-animation="fadeInLeftShorter" data-appear-animation-delay="500" alt="" />
-							</div>
-						</div>
-					</div>
-				</section>
-
-				<section class="section custom-section-shape-background border-0 m-0">
-					<div class="container position-relative z-index-3 my-5">
-						<div class="row align-items-center justify-content-center">
-							<div class="col-lg-6 pe-lg-5 mb-4 mb-lg-0">
-								<center>
-								<img src="/img/eye.png" class="img-fluid appear-animation" width="200" data-appear-animation="fadeInLeftShorter" data-appear-animation-delay="500" alt="">
-								</center>
-							</div>
-							<div class="col-lg-6 appear-animation" data-appear-animation="fadeInRightShorter" data-appear-animation-delay="500">
-								<h3 class="font-weight-bold text-transform-none text-9 line-height-2 mb-3">{% trans %}Our Vision{% endtrans %}</h3>
-								<p class="custom-font-secondary custom-font-size-1 line-height-7 pb-2 mb-4">{% trans %}Achieve a relationship with our clients as partners that will bring added value to them and our shareholders.{% endtrans %}</p>
-							</div>
-						</div>
-					</div>
-				</section>
-
-				<section class="section section-with-shape-divider border-0 z-index-2 pb-0 m-0">
-					<div class="shape-divider shape-divider-reverse-xy" style="height: 120px;">
-						<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 2000 120" preserveAspecRatio="xMinYMin">
-							<polygon fill="#FFF" points="-11,2 693,112 2019,6 2019,135/11,135"/>
-						</svg>
-					</div>
-					<div class="container pt-3 mt-5">
-						<div class="row justify-content-center mb-5">
-							<div class="col-lg-9 col-xl-8 text-center">
-								<div class="overflow-hidden">
-									<h2 class="text-color-primary font-weight-medium positive-ls-3 text-4 mb-0 appear-animation" data-appear-animation="maskUp" data-appear-animation-delay="200">{% trans %}Know Us A Little More{% endtrans %}</h2>
-								</div>
-								<div class="overflow-hidden mb-3">
-									<h3 class="font-weight-bold text-transform-none text-9 line-height-2 mb-0 appear-animation" data-appear-animation="maskUp" data-appear-animation-delay="400">{% trans %}Download Our Pamphlet{% endtrans %}</h3>
-								</div>
-							</div>
-						</div>
-						<div><center>
-							<div class="col appear-animation" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="750">
-								<div class="stage-margin stage-margin-md nav-style-1 nav-svg-arrows-1 nav-dark" data-plugin-options="{'responsive' : {'0': {'items': 1}, '476': {'items': 2}, '768': {'items': 2}, '992': {'items': 3}, '1200': {'items': 4}}, 'autoplay': false, 'autoplayTimeout': 5000, 'autoplayHoverPause': true, 'dots': false, 'nav': true, 'loop': true, 'margin': 20, 'stagePadding': 75}">
-									<div>
-										<a class="text-decoration-none">
-											<div class="thumb-info2 custom-thumb-info-style-1 mb-3">
-												<div class="custom-thumb-info-icon">
-													<img src="/img/dorado.png" class="img-fluid"/>
-												</div>
-											</div>
-										</a>
-										<h4 class="text-center mb-0"><a href="/pdf/STG Mining Pamphlet +Mexico.pdf" download="Panfleto" class="text-color-dark text-color-hover-primary text-decoration-none text-2">{% trans %}Download Here{% endtrans %}</a></h4>
-									</div>
-								</div>
-							</div>
-						</center>
-						</div>
-					</div>
-				</section>
+<section class="top-space-margin page-title-big-typography cover-background pt-0 pb-0" style="background-image: url(/images/mining_slider_0001.jpg); margin-top: 135px;">
+<div class="container">
+<div class="row align-items-center justify-content-center small-screen">
+<div class="col-xl-5 col-sm-8 page-title-double-large text-center appear anime-child anime-complete" data-anime="{ &quot;el&quot;: &quot;childs&quot;, &quot;opacity&quot;: [0, 1], &quot;translateY&quot;: [30, 0], &quot;duration&quot;: 600, &quot;staggervalue&quot;: 300, &quot;easing&quot;: &quot;easeOutQuad&quot; }">
+<h1 class="text-base-color fw-700 mb-5px" style="">About us</h1>
+<h2 class="text-white fw-600 ls-1px mb-0 text-uppercase" style="">Let's see who we are</h2>
+</div>
+</div>
+</div>
+</section>
 
 
-			</div> 
+<section class="pb-70px">
+<div class="container">
+<div class="row align-items-center align-items-xl-end justify-content-center mb-70px sm-mb-35px">
+<div class="col-lg-6 col-md-10 md-mb-20px text-lg-start text-center appear anime-child anime-complete" data-anime="{ &quot;el&quot;: &quot;childs&quot;, &quot;translateY&quot;: [30, 0], &quot;opacity&quot;: [0,1], &quot;duration&quot;: 600, &quot;delay&quot;: 0, &quot;staggervalue&quot;: 300, &quot;easing&quot;: &quot;easeOutQuad&quot; }">
+<span class="fs-16 lh-22 fw-700 mb-15px d-inline-block text-uppercase text-dark-gray border-bottom border-2 border-color-base-color" style="">25+ years of experience.</span>
+<h2 class="text-dark-gray fw-700 mb-0 ls-minus-1px" style="">World best mining laboratories solutions.</h2>
+</div>
+<div class="col-xl-5 col-lg-6 col-md-10 offset-xl-1 text-lg-start text-center last-paragraph-no-margin">
+<!--1p data-anime="{ &quot;el&quot;: &quot;lines&quot;, &quot;translateY&quot;: [30, 0], &quot;opacity&quot;: [0,1], &quot;duration&quot;: 600, &quot;delay&quot;: 0, &quot;staggervalue&quot;: 300, &quot;easing&quot;: &quot;easeOutQuad&quot;}" class="appear words lines splitting anime-child anime-complete" style="--word-total: 25; --line-total: 3;"><span class="d-inline" style="will-change: inherit;">We pride ourselves on building strong partnerships in the mining</span> <span class="d-inline" style="will-change: inherit;">laboratory sector that lead to lasting relationships with our</span> <span class="d-inline" style="will-change: inherit;">clients. We do this by providing tailor-made</span><span class="d-inline" style="will-change: inherit;"> services to our globally based clients.</span></p>-->
+</div>
+</div>
+<div class="row row-cols-1 row-cols-lg-3 row-cols-md-2 justify-content-center mb-70px sm-mb-35px appear anime-child anime-complete" data-anime="{ &quot;el&quot;: &quot;childs&quot;, &quot;translateX&quot;: [-30, 0], &quot;opacity&quot;: [0,1], &quot;duration&quot;: 1200, &quot;delay&quot;: 0, &quot;staggervalue&quot;: 300, &quot;easing&quot;: &quot;easeOutQuad&quot; }">
+
+<div class="col icon-with-text-style-07 transition-inner-all md-mb-30px" style="">
+<div class="bg-very-light-gray h-100 justify-content-end feature-box flex-column-reverse p-15 xl-p-13 border-radius-8px">
+<div class="feature-box-icon">
+<img src="/images/diagrama.png" style="width:92px" alt="" data-no-retina="">
+</div>
+<div class="feature-box-content">
+<span class="d-inline-block fw-600 text-dark-gray mb-5px fs-20">Our Business</span>
+<p class="mb-30px" style = "text-align: justify;">We pride ourselves on building strong partnerships in the mining laboratory sector that lead to lasting relationships with our clients. We do this by providing tailor-made services to our globally based clients.</p>
+</div>
+</div>
+</div>
+
+
+<div class="col icon-with-text-style-07 transition-inner-all md-mb-30px" style="">
+<div class="bg-very-light-gray h-100 justify-content-end feature-box flex-column-reverse p-15 xl-p-13 border-radius-8px">
+<div class="feature-box-icon">
+<img src="/images/mision.png" style="width:92px" alt="" data-no-retina="">
+</div>
+<div class="feature-box-content">
+<span class="d-inline-block fw-600 text-dark-gray mb-5px fs-20">Our Mission</span>
+<p class="mb-30px" style = "text-align: justify;">As a small business with a global presence, our customers are what really matter.
+To provide honest and reliable service combined with best in class products to meet our clients specific needs.</p>
+</div>
+<!--<span class="position-absolute box-shadow-large top-20px right-20px bg-white border-radius-18px text-dark-gray fs-11 fw-700 text-uppercase ps-15px pe-15px lh-26">New</span>-->
+</div>
+</div>
+
+
+<div class="col icon-with-text-style-07 transition-inner-all" style="">
+<div class="bg-very-light-gray h-100 justify-content-end feature-box flex-column-reverse p-15 xl-p-13 border-radius-8px">
+<div class="feature-box-icon">
+<img src="/images/orientacion.png" style="width:92px" alt="" data-no-retina="">
+</div>
+<div class="feature-box-content">
+<span class="d-inline-block fw-600 text-dark-gray mb-5px fs-20">Our Vision</span>
+<p class="mb-30px" style = "text-align: justify;">Achieve a relationship with our clients as partners that will bring added value to them and our shareholders.<br><br><br><br></p>
+</div>
+</div>
+</div>
+
+</div>
+<div class="row">
+<div class="col d-flex justify-content-center align-items-center">
+<i class="bi bi-patch-check-fill text-base-color icon-very-medium me-10px"></i>
+<span class="fs-22 fw-500 text-dark-gray">We are committed to providing <span class="text-decoration-line-bottom text-dark-gray fw-700">cost-effective solutions</span> to all of our clients.</span>
+</div>
+</div>
+</div>
+</section>
+
+
+<section class="pt-0 pb-0 ps-8 pe-8 lg-ps-3 lg-pe-3 position-relative xs-px-0">
+<div class="container-fluid">
+<div class="row">
+<div class="col-12">
+<img src="/images/mining-about-img-01.jpg" class="w-100 border-radius-8px" alt="" data-no-retina="">
+<div class="absolute-middle-right top-0px right-12 border-radius-100 xl-h-180px xl-w-180px sm-w-110px sm-h-110px">
+<img src="/files/mining-about-02.webp" class="position-absolute top-50 translate-middle-y" alt="" data-no-retina="">
+<img src="/files/mining-about-01.webp" class="animation-rotation" alt="" data-no-retina="">
+</div>
+</div>
+</div>
+</div>
+</section>
+
+
+<section class="bg-gradient-gray-light-dark-transparent">
+<div class="container">
+<div class="row justify-content-center mb-5 xs-mb-35px">
+<div class="col-xl-8 text-center" data-anime="{ &quot;el&quot;: &quot;childs&quot;, &quot;translateY&quot;: [-15, 0], &quot;opacity&quot;: [0,1], &quot;duration&quot;: 500, &quot;delay&quot;: 0, &quot;staggervalue&quot;: 100, &quot;easing&quot;: &quot;easeOutQuad&quot; }">
+<span class="fs-16 lh-22 fw-700 mb-15px d-inline-block text-uppercase text-dark-gray border-bottom border-2 border-color-base-color">Why Choose Us</span>
+<h2 class="ls-minus-1px text-dark-gray fw-700 mb-0">Fields of expertise</h2>
+</div>
+</div>
+<div class="row row-cols-1 row-cols-xl-4 row-cols-sm-2 mb-5" data-anime="{ &quot;el&quot;: &quot;childs&quot;, &quot;translateY&quot;: [-15, 0], &quot;perspective&quot;: [1200,1200], &quot;scale&quot;: [1.1, 1], &quot;rotateX&quot;: [50, 0], &quot;opacity&quot;: [0,1], &quot;duration&quot;: 500, &quot;delay&quot;: 300, &quot;staggervalue&quot;: 300, &quot;easing&quot;: &quot;easeOutQuad&quot; }">
+
+<div class="col icon-with-text-style-04 transition-inner-all lg-mb-30px">
+<div class="feature-box bg-white text-center border-radius-8px p-15 box-shadow-extra-large box-shadow-extra-large-hover">
+<div class="feature-box-icon mb-20px">
+<img src="././files/demo-logistics-about-icon-04.webp" alt="" data-no-retina="">
+</div>
+<div class="feature-box-content last-paragraph-no-margin">
+<span class="fs-20 fw-600 d-inline-block text-dark-gray mb-5px">Fire Assay</span>
+<p class="mx-auto lg-w-80 md-w-100">Full range of fire assay furnaces, multi-load/ multi-pour systems with related consumables.</p>
+</div>
+</div>
+</div>
+
+
+<div class="col icon-with-text-style-04 transition-inner-all lg-mb-30px">
+<div class="feature-box bg-white text-center border-radius-8px p-15 box-shadow-extra-large box-shadow-extra-large-hover">
+<div class="feature-box-icon mb-20px">
+<img src="././files/demo-logistics-about-icon-05.webp" alt="" data-no-retina="">
+</div>
+<div class="feature-box-content last-paragraph-no-margin">
+<span class="fs-20 fw-600 d-inline-block text-dark-gray mb-5px">Laboratory Design</span>
+<p class="mx-auto lg-w-80 md-w-100">By knowing your requirements, we can assist you in choosing the right equipment and provide Specific solutions that fit your needs.</p>
+</div>
+</div>
+</div>
+
+
+<div class="col icon-with-text-style-04 transition-inner-all xs-mb-30px">
+<div class="feature-box bg-white text-center border-radius-8px p-15 box-shadow-extra-large box-shadow-extra-large-hover">
+<div class="feature-box-icon mb-20px">
+<img src="././files/demo-logistics-about-icon-06.webp" alt="" data-no-retina="">
+</div>
+<div class="feature-box-content last-paragraph-no-margin">
+<span class="fs-20 fw-600 d-inline-block text-dark-gray mb-5px">Sample Preparation</span>
+<p class="mx-auto lg-w-80 md-w-100">Standard and automated sample preparation equipment.</p>
+</div>
+</div>
+</div>
+
+
+<div class="col icon-with-text-style-04 transition-inner-all">
+<div class="feature-box bg-white text-center border-radius-8px p-15 box-shadow-extra-large box-shadow-extra-large-hover">
+<div class="feature-box-icon mb-20px">
+<img src="././files/demo-logistics-about-icon-07.webp" alt="" data-no-retina="">
+</div>
+<div class="feature-box-content last-paragraph-no-margin">
+<span class="fs-20 fw-600 d-inline-block text-dark-gray mb-5px">Reference Materials</span>
+<p class="mx-auto lg-w-80 md-w-100">Complete array of reference material suitable for your exploration, drilling programs and laboratory control.</p>
+</div>
+</div>
+</div>
+
+</div>
+<div class="row justify-content-center align-items-center md-m-0 overflow-hidden">
+<div class="col-lg-1 p-0">
+<div class="divider-style-03 divider-style-03-03 border-color-base-color w-70 md-w-100 float-end md-mb-15px"></div>
+</div>
+<div class="col-xxl-8 col-xl-9 col-lg-10 position-relative text-center">
+<h6 class="alt-font text-dark-gray fw-500 mb-5px fancy-text-style-4">Committed to providing solutions for <span class="fw-700" data-fancy-text="{ &quot;effect&quot;: &quot;rotate&quot;, &quot;string&quot;: [&quot;air freight&quot;, &quot;road freight&quot;, &quot;ocean freight&quot;] }"></span></h6>
+</div>
+<div class="col-lg-1 p-0">
+<div class="divider-style-03 divider-style-03-03 border-color-base-color w-70 md-w-100 md-mt-15px"></div>
+</div>
+</div>
+</div>
+</section>
+
+
+<section class="position-relative overflow-hidden overlap-height pb-0">
+<img src="././files/demo-logistics-about-04.webp" class="position-absolute left-150px top-50px z-index-minus-1 skrollable skrollable-before" alt="" data-bottom-top="transform: translate3d(80px, 0px, 0px);" data-top-bottom="transform: translate3d(-380px, 0px, 0px);" style="transform: translate3d(80px, 0px, 0px);" data-no-retina="">
+<img src="././files/demo-logistics-about-03.png" class="position-absolute right-100px top-50px z-index-minus-1 skrollable skrollable-before" alt="" data-bottom-top="transform:scale(1.4, 1.4) translate3d(0px, 0px, 0px);" data-top-bottom="transform:scale(1, 1) translate3d(-300px, 0px, 0px);" style="transform: scale(1.4, 1.4) translate3d(0px, 0px, 0px);" data-no-retina="">
+<div class="container overlap-gap-section">
+<div class="row align-items-center justify-content-lg-start justify-content-center text-lg-start text-center">
+<div class="col-lg-6 col-md-10 md-mb-50px">
+<figure class="position-relative m-0 md-w-95 xs-w-90">
+<img src="././files/demo-logistics-about-img-02.jpg" class="w-90 border-radius-8px" alt="" data-no-retina="">
+<figcaption class="position-absolute bg-dark-gray border-radius-10px box-shadow-quadruple-large bottom-100px xs-bottom-minus-10px right-minus-30px w-240px xs-w-200px text-center last-paragraph-no-margin animation-float">
+<div class="bg-white pt-35px pb-35px xs-p-20px border-radius-8px mb-10px">
+<h2 class="fw-700 ls-minus-2px text-dark-gray mb-0">4.9</h2>
+<div class="text-golden-yellow fs-18 ls-2px mb-5px">
+<i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i>
+</div>
+<span class="text-dark-gray d-block fw-600 ls-minus-05px">3488 Reviews</span>
+<div class="d-inline-block fs-11 text-uppercase bg-jungle-green ps-20px pe-20px lh-30 fw-600 text-white border-radius-100px box-shadow-large">Excellent score</div>
+</div>
+<img src="././files/demo-real-estate-trustpilot.svg" class="h-30px mb-15px" alt="" data-no-retina="">
+</figcaption>
+</figure>
+</div>
+<div class="col-lg-5 col-md-10 offset-lg-1" data-anime="{ &quot;translateY&quot;: [0, 0], &quot;opacity&quot;: [0,1], &quot;duration&quot;: 1200, &quot;delay&quot;: 0, &quot;staggervalue&quot;: 150, &quot;easing&quot;: &quot;easeOutQuad&quot; }">
+<span class="fs-16 lh-22 fw-700 mb-15px d-inline-block text-uppercase text-dark-gray border-bottom border-2 border-color-base-color">A few good reasons</span>
+<h2 class="fw-700 text-dark-gray ls-minus-1px">Here is what our clients have to say.</h2>
+<div class="swiper position-relative swiper-fade swiper-initialized swiper-horizontal swiper-autoheight swiper-watch-progress swiper-backface-hidden" data-slider-options="{ &quot;autoHeight&quot;: true, &quot;loop&quot;: true, &quot;allowTouchMove&quot;: true, &quot;autoplay&quot;: { &quot;delay&quot;: 4000, &quot;disableOnInteraction&quot;: false }, &quot;navigation&quot;: { &quot;nextEl&quot;: &quot;.swiper-button-next&quot;, &quot;prevEl&quot;: &quot;.swiper-button-prev&quot; }, &quot;effect&quot;: &quot;fade&quot; }">
+<div class="swiper-wrapper mb-40px" style="height: 245px; transition-duration: 0ms; transition-delay: 0ms;" id="swiper-wrapper-fd75dc4ebc340cff" aria-live="off">
+
+
+
+
+
+
+
+
+
+<div class="swiper-slide review-style-08 swiper-slide-next" style="width: 478px; opacity: 1; transform: translate3d(0px, 0px, 0px); transition-duration: 0ms;" role="group" aria-label="2 / 3" data-swiper-slide-index="1">
+<p class="w-80 lg-w-100">I've purchased several themes over the years and this theme, by far is absolutely amazing. It's built extremely well the back end was well thought out the design options are endless.</p>
+<div class="mt-20px">
+<img class="w-110px me-15px" src="././files/demo-corporate-testimonials-02.png" alt="" data-no-retina="">
+<div class="d-inline-block align-middle text-start">
+<div class="text-dark-gray fw-600 fs-20">Shoko mugikura</div>
+<div class="review-star-icon fs-18">
+<i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i>
+</div>
+</div>
+</div>
+</div><div class="swiper-slide review-style-08 swiper-slide-prev" role="group" aria-label="3 / 3" style="width: 478px; opacity: 1; transform: translate3d(-478px, 0px, 0px); transition-duration: 0ms;" data-swiper-slide-index="2">
+<p class="w-80 lg-w-100">The theme is very valid and offers many possibilities of customization to adapt it to your needs, but the thing I got the most out of it was the relationship with the support team.</p>
+<div class="mt-20px">
+<img class="w-110px me-15px" src="././files/demo-corporate-testimonials-03.webp" alt="" data-no-retina="">
+<div class="d-inline-block align-middle text-start">
+<div class="text-dark-gray fw-600 fs-20">Leonel mooney</div>
+<div class="review-star-icon fs-18">
+<i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i>
+</div>
+</div>
+</div>
+</div><div class="swiper-slide review-style-08 swiper-slide-visible swiper-slide-fully-visible swiper-slide-active" style="width: 478px; opacity: 1; transform: translate3d(-956px, 0px, 0px); transition-duration: 0ms;" role="group" aria-label="1 / 3" data-swiper-slide-index="0">
+<p class="w-80 lg-w-100">Love the theme, really neat and super easy to use. But the customer support is what makes this an even greater theme! ThemeZaa solved all the problems. I had with my custom settings.</p>
+<div class="mt-20px">
+<img class="w-110px me-15px" src="././files/demo-corporate-testimonials-01.webp" alt="" data-no-retina="">
+<div class="d-inline-block align-middle text-start">
+<div class="text-dark-gray fw-600 fs-20">Alexander harvard</div>
+<div class="review-star-icon fs-18">
+<i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i>
+</div>
+</div>
+</div>
+</div></div>
+<div class="d-flex justify-content-lg-start justify-content-center">
+
+<div class="slider-one-slide-prev-1 swiper-button-prev slider-navigation-style-04 border border-color-extra-medium-gray" tabindex="0" role="button" aria-label="Previous slide" aria-controls="swiper-wrapper-fd75dc4ebc340cff"><i class="fa-solid fa-arrow-left text-dark-gray icon-small"></i></div>
+<div class="slider-one-slide-next-1 swiper-button-next slider-navigation-style-04 border border-color-extra-medium-gray" tabindex="0" role="button" aria-label="Next slide" aria-controls="swiper-wrapper-fd75dc4ebc340cff"><i class="fa-solid fa-arrow-right text-dark-gray icon-small"></i></div>
+
+</div>
+<span class="swiper-notification" aria-live="assertive" aria-atomic="true"></span></div>
+</div>
+</div>
+</div>
+</section>
+
+
+<section>
+<div class="container">
+<div class="row row-cols-1 row-cols-lg-5 row-cols-md-3 clients-style-04 justify-content-center" data-anime="{&quot;opacity&quot;: [0,1], &quot;duration&quot;: 400, &quot;delay&quot;: 300, &quot;staggervalue&quot;: 300, &quot;easing&quot;: &quot;easeOutQuad&quot; }">
+
+<div class="col text-center transition-inner-all lg-mb-30px">
+<div class="client-box">
+<a href="https://craftohtml.themezaa.com/demo-logistics-about-us.html#"><img src="././files/demo-logistics-client-01.svg" alt="" data-no-retina=""></a>
+</div>
+</div>
+
+
+<div class="col text-center transition-inner-all lg-mb-30px">
+<div class="client-box">
+<a href="https://craftohtml.themezaa.com/demo-logistics-about-us.html#"><img src="././files/demo-logistics-client-02.svg" alt="" data-no-retina=""></a>
+</div>
+</div>
+
+
+<div class="col text-center transition-inner-all lg-mb-30px">
+<div class="client-box">
+<a href="https://craftohtml.themezaa.com/demo-logistics-about-us.html#"><img src="././files/demo-logistics-client-03.svg" alt="" data-no-retina=""></a>
+</div>
+</div>
+
+
+<div class="col text-center transition-inner-all sm-mb-30px">
+<div class="client-box">
+<a href="https://craftohtml.themezaa.com/demo-logistics-about-us.html#"><img src="././files/demo-logistics-client-04.svg" alt="" data-no-retina=""></a>
+</div>
+</div>
+
+
+<div class="col text-center transition-inner-all">
+<div class="client-box">
+<a href="https://craftohtml.themezaa.com/demo-logistics-about-us.html#"><img src="././files/demo-logistics-client-05.svg" alt="" data-no-retina=""></a>
+</div>
+</div>
+
+</div>
+</div>
+</section>
 {% endblock %}
