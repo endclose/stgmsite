@@ -16,6 +16,13 @@ about-us:
     pt: /pt/nos-conoce
   controller: App\Controller\SiteController::about
 
+quality-policy:
+  path:
+    en: /quality-policy
+    es: /es/politica-calidad
+    pt: /pt/calidad
+  controller: App\Controller\SiteController::quality
+
 contact-us:
   path:
     en: /contact-us

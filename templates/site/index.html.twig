@@ -1,4 +1,5 @@
 {% extends "base.html.twig" %}
+{% block title %}{% trans %} Home {% endtrans %} | STG Mining Supplies{% endblock %}
 {% block content %}
 <section class="p-0 top-space-margin full-screen md-h-600px sm-h-650px" style="margin-top: 135px; height: 810px;">
 <div class="swiper h-100 magic-cursor swiper-light-pagination swiper-initialized swiper-horizontal swiper-backface-hidden" data-slider-options="{ &quot;slidesPerView&quot;: 1, &quot;loop&quot;: true, &quot;pagination&quot;: { &quot;el&quot;: &quot;.swiper-pagination-bullets&quot;, &quot;clickable&quot;: true }, &quot;navigation&quot;: { &quot;nextEl&quot;: &quot;.slider-one-slide-next-1&quot;, &quot;prevEl&quot;: &quot;.slider-one-slide-prev-1&quot; }, &quot;autoplay&quot;: { &quot;delay&quot;: 4000, &quot;disableOnInteraction&quot;: false },  &quot;keyboard&quot;: { &quot;enabled&quot;: true, &quot;onlyInViewport&quot;: true }, &quot;effect&quot;: &quot;slide&quot; }">
@@ -106,15 +107,15 @@
 <img src="/images/mining_home_01.png" class="w-100 skrollable skrollable-before" data-bottom-top="transform: translateY(-50px)" data-top-bottom="transform: translateY(50px)" alt="" style="transform: translateY(-50px);" data-no-retina="">
 </div>
 <div class="col-xl-5 col-lg-6 col-md-10 offset-xl-1 appear anime-child anime-complete" data-anime="{ &quot;el&quot;: &quot;childs&quot;, &quot;translateY&quot;: [30, 0], &quot;opacity&quot;: [0,1], &quot;duration&quot;: 600, &quot;delay&quot;: 0, &quot;staggervalue&quot;: 300, &quot;easing&quot;: &quot;easeOutQuad&quot; }">
-<h2 class="fw-700 ls-minus-1px text-dark-gray mb-20px" style="">New Technologies for the Mining Industry</h2>
-<p class="w-90 lg-w-100" style="">We work closely with your technical team to provide preventive maintenance while promoting factory recommended parts. By knowing your requirements, we can assist you in choosing the right equipment and provide specific solutions that fit your needs.</p>
+<h2 class="fw-700 ls-minus-1px text-dark-gray mb-20px" style="">{% trans %}New Technologies for the Mining Industry{% endtrans %}</h2>
+<p class="w-90 lg-w-100" style="">{% trans %}We work closely with your technical team to provide preventive maintenance while promoting factory recommended parts. By knowing your requirements, we can assist you in choosing the right equipment and provide specific solutions that fit your needs.{% endtrans %}</p>
 <div class="icon-with-text-style-08 mb-10px" style="">
 <div class="feature-box feature-box-left-icon-middle overflow-hidden">
 <div class="feature-box-icon feature-box-icon-rounded w-40px h-40px bg-light-medium-gray rounded-circle me-15px">
 <i class="fa-solid fa-check fs-14 text-dark-gray"></i>
 </div>
 <div class="feature-box-content">
-<span class="text-dark-gray fw-500">Laboratory Equipment Maintenance.</span>
+<span class="text-dark-gray fw-500">{% trans %}Laboratory Equipment Maintenance.{% endtrans %}</span>
 </div>
 </div>
 </div>
@@ -124,14 +125,14 @@
 <i class="fa-solid fa-check fs-14 text-dark-gray"></i>
 </div>
 <div class="feature-box-content">
-<span class="text-dark-gray fw-500">Technical Support.</span>
+<span class="text-dark-gray fw-500">{% trans %}Technical Support.{% endtrans %}</span>
 </div>
 </div>
 </div>
 <div class="mt-35px d-flex flex-wrap" style="">
 <a href="https://craftohtml.themezaa.com/demo-logistics-our-services.html" class="btn btn-large btn-dark-gray btn-hover-animation-switch btn-round-edge btn-box-shadow btn-icon-right me-30px">
 <span>
-<span class="btn-text">Our products</span>
+<span class="btn-text">{% trans %}Our products{% endtrans %}</span>
 <span class="btn-icon"><i class="feather icon-feather-arrow-right"></i></span>
 <span class="btn-icon"><i class="feather icon-feather-arrow-right"></i></span>
 </span>
@@ -204,8 +205,8 @@
 <div class="container">
 <div class="row justify-content-center mb-3 xs-mb-2">
 <div class="col-lg-7 text-center appear anime-child anime-complete" data-anime="{ &quot;el&quot;: &quot;childs&quot;, &quot;opacity&quot;: [0, 1], &quot;translateY&quot;: [0, 0], &quot;staggervalue&quot;: 200, &quot;easing&quot;: &quot;easeInOutSine&quot; }">
-<span class="fs-16 lh-22 fw-700 mb-10px d-inline-block text-uppercase text-dark-gray border-bottom border-2 border-color-base-color" style="">Professional services</span>
-<h2 class="text-dark-gray fw-700 mb-0 ls-minus-1px" style="">Products and Services</h2>
+<span class="fs-16 lh-22 fw-700 mb-10px d-inline-block text-uppercase text-dark-gray border-bottom border-2 border-color-base-color" style="">{% trans %}Professional services{% endtrans %}</span>
+<h2 class="text-dark-gray fw-700 mb-0 ls-minus-1px" style="">{% trans %}Products and Services{% endtrans %}</h2>
 </div>
 </div>
 <div class="row">
@@ -221,9 +222,9 @@
 <i><img src="/images/fuego.png" style = "height: 50px;width: 50px;"></i>
 </div>
 <div class="services-box-content">
-<a href="https://craftohtml.themezaa.com/demo-logistics-our-services.html" class="d-inline-block text-dark-gray fs-22 fw-700 mb-5px">Fire Assay</a>
-<p class="mb-15px">Full range of fire assay furnaces, multi-load/ multi-pour systems with related consumables.<br><br><br></p>
-<a href="https://craftohtml.themezaa.com/demo-logistics-our-services.html" class="btn btn-extra-large thin btn-link text-dark-gray p-0">Learn more</a>
+<a href="https://craftohtml.themezaa.com/demo-logistics-our-services.html" class="d-inline-block text-dark-gray fs-22 fw-700 mb-5px">{% trans %}Fire Assay{% endtrans %}</a>
+<p class="mb-15px">{% trans %}Full range of fire assay furnaces, multi-load/ multi-pour systems with related consumables.{% endtrans %}<br><br><br></p>
+<a href="https://craftohtml.themezaa.com/demo-logistics-our-services.html" class="btn btn-extra-large thin btn-link text-dark-gray p-0">{% trans %}Learn more{% endtrans %}</a>
 </div>
 </div>
 <div class="col-sm-6 services-box-img xs-h-300px">
@@ -240,9 +241,9 @@
 <i><img src="/images/design.png" style = "height: 50px;width: 50px;"></i>
 </div>
 <div class="services-box-content">
-<a href="https://craftohtml.themezaa.com/demo-logistics-our-services.html" class="d-inline-block text-dark-gray fs-22 fw-700 mb-5px">Laboratory Design</a>
-<p class="mb-15px">By knowing your requirements, we can assist you in choosing the right equipment and provide Specific solutions that fit your needs.</p>
-<a href="https://craftohtml.themezaa.com/demo-logistics-our-services.html" class="btn btn-extra-large thin btn-link text-dark-gray p-0">Learn more</a>
+<a href="https://craftohtml.themezaa.com/demo-logistics-our-services.html" class="d-inline-block text-dark-gray fs-22 fw-700 mb-5px">{% trans %}Laboratory Design{% endtrans %}</a>
+<p class="mb-15px">{% trans %}By knowing your requirements, we can assist you in choosing the right equipment and provide Specific solutions that fit your needs.{% endtrans %}</p>
+<a href="https://craftohtml.themezaa.com/demo-logistics-our-services.html" class="btn btn-extra-large thin btn-link text-dark-gray p-0">{% trans %}Learn more{% endtrans %}</a>
 </div>
 </div>
 <div class="col-sm-6 services-box-img xs-h-300px">
@@ -259,9 +260,9 @@
 <i><img src="/images/tubo.png" style = "height: 50px;width: 50px;"></i>
 </div>
 <div class="services-box-content">
-<a href="https://craftohtml.themezaa.com/demo-logistics-our-services.html" class="d-inline-block text-dark-gray fs-22 fw-700 mb-5px">Sample Preparation</a>
-<p class="mb-15px">Standard and automated sample preparation equipment.<br><br><br><br></p>
-<a href="https://craftohtml.themezaa.com/demo-logistics-our-services.html" class="btn btn-extra-large thin btn-link text-dark-gray p-0">Learn more</a>
+<a href="https://craftohtml.themezaa.com/demo-logistics-our-services.html" class="d-inline-block text-dark-gray fs-22 fw-700 mb-5px">{% trans %}Sample Preparation{% endtrans %}</a>
+<p class="mb-15px">{% trans %}Standard and automated sample preparation equipment.{% endtrans %}<br><br><br><br></p>
+<a href="https://craftohtml.themezaa.com/demo-logistics-our-services.html" class="btn btn-extra-large thin btn-link text-dark-gray p-0">{% trans %}Learn more{% endtrans %}</a>
 </div>
 </div>
 <div class="col-sm-6 services-box-img xs-h-300px">
@@ -278,9 +279,9 @@
 <i><img src="/images/jar.png" style = "height: 50px;width: 50px;"></i>
 </div>
 <div class="services-box-content">
-<a href="https://craftohtml.themezaa.com/demo-logistics-our-services.html" class="d-inline-block text-dark-gray fs-22 fw-700 mb-5px">Reference Materials</a>
-<p class="mb-15px">Complete array of reference material suitable for your exploration, drilling programs and laboratory control.</p>
-<a href="https://craftohtml.themezaa.com/demo-logistics-our-services.html" class="btn btn-extra-large thin btn-link text-dark-gray p-0">Learn more</a>
+<a href="https://craftohtml.themezaa.com/demo-logistics-our-services.html" class="d-inline-block text-dark-gray fs-22 fw-700 mb-5px">{% trans %}Reference Materials{% endtrans %}</a>
+<p class="mb-15px">{% trans %}Complete array of reference material suitable for your exploration, drilling programs and laboratory control.{% endtrans %}</p>
+<a href="https://craftohtml.themezaa.com/demo-logistics-our-services.html" class="btn btn-extra-large thin btn-link text-dark-gray p-0">{% trans %}Learn more{% endtrans %}</a>
 </div>
 </div>
 <div class="col-sm-6 services-box-img xs-h-300px">
@@ -302,7 +303,7 @@
 <div class="col-auto d-flex align-items-center appear anime-complete" data-anime="{ &quot;translateY&quot;: [0, 0], &quot;opacity&quot;: [0,1], &quot;duration&quot;: 1200, &quot;delay&quot;: 0, &quot;staggervalue&quot;: 150, &quot;easing&quot;: &quot;easeOutQuad&quot; }" style="">
 <img src="/images/demo-data-analysis-08.png" alt="" class="xs-w-120px" data-no-retina="">
 <div class="fs-22 last-paragraph-no-margin fw-500 text-dark-gray pt-15px pb-15px">
-<p>Save your precious time and effort spent for finding a solution. <a href="#" class="text-decoration-line-bottom fw-700 text-dark-gray">Contact us now</a></p>
+<p>{% trans %}Save your precious time and effort spent for finding a solution.{% endtrans %}<a href="#" class="text-decoration-line-bottom fw-700 text-dark-gray">Contact us now</a></p>
 </div>
 </div>
 </div>
@@ -313,7 +314,7 @@
 <div class="container">
 <div class="row align-items-center mb-8 sm-mb-50px justify-content-md-center">
 <div class="col-xl-5 col-lg-6 col-md-12 md-mb-50px appear anime-child anime-complete" data-anime="{ &quot;el&quot;: &quot;childs&quot;, &quot;translateY&quot;: [50, 0], &quot;opacity&quot;: [0,1], &quot;duration&quot;: 1200, &quot;delay&quot;: 0, &quot;staggervalue&quot;: 150, &quot;easing&quot;: &quot;easeOutQuad&quot; }">
-<span class="fs-16 lh-22 fw-700 mb-10px d-inline-block text-uppercase text-dark-gray border-bottom border-2 border-color-base-color" style="">Why choose us?</span>
+<span class="fs-16 lh-22 fw-700 mb-10px d-inline-block text-uppercase text-dark-gray border-bottom border-2 border-color-base-color" style="">{% trans %}Why choose us?{% endtrans %}</span>
 <h2 class="text-dark-gray fw-700 mb-20px ls-minus-1px" style="">Powerful features of warehouse.</h2>
 <div class="row justify-content-center mb-25px" style="">
 <div class="col-12">
@@ -330,7 +331,7 @@
 </div>
 <div id="accordion-style-02-01" class="accordion-collapse collapse show" data-bs-parent="#accordion-style-02">
 <div class="accordion-body last-paragraph-no-margin border-bottom sm-pe-0">
-<p>Somos proveedores de la linea más completa de reactivos químicos, suministros y equipos de laboratorio para la minería, medio ambiente, industria e investigación.</p>
+<p>{% trans %}We are suppliers of the most complete line of chemical reagents, supplies and laboratory equipment for mining, environment, industry and research.{% endtrans %}</p>
 </div>
 </div>
 </div>

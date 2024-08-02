@@ -18,10 +18,10 @@ class SiteController extends AbstractController
      * 
      */
     
-    public function esindex(): Response
+    /*public function esindex(): Response
     {
         return $this->render('site/es/');
-    }
+    }*/
 
 
     /**
@@ -83,6 +83,11 @@ class SiteController extends AbstractController
     public function about(): Response
     {
         return $this->render('site/about-us.html.twig');
+    }
+
+    public function quality(): Response
+    {
+        return $this->render('site/quality-policy.html.twig');
     }
 
     /**
@@ -293,7 +298,4 @@ class SiteController extends AbstractController
     {
         return $this->render('site/metallurgical.html.twig');
     }
-
-
-
 }
