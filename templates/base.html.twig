@@ -10,12 +10,9 @@
 <meta name="description" content="Elevate your online presence with Crafto - a modern, versatile, multipurpose Bootstrap 5 responsive HTML5, SCSS template using highly creative 52+ ready demos.">
 
 <link rel="shortcut icon" href="/images/ico.png">
-<link rel="apple-touch-icon" href="https://craftohtml.themezaa.com/images/apple-touch-icon-57x57.png">
-<link rel="apple-touch-icon" sizes="72x72" href="https://craftohtml.themezaa.com/images/apple-touch-icon-72x72.png">
-<link rel="apple-touch-icon" sizes="114x114" href="https://craftohtml.themezaa.com/images/apple-touch-icon-114x114.png">
 
-<link rel="preconnect" href="https://fonts.googleapis.com/" crossorigin="">
-<link rel="preconnect" href="https://fonts.gstatic.com/" crossorigin="">
+<!--<link rel="preconnect" href="https://fonts.googleapis.com/" crossorigin="">
+<link rel="preconnect" href="https://fonts.gstatic.com/" crossorigin="">-->
 
 <link rel="stylesheet" href="/files/vendors.min.css">
 <link rel="stylesheet" href="/files/icon.min.css">
@@ -72,8 +69,9 @@
 <li><a href="#"><i><img src="/images/jar.png" style = "height: 30px;width: 30px;"></i>{% trans %} Reference Materials {% endtrans %}</a></li>
 </ul>
 </li>
-<li class="nav-item"><a href="#" class="nav-link">{% trans %} Partners {% endtrans %}</a></li>
+<li class="nav-item"><a href="{{ path('partners') }}" class="nav-link">{% trans %} Partners {% endtrans %}</a></li>
 <li class="nav-item"><a href="{{ path('services') }}" class="nav-link">{% trans %} Services {% endtrans %}</a></li>
+<li class="nav-item"><a href="{{ path('contact-us') }}" class="nav-link">{% trans %} Contact Us {% endtrans %}</a></li>
 </ul>
 </div>
 </div>
@@ -132,7 +130,7 @@
 
 <div class="col-xl-3 col-lg-4 col-md-5 col-sm-6 md-mb-30px">
 <a href="https://craftohtml.themezaa.com/demo-logistics.html" class="footer-logo mb-20px d-inline-block">
-<img src="/images/stg_logo_t.png" data-at2x="images/demo-logistics-logo-white.png" alt="">
+<img src="/images/stg_logo_t.png" data-at2x="/images/stg_logo_t.png" alt="">
 </a>
 </div>
 
@@ -162,9 +160,9 @@
 </a>
 </div>
 
-<script type="text/javascript" src="/files/jquery.js.descarga"></script>
-<script type="text/javascript" src="/files/vendors.min.js.descarga"></script>
-<script type="text/javascript" src="/files/main.js.descarga"></script><div class="magic-cursor-wrapper" style="opacity: 1;"><div id="ball-cursor" style="translate: none; rotate: none; scale: none; opacity: 1; border-width: 2px; transform: translate(-50%, -50%) translate3d(786px, 932px, 0px); border-color: transparent;"><div id="ball-cursor-loader" style="left: 0px; top: 0px; border-width: 2px;"></div></div></div><div class="theme-demos" style="display: block;"><div class="demo-button-wrapper"><div class="buy-theme"><a href="https://1.envato.market/R53mL2" target="_blank"><div class="theme-wrapper"><div><svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 22.284 25.436"><path d="M19.314,9.285c-.745-.414-2.882-.158-5.449.637-4.492,3.07-8.283,7.594-8.547,14.858-.048.174-.491-.024-.579-.077a10.346,10.346,0,0,1-.681-8.3c.189-.314-.428-.7-.539-.591a12.683,12.683,0,0,0-1.765,2.278,11.061,11.061,0,0,0,19.33,10.759c3.438-6.161.246-18.432-1.77-19.558Z" transform="translate(-0.32 -9.089)" fill="#fff"></path></svg></div></div></a></div><div class="all-demo"><a href="https://craftohtml.themezaa.com/demo-logistics.html#"><div class="theme-wrapper"><div>52+ Pre-built sites</div></div></a></div></div><span class="close-popup fs-22 text-dark-gray w-40px h-40px d-flex justify-content-center align-items-center"><i class="fa-solid fa-xmark"></i></span></div>
+<script type="text/javascript" src="/files/jquery.js"></script>
+<script type="text/javascript" src="/files/vendors.min.js"></script>
+<script type="text/javascript" src="/files/main.js"></script>
 
 </body>
 </html>
