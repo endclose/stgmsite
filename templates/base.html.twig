@@ -64,9 +64,9 @@
 <li class="nav-item dropdown dropdown-with-icon-style02"><a href="products" class="nav-link">{% trans %} Products {% endtrans %}</a>
 <i class="fa-solid fa-angle-down dropdown-toggle" id="navbarDropdownMenuLink" role="button" data-bs-toggle="dropdown" aria-expanded="false"></i>
 <ul class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
-<li><a href="#"><i><img src="/images/tubo.png" style = "height: 30px;width: 30px;"></i>{% trans %} Sample Preparation {% endtrans %}</a></li>
-<li><a href="#"><i><img src="/images/fuego.png" style = "height: 30px;width: 30px;"></i>{% trans %} Fire Assay Products {% endtrans %}</a></li>
-<li><a href="#"><i><img src="/images/jar.png" style = "height: 30px;width: 30px;"></i>{% trans %} Reference Materials {% endtrans %}</a></li>
+<li><a href="{{ path('sample-prep') }}"><i><img src="/images/tubo.png" style = "height: 30px;width: 30px;"></i>{% trans %} Sample Preparation {% endtrans %}</a></li>
+<li><a href="{{ path('fire-assay') }}"><i><img src="/images/fuego.png" style = "height: 30px;width: 30px;"></i>{% trans %} Fire Assay Products {% endtrans %}</a></li>
+<li><a href="{{ path('reference-materials') }}"><i><img src="/images/jar.png" style = "height: 30px;width: 30px;"></i>{% trans %} Reference Materials {% endtrans %}</a></li>
 </ul>
 </li>
 <li class="nav-item"><a href="{{ path('partners') }}" class="nav-link">{% trans %} Partners {% endtrans %}</a></li>
